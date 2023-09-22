@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_areas/nexus-agent-backend/django contains.md",
+                "file": "04_dev_resources/django/select_related.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 200
   },
   "right": {
     "id": "05070b95a1b4f95e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_areas/nexus-agent-backend/django contains.md",
+                "file": "04_dev_resources/django/select_related.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_areas/nexus-agent-backend/django contains.md",
+                "file": "04_dev_resources/django/select_related.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_areas/nexus-agent-backend/django contains.md"
+                "file": "04_dev_resources/django/select_related.md"
               }
             }
           },
@@ -188,9 +188,14 @@
   },
   "active": "64e1431db264abcb",
   "lastOpenFiles": [
-    "03_areas/nexus-agent-backend/drf에서 is_authenticated를 사용하는 것이 옳은 것일까.md",
+    "04_dev_resources/django/_Index_of_django.md",
+    "04_dev_resources/aws/aws waf란.md",
+    "04_dev_resources/django/select_related.md",
+    "04_dev_resources/django",
+    "04_dev_resources/command/aws command.md",
     "04_dev_resources/python/print대신 logger를 사용하는 이유.md",
     "03_areas/nexus-agent-backend/django contains.md",
+    "03_areas/nexus-agent-backend/drf에서 is_authenticated를 사용하는 것이 옳은 것일까.md",
     "04_dev_resources/python/_Index_of_python.md",
     "03_areas/nexus-agent-backend/dictionary의 value가  None일 때에도 에러없이 if가 작동한다..md",
     "04_dev_resources/python",
@@ -207,7 +212,6 @@
     "04_dev_resources/dev_knowledge",
     "04_dev_resources/development_knowledge/test.md",
     "04_dev_resources/_Index_of_04_dev_resources.md",
-    "04_dev_resources/aws/aws waf란.md",
     "04_dev_resources/development_knowledge",
     "04_dev_resources/development_knowledge/development_knowledge",
     "04_dev_resources/aws/_Index_of_aws.md",
@@ -216,14 +220,10 @@
     "03_areas/nexus-agent-backend/test owner credentials.md",
     "03_areas/nexus-agent-backend/owner_decoder.md",
     "03_areas/nexus-agent-backend/owner delete method.md",
-    "03_areas/nexus-agent-backend/offer를 생성해 보았다..md",
-    "03_areas/nexus-agent-backend/django logging propagate.md",
-    "03_areas/nexus-agent-backend/django models through란.md",
     "03_areas/nexus-agent-front",
     "03_areas/nexus-agent-infra",
     "05_resources_x/english words",
     "00_inbox/무제 폴더",
-    "03_areas/nexus-agent-backend",
     "무제 파일.canvas"
   ]
 }
