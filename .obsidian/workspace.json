@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "f7cf2da8b0265989",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9c74b31a8421d36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64e1431db264abcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_areas/nexus-agent-backend/django contains.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef018b06158c1019",
+    "type": "split",
+    "children": [
+      {
+        "id": "3445337ccc277109",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e3d8f5f6eb26215",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "932d56143ed957dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d1049c682952892",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "right": {
+    "id": "05070b95a1b4f95e",
+    "type": "split",
+    "children": [
+      {
+        "id": "10783cf5a97988b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f6ec07aff424bf3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03_areas/nexus-agent-backend/django contains.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b212fbc39d23650",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03_areas/nexus-agent-backend/django contains.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66886f49f4cfdafa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f944a5944d840fe3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2e16f731a0bb49e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03_areas/nexus-agent-backend/django contains.md"
+              }
+            }
+          },
+          {
+            "id": "086db7d3d9294bde",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3eb6e1d0a1327fe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "54f5fd2b22c5c504",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "d4868df05936c1d8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:그래프 뷰 열기": false,
+      "switcher:퀵 스위처 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "64e1431db264abcb",
+  "lastOpenFiles": [
+    "03_areas/nexus-agent-backend/drf에서 is_authenticated를 사용하는 것이 옳은 것일까.md",
+    "04_dev_resources/python/print대신 logger를 사용하는 이유.md",
+    "03_areas/nexus-agent-backend/django contains.md",
+    "04_dev_resources/python/_Index_of_python.md",
+    "03_areas/nexus-agent-backend/dictionary의 value가  None일 때에도 에러없이 if가 작동한다..md",
+    "04_dev_resources/python",
+    "04_dev_resources/무제 파일.md",
+    "03_areas/nexus-agent-backend/settings.py의 로그 설정.md",
+    "03_areas/nexus-agent-backend/choices를 사용하는 이유.md",
+    "03_areas/nexus-agent-backend/홋타상 리뷰 230922.md",
+    "00_inbox/전체상을 먼저 파악해야한다..md",
+    "03_areas/nexus-agent-infra/infra.md",
+    "03_areas/nexus-agent-infra/dante socks proxy port.md",
+    "python iterator.md",
+    "03_areas/nexus-agent-backend/django iterator().md",
+    "04_dev_resources/development_knowledge/_Index_of_development_knowledge.md",
+    "04_dev_resources/dev_knowledge",
+    "04_dev_resources/development_knowledge/test.md",
+    "04_dev_resources/_Index_of_04_dev_resources.md",
+    "04_dev_resources/aws/aws waf란.md",
+    "04_dev_resources/development_knowledge",
+    "04_dev_resources/development_knowledge/development_knowledge",
+    "04_dev_resources/aws/_Index_of_aws.md",
+    "04_dev_resources/aws",
+    "03_areas/nexus-agent-backend/verbose name.md",
+    "03_areas/nexus-agent-backend/test owner credentials.md",
+    "03_areas/nexus-agent-backend/owner_decoder.md",
+    "03_areas/nexus-agent-backend/owner delete method.md",
+    "03_areas/nexus-agent-backend/offer를 생성해 보았다..md",
+    "03_areas/nexus-agent-backend/django logging propagate.md",
+    "03_areas/nexus-agent-backend/django models through란.md",
+    "03_areas/nexus-agent-front",
+    "03_areas/nexus-agent-infra",
+    "05_resources_x/english words",
+    "00_inbox/무제 폴더",
+    "03_areas/nexus-agent-backend",
+    "무제 파일.canvas"
+  ]
+}
