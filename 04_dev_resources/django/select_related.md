@@ -27,3 +27,4 @@ SELECT entry.id, entry.some_field, ...,
 
 Reference
 https://docs.djangoproject.com/en/4.2/ref/models/querysets/#select-related
+https://leffept.tistory.com/312
