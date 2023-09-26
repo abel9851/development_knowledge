@@ -1,5 +1,7 @@
 select_related를 사용하면 foreign key, one to one 관계가 있는 객체의 데이터를 prepopulate(미리 채워진, 미리 로드된)한다.
 
+join의 조건을 지정하지 않을 시, id를 on 한다. `ex. LEFT OUTER JOIN entry.id = blog.entry_id`
+
 foreign key 관계에서는 정방향(Entry모델 안에 blog가 foreign key 필드로 정의되어 있다.), one to one관계에서는 역방향(아래의 코드로 설명하면, Entry모델은 blog에 관한 one to one 필드가 정의되어 있지 않고, Blog모델에 정의되어 있다. 이 때 Blog모델의 entry 필드에 related_name=blog라고 작성되어 있어야만 한다.)만 select_related를 사용할 수 있다.
 
 ```python

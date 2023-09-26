@@ -1,7 +1,7 @@
 application load balancer, amazon api gateway api, cloudfront distribution을 향한 web request를
 모니터링할 수 있게 해준다.
 
-내가 정의한 condition으로 위의 resource들을  웹공격(web exploits [[why is mean web exploit to web attack]] )보호할 수 있다.
+내가 정의한 condition으로 위의 resource들을  웹공격(web exploits [[why is mean web exploit to web attack]] )으로부터 보호할 수 있다.
 
 장점으로는,
 1. 웹 공격으로부터 빠르게 protection 가능

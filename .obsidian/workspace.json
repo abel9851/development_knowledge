@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/django/select_related.md",
+                "file": "03_areas/nexus-agent-infra/waf readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc0ca1a3f30d677c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_dev_resources/terraform/aws vpc 공식 모듈.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 251.5
   },
   "right": {
     "id": "05070b95a1b4f95e",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_dev_resources/django/select_related.md",
+                "file": "04_dev_resources/terraform/aws vpc 공식 모듈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_dev_resources/django/select_related.md",
+                "file": "04_dev_resources/terraform/aws vpc 공식 모듈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_dev_resources/django/select_related.md"
+                "file": "04_dev_resources/terraform/aws vpc 공식 모듈.md"
               }
             }
           },
@@ -174,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,44 +199,44 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "64e1431db264abcb",
+  "active": "cc0ca1a3f30d677c",
   "lastOpenFiles": [
-    "04_dev_resources/django/_Index_of_django.md",
+    "04_dev_resources/terraform/keys.md",
+    "04_dev_resources/terraform/aws vpc 공식 모듈.md",
+    "04_dev_resources/terraform/contains.md",
+    "04_dev_resources/terraform/_Index_of_terraform.md",
+    "03_areas/nexus-agent-infra/아키텍처.md",
+    "04_dev_resources/terraform",
+    "03_areas/nexus-agent-infra/waf readme.md",
     "04_dev_resources/aws/aws waf란.md",
-    "04_dev_resources/django/select_related.md",
-    "04_dev_resources/django",
-    "04_dev_resources/command/aws command.md",
+    "04_dev_resources/python/return된 값을 사용하지 않을 때 변수표현.md",
+    "04_dev_resources/python/pop vs del.md",
+    "04_dev_resources/thought/data가 존재하지 않을 때, key를 보내야하는가.md",
+    "04_dev_resources/python/_Index_of_python.md",
+    "04_dev_resources/python/무제 파일.md",
+    "03_areas/nexus-agent-backend/search buildings에서 lon(경도)를 lng로 return하는 문제.md",
+    "03_areas/nexus-agent-backend/django evaluate.md",
+    "03_areas/nexus-agent-backend/verbose name.md",
+    "04_dev_resources/_Index_of_04_dev_resources.md",
     "04_dev_resources/python/print대신 logger를 사용하는 이유.md",
+    "04_dev_resources/thought/_Index_of_thought.md",
+    "03_areas/nexus-agent-backend/agent-api managent api buildings GET VS agent api buildings GET.md",
+    "04_dev_resources/thought",
+    "04_dev_resources/무제 파일.md",
+    "04_dev_resources/django/queryset  field lookup icontains.md",
     "03_areas/nexus-agent-backend/django contains.md",
     "03_areas/nexus-agent-backend/drf에서 is_authenticated를 사용하는 것이 옳은 것일까.md",
-    "04_dev_resources/python/_Index_of_python.md",
-    "03_areas/nexus-agent-backend/dictionary의 value가  None일 때에도 에러없이 if가 작동한다..md",
+    "03_areas/nexus-agent-backend/field lookup ambiconains (field lookup customizing).md",
+    "03_areas/nexus-agent-backend/message thread를 테스트하기 위해서는.md",
+    "03_areas/nexus-agent-backend/management buildings post.md",
+    "04_dev_resources/django",
     "04_dev_resources/python",
-    "04_dev_resources/무제 파일.md",
-    "03_areas/nexus-agent-backend/settings.py의 로그 설정.md",
-    "03_areas/nexus-agent-backend/choices를 사용하는 이유.md",
-    "03_areas/nexus-agent-backend/홋타상 리뷰 230922.md",
-    "00_inbox/전체상을 먼저 파악해야한다..md",
-    "03_areas/nexus-agent-infra/infra.md",
-    "03_areas/nexus-agent-infra/dante socks proxy port.md",
-    "python iterator.md",
-    "03_areas/nexus-agent-backend/django iterator().md",
-    "04_dev_resources/development_knowledge/_Index_of_development_knowledge.md",
     "04_dev_resources/dev_knowledge",
-    "04_dev_resources/development_knowledge/test.md",
-    "04_dev_resources/_Index_of_04_dev_resources.md",
     "04_dev_resources/development_knowledge",
     "04_dev_resources/development_knowledge/development_knowledge",
-    "04_dev_resources/aws/_Index_of_aws.md",
     "04_dev_resources/aws",
-    "03_areas/nexus-agent-backend/verbose name.md",
-    "03_areas/nexus-agent-backend/test owner credentials.md",
-    "03_areas/nexus-agent-backend/owner_decoder.md",
-    "03_areas/nexus-agent-backend/owner delete method.md",
     "03_areas/nexus-agent-front",
     "03_areas/nexus-agent-infra",
-    "05_resources_x/english words",
-    "00_inbox/무제 폴더",
     "무제 파일.canvas"
   ]
 }
