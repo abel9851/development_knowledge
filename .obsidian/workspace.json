@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/terraform/aws vpc 공식 모듈.md",
+                "file": "04_dev_resources/terraform/result type.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_dev_resources/terraform/aws vpc 공식 모듈.md",
+                "file": "04_dev_resources/terraform/result type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_dev_resources/terraform/aws vpc 공식 모듈.md",
+                "file": "04_dev_resources/terraform/result type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_dev_resources/terraform/aws vpc 공식 모듈.md"
+                "file": "04_dev_resources/terraform/result type.md"
               }
             }
           },
@@ -201,8 +201,19 @@
   },
   "active": "cc0ca1a3f30d677c",
   "lastOpenFiles": [
-    "04_dev_resources/terraform/keys.md",
+    "03_areas/nexus-agent-infra/aws quicksight와 vpc.md",
+    "04_dev_resources/terraform/result type.md",
+    "04_dev_resources/aws/VPC peering.md",
+    "04_dev_resources/HTTP/HTTP query string의 value는 파이썬에서 string.md",
+    "04_dev_resources/HTTP/_Index_of_HTTP.md",
+    "04_dev_resources/HTTP",
+    "04_dev_resources/python/_Index_of_python.md",
+    "03_areas/nexus-agent-backend/pytest.md",
+    "Pasted image 20230926100638.png",
+    "00_inbox/cerberus vs drf serializer.md",
+    "00_inbox/2023-09-26.md",
     "04_dev_resources/terraform/aws vpc 공식 모듈.md",
+    "04_dev_resources/terraform/keys.md",
     "04_dev_resources/terraform/contains.md",
     "04_dev_resources/terraform/_Index_of_terraform.md",
     "03_areas/nexus-agent-infra/아키텍처.md",
@@ -212,7 +223,6 @@
     "04_dev_resources/python/return된 값을 사용하지 않을 때 변수표현.md",
     "04_dev_resources/python/pop vs del.md",
     "04_dev_resources/thought/data가 존재하지 않을 때, key를 보내야하는가.md",
-    "04_dev_resources/python/_Index_of_python.md",
     "04_dev_resources/python/무제 파일.md",
     "03_areas/nexus-agent-backend/search buildings에서 lon(경도)를 lng로 return하는 문제.md",
     "03_areas/nexus-agent-backend/django evaluate.md",
@@ -220,15 +230,7 @@
     "04_dev_resources/_Index_of_04_dev_resources.md",
     "04_dev_resources/python/print대신 logger를 사용하는 이유.md",
     "04_dev_resources/thought/_Index_of_thought.md",
-    "03_areas/nexus-agent-backend/agent-api managent api buildings GET VS agent api buildings GET.md",
     "04_dev_resources/thought",
-    "04_dev_resources/무제 파일.md",
-    "04_dev_resources/django/queryset  field lookup icontains.md",
-    "03_areas/nexus-agent-backend/django contains.md",
-    "03_areas/nexus-agent-backend/drf에서 is_authenticated를 사용하는 것이 옳은 것일까.md",
-    "03_areas/nexus-agent-backend/field lookup ambiconains (field lookup customizing).md",
-    "03_areas/nexus-agent-backend/message thread를 테스트하기 위해서는.md",
-    "03_areas/nexus-agent-backend/management buildings post.md",
     "04_dev_resources/django",
     "04_dev_resources/python",
     "04_dev_resources/dev_knowledge",
@@ -236,7 +238,6 @@
     "04_dev_resources/development_knowledge/development_knowledge",
     "04_dev_resources/aws",
     "03_areas/nexus-agent-front",
-    "03_areas/nexus-agent-infra",
     "무제 파일.canvas"
   ]
 }

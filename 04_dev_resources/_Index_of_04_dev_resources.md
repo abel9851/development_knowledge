@@ -3,6 +3,7 @@
  [[04_dev_resources/books/_Index_of_books|_Index_of_books]]
  [[04_dev_resources/command/_Index_of_command|_Index_of_command]]
  [[04_dev_resources/django/_Index_of_django|_Index_of_django]]
+ [[04_dev_resources/HTTP/_Index_of_HTTP|_Index_of_HTTP]]
  [[04_dev_resources/python/_Index_of_python|_Index_of_python]]
  [[04_dev_resources/terraform/_Index_of_terraform|_Index_of_terraform]]
  [[04_dev_resources/thought/_Index_of_thought|_Index_of_thought]]
