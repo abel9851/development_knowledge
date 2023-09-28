@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_areas/nexus-agent-infra/도커로 프론트엔드를 빌드하고 s3에 업로드.md",
+                "file": "04_dev_resources/terraform/resource docker image.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 278.5
   },
   "right": {
     "id": "05070b95a1b4f95e",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_areas/nexus-agent-infra/도커로 프론트엔드를 빌드하고 s3에 업로드.md",
+                "file": "04_dev_resources/terraform/resource docker image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_areas/nexus-agent-infra/도커로 프론트엔드를 빌드하고 s3에 업로드.md",
+                "file": "04_dev_resources/terraform/resource docker image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_areas/nexus-agent-infra/도커로 프론트엔드를 빌드하고 s3에 업로드.md"
+                "file": "04_dev_resources/terraform/resource docker image.md"
               }
             }
           },
@@ -199,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +213,9 @@
   },
   "active": "eabfebf3458026bb",
   "lastOpenFiles": [
-    "01_Literature/리눅스 텍스트 디폴트 툴.md",
     "03_areas/nexus-agent-infra/도커로 프론트엔드를 빌드하고 s3에 업로드.md",
+    "04_dev_resources/terraform/resource docker image.md",
+    "01_Literature/리눅스 텍스트 디폴트 툴.md",
     "01_Literature/리눅스 디폴트 텍스트 툴로 파일 생성방법.md",
     "03_areas/career/_Index_of_career.md",
     "02_projects/01_회사_인프라_분석/IRS에서 구현할 인프라.md",
@@ -238,7 +239,6 @@
     "03_areas/nexus-agent-backend/owner_decoder.md",
     "03_areas/nexus-agent-backend/owner delete method.md",
     "03_areas/nexus-agent-backend/dictionary의 value가  None일 때에도 에러없이 if가 작동한다..md",
-    "03_areas/nexus-agent-backend/로컬에서 쿼리에 시간이 많이 걸린 api.md",
     "04_dev_resources/HTTP",
     "Pasted image 20230926100638.png",
     "04_dev_resources/terraform",
