@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/terraform/aws vpc 공식 모듈.md",
+                "file": "00_inbox/1003 질문.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_dev_resources/terraform/aws vpc 공식 모듈.md",
+                "file": "00_inbox/1003 질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_dev_resources/terraform/aws vpc 공식 모듈.md",
+                "file": "00_inbox/1003 질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_dev_resources/terraform/aws vpc 공식 모듈.md"
+                "file": "00_inbox/1003 질문.md"
               }
             }
           },
@@ -201,13 +201,20 @@
   },
   "active": "e5b36bd249cada0a",
   "lastOpenFiles": [
+    "01_Literature/PUT 메소드로 리소스를 삭제하는건 X, POST는 상황에 따라서.md",
+    "00_inbox/1003 질문.md",
+    "01_Literature/POST method with Payload.md",
+    "01_Literature/POST 메소드를 GET 메소드 대신 사용해서 검색하기.md",
+    "01_Literature/HTTP PUT 사양 해석.md",
+    "01_Literature/HTTP delete 사양 해석.md",
+    "03_areas/nexus-agent-backend/transaction roallback.md",
+    "03_areas/nexus-agent-backend/230929 message meeting delete api 요건 파악.md",
+    "04_dev_resources/terraform/aws vpc 공식 모듈.md",
     "04_dev_resources/terraform/provider docker.md",
     "03_areas/nexus-agent-infra/aws vpc 작성.md",
-    "04_dev_resources/terraform/aws vpc 공식 모듈.md",
     "NAT gateway는 private subnet 개수별로 필요한가.md",
     "03_areas/nexus-agent-infra/terr.md",
     "01_Literature/pytest.mark.parametrize 데코레이터.md",
-    "03_areas/nexus-agent-backend/230929 message meeting delete api 요건 파악.md",
     "03_areas/_Index_of_03_areas.md",
     "03_areas/nexus-agent-backend/agent-api managent api buildings GET VS agent api buildings GET.md",
     "03_areas/nexus-agent-backend/상담-카와노상에게 230929.md",
@@ -221,13 +228,6 @@
     "03_areas/nexus-agent-backend/settings.py의 로그 설정.md",
     "03_areas/nexus",
     "03_areas/nexus-agent-backend/test owner credentials.md",
-    "03_areas/nexus-agent-backend/verbose name.md",
-    "03_areas/nexus-agent-backend/agent화면 공통 建物一覧取得api.md",
-    "03_areas/nexus-agent-backend/annotate.md",
-    "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md",
-    "03_areas/career/회사업무 노트 정리해서 블로그에 올리기.md",
-    "04_dev_resources/web/socks proxy와  HTTP proxy의 차이점.md",
-    "07_references/_Index_of_07_references.md",
     "04_dev_resources/web",
     "04_dev_resources/HTTP",
     "Pasted image 20230926100638.png",
