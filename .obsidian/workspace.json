@@ -39,7 +39,7 @@
               "state": {
                 "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -213,8 +213,8 @@
   },
   "active": "42d9612f3012387d",
   "lastOpenFiles": [
-    "04_dev_resources/django/user password 변경 method.md",
     "conflict-files-obsidian-git.md",
+    "04_dev_resources/django/user password 변경 method.md",
     "_Index_of_hj_s second brain.md",
     "04_dev_resources/web/socks란.md",
     "03_areas/nexus-agent-backend/split vs splitlines.md",
