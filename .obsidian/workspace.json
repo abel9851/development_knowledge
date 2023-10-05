@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_areas/nexus-agent-backend/meeting cancel api 개조.md",
+                "file": "04_dev_resources/django/user password 변경 method.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_areas/nexus-agent-backend/meeting cancel api 개조.md",
+                "file": "04_dev_resources/django/user password 변경 method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_areas/nexus-agent-backend/meeting cancel api 개조.md",
+                "file": "04_dev_resources/django/user password 변경 method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_areas/nexus-agent-backend/meeting cancel api 개조.md"
+                "file": "04_dev_resources/django/user password 변경 method.md"
               }
             }
           },
@@ -201,6 +201,8 @@
   },
   "active": "e5b36bd249cada0a",
   "lastOpenFiles": [
+    "03_areas/nexus-agent-backend/split vs splitlines.md",
+    "04_dev_resources/django/user password 변경 method.md",
     "03_areas/nexus-agent-backend/meeting cancel api 개조.md",
     "00_inbox/1003 질문.md",
     "01_Literature/PUT 메소드로 리소스를 삭제하는건 X, POST는 상황에 따라서.md",
@@ -225,8 +227,6 @@
     "03_areas/career/ier 3월까지 typescript, vue3한다니까 백엔드에서 큰 기능, 발전은 팀에서 자체적으로 이뤄질것 같진 않다..md",
     "03_areas/career/나에게 어울리는 공부방법.md",
     "03_areas/nexus/230929 IER 유저 숫자.md",
-    "03_areas/nexus/_Index_of_nexus.md",
-    "03_areas/nexus-agent-backend/settings.py의 로그 설정.md",
     "03_areas/nexus",
     "04_dev_resources/web",
     "04_dev_resources/HTTP",
