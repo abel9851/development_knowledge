@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/django/user password 변경 method.md",
+                "file": "01_Literature/pytest mark 뜻.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "42d9612f3012387d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 241.5
   },
   "right": {
     "id": "05070b95a1b4f95e",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "01_Literature/pytest mark 뜻.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "01_Literature/pytest mark 뜻.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "01_Literature/pytest mark 뜻.md"
               }
             }
           },
@@ -199,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,10 +199,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "42d9612f3012387d",
+  "active": "e5b36bd249cada0a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "04_dev_resources/django/django model default 설정.md",
+    "01_Literature/pytest mark 뜻.md",
+    "04_dev_resources/MySQL/column의 default 값 확인하기.md",
+    "04_dev_resources/MySQL/_Index_of_MySQL.md",
+    "03_areas/nexus-agent-backend/1006 SQL 유저삭제 해보기.md",
+    "04_dev_resources/MySQL",
+    "03_areas/nexus-agent-backend/230929 ticket 대응 데이터베이스에 유저 삭제.md",
+    "03_areas/nexus-agent-backend/owner_decoder.md",
+    "03_areas/nexus-agent-backend/verbose name.md",
+    "03_areas/nexus-agent-backend/transaction set_rollback.md",
+    "03_areas/nexus-agent-backend/choices를 사용하는 이유.md",
+    "03_areas/nexus-agent-backend/로컬에서 쿼리에 시간이 많이 걸린 api.md",
+    "03_areas/nexus-agent-backend/231005 try except 범위, response status 상담.md",
+    "03_areas/nexus-agent-backend/230929 message meeting delete api 요건 파악.md",
+    "03_areas/nexus-agent-backend/0918 backend 질문.md",
     "04_dev_resources/django/user password 변경 method.md",
+    "conflict-files-obsidian-git.md",
     "_Index_of_hj_s second brain.md",
     "04_dev_resources/web/socks란.md",
     "03_areas/nexus-agent-backend/split vs splitlines.md",
@@ -225,20 +228,6 @@
     "01_Literature/POST 메소드를 GET 메소드 대신 사용해서 검색하기.md",
     "01_Literature/HTTP PUT 사양 해석.md",
     "01_Literature/HTTP delete 사양 해석.md",
-    "03_areas/nexus-agent-backend/transaction roallback.md",
-    "03_areas/nexus-agent-backend/230929 message meeting delete api 요건 파악.md",
-    "04_dev_resources/terraform/aws vpc 공식 모듈.md",
-    "04_dev_resources/terraform/provider docker.md",
-    "03_areas/nexus-agent-infra/aws vpc 작성.md",
-    "NAT gateway는 private subnet 개수별로 필요한가.md",
-    "03_areas/nexus-agent-infra/terr.md",
-    "01_Literature/pytest.mark.parametrize 데코레이터.md",
-    "03_areas/_Index_of_03_areas.md",
-    "03_areas/nexus-agent-backend/agent-api managent api buildings GET VS agent api buildings GET.md",
-    "03_areas/nexus-agent-backend/상담-카와노상에게 230929.md",
-    "03_areas/nexus-agent-backend/230929 ticket 대응 데이터베이스에 유저 삭제.md",
-    "04_dev_resources/terraform/terraform 변수 활용 - 리모트 저장소 혹은 로컬PC의 config파일을 사용할 수 있도록 고려하자..md",
-    "04_dev_resources/terraform/result type.md",
     "03_areas/nexus",
     "04_dev_resources/web",
     "04_dev_resources/HTTP",
@@ -249,7 +238,6 @@
     "04_dev_resources/python",
     "04_dev_resources/dev_knowledge",
     "04_dev_resources/development_knowledge",
-    "04_dev_resources/development_knowledge/development_knowledge",
     "무제 파일.canvas"
   ]
 }
