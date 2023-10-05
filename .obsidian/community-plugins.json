@@ -1,11 +1,8 @@
 [
-  "obsidian-tasks-plugin",
   "obsidian-git",
+  "zoottelkeeper-obsidian-plugin",
+  "obsidian-tasks-plugin",
   "obsidian-kanban",
   "calendar",
-  "zoottelkeeper-obsidian-plugin",
-  "dataview",
-  "obsidian-minimal-settings",
-  "obsidian-reminder-plugin",
-  "obsidian-to-anki-plugin"
+  "dataview"
 ]

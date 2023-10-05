@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42d9612f3012387d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_dev_resources/django/user password 변경 method.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_dev_resources/django/user password 변경 method.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_dev_resources/django/user password 변경 method.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -199,10 +211,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e5b36bd249cada0a",
+  "active": "42d9612f3012387d",
   "lastOpenFiles": [
-    "03_areas/nexus-agent-backend/split vs splitlines.md",
     "04_dev_resources/django/user password 변경 method.md",
+    "conflict-files-obsidian-git.md",
+    "_Index_of_hj_s second brain.md",
+    "04_dev_resources/web/socks란.md",
+    "03_areas/nexus-agent-backend/split vs splitlines.md",
     "03_areas/nexus-agent-backend/meeting cancel api 개조.md",
     "00_inbox/1003 질문.md",
     "01_Literature/PUT 메소드로 리소스를 삭제하는건 X, POST는 상황에 따라서.md",
@@ -224,9 +239,6 @@
     "03_areas/nexus-agent-backend/230929 ticket 대응 데이터베이스에 유저 삭제.md",
     "04_dev_resources/terraform/terraform 변수 활용 - 리모트 저장소 혹은 로컬PC의 config파일을 사용할 수 있도록 고려하자..md",
     "04_dev_resources/terraform/result type.md",
-    "03_areas/career/ier 3월까지 typescript, vue3한다니까 백엔드에서 큰 기능, 발전은 팀에서 자체적으로 이뤄질것 같진 않다..md",
-    "03_areas/career/나에게 어울리는 공부방법.md",
-    "03_areas/nexus/230929 IER 유저 숫자.md",
     "03_areas/nexus",
     "04_dev_resources/web",
     "04_dev_resources/HTTP",
