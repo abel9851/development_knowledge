@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Literature/pytest mark 뜻.md",
+                "file": "01_Literature/python any().md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Literature/pytest mark 뜻.md",
+                "file": "01_Literature/python any().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Literature/pytest mark 뜻.md",
+                "file": "01_Literature/python any().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Literature/pytest mark 뜻.md"
+                "file": "01_Literature/python any().md"
               }
             }
           },
@@ -201,8 +201,10 @@
   },
   "active": "e5b36bd249cada0a",
   "lastOpenFiles": [
-    "04_dev_resources/django/django model default 설정.md",
+    "01_Literature/pytest monkeypatch.md",
+    "01_Literature/python any().md",
     "01_Literature/pytest mark 뜻.md",
+    "04_dev_resources/django/django model default 설정.md",
     "04_dev_resources/MySQL/column의 default 값 확인하기.md",
     "04_dev_resources/MySQL/_Index_of_MySQL.md",
     "03_areas/nexus-agent-backend/1006 SQL 유저삭제 해보기.md",
@@ -226,8 +228,6 @@
     "01_Literature/PUT 메소드로 리소스를 삭제하는건 X, POST는 상황에 따라서.md",
     "01_Literature/POST method with Payload.md",
     "01_Literature/POST 메소드를 GET 메소드 대신 사용해서 검색하기.md",
-    "01_Literature/HTTP PUT 사양 해석.md",
-    "01_Literature/HTTP delete 사양 해석.md",
     "03_areas/nexus",
     "04_dev_resources/web",
     "04_dev_resources/HTTP",
