@@ -34,6 +34,7 @@ def test_my_fruit_in_basket(fruit_basket, my_fruit):
 하지만 pytest의 fixture에서는 테스트함수 시그니처를 가진 테스트함수처럼 인자로 받은 fixture함수를 호출하도록 되어있기 때문에 `fruit_basket` 함수가 호출될 때 인자로 설정한 `my_fruit`와 같은 이름을 가진 fixture함수를 호출한다.
 
 
+아래의 코드로 테스트해보면 더 명확하다.
 
 ```python
 
@@ -65,12 +66,10 @@ def fruit_basket(my_fruit):
 def test_my_fruit_in_basket(fruit_basket):
     assert len(fruit_basket) == 1
 
-# 
-
-
 
 ```
 
+에러메시지가 아래처럼 출력된다.
 ```bash
 
 fruit_basket = [<test_case.Fruit object at 0x7f2065993590>, <test_case.Fruit object at 0x7f2065993710>]
@@ -86,3 +85,5 @@ FAILED test_case.py::test_my_fruit_in_basket - assert 2 == 1
 =========================================================================================== 1 failed in 0.11s ===========================================================================================
 
 ```
+
+`my_fruit`를 test함수에서 호출하지 않았는데도 불구하고 `f`
