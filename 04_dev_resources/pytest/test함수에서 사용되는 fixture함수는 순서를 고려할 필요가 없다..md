@@ -87,4 +87,4 @@ FAILED test_case.py::test_my_fruit_in_basket - assert 2 == 1
 ```
 
 `my_fruit`를 test함수에서 호출하지 않았는데도 불구하고 `fruit_basket`은 2개의 엘리멘트를 갖고 있다. 즉, `fruite_basket` 에서 지정한 인자이름을 토대로 fixture함수 안에서도 인자로 받은 fixture함수를 먼저 호출한다는 것이다.
-결론적으로 test_
+결론적으로 test함수 안에 2개의 fixture인자를 지정하면 그 fixture인자는 서로 관련없이 독립적으로 fixture함수와 그 안에 fixture함수를 인자로 정의하고 있다면 그 함수도 호출한다.
