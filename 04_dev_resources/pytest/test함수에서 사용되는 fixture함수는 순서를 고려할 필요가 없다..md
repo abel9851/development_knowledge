@@ -31,4 +31,4 @@ def test_my_fruit_in_basket(fruit_basket, my_fruit):
 
 `test_my_fruit_in_basket`에서 `fruit_basket`과 `my_fruit` fixture 함수를 사용하고 있다.
 `fruit_basket` 함수에서 `my_fruit` 를 인자로 사용하고 있기 때문에 `test_my_fruit_in_basket` 에서 `my_fruit` 함수를 먼저 호출할 필요가 있다고 생각했다.
-하지만 pytest의 
+하지만 pytest의 fixture에서는 테스트함수 시그니처를 가진 테스트함수처럼 인자로 받은 fixture함수를 호출하도록 되어있기 때문에 `fruit_basket` 함수가 
