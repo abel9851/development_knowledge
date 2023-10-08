@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0351dc231d7cad6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Literature/pytest.mark.parametrize 데코레이터.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Literature/pytest.mark.parametrize 데코레이터.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Literature/pytest.mark.parametrize 데코레이터.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -154,8 +167,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "734bd1278ec61d8f",
+  "active": "c0351dc231d7cad6",
   "lastOpenFiles": [
+    "_Index_of_hj_brain.md",
+    "01_Literature/pytest.mark.parametrize 데코레이터.md",
+    "conflict-files-obsidian-git.md",
+    "expanding function arguments.md",
+    "04_dev_resources/terraform/테라폼에서 for표현식.md",
+    "04_dev_resources/terraform/merge.md",
     "04_dev_resources/MySQL/column의 default 값 확인하기.md",
     "04_dev_resources/django/user password 변경 method.md",
     "04_dev_resources/django/select_related.md",
@@ -177,12 +196,6 @@
     "03_areas/nexus-agent-infra/dante socks proxy port.md",
     "03_areas/nexus-agent-infra/bastion server ssm ssh로 바꾸기.md",
     "03_areas/nexus-agent-infra/AWS WAFv2 VS WAF classic.md",
-    "03_areas/nexus-agent-infra/aws vpc 작성.md",
-    "03_areas/nexus-agent-infra/aws quicksight와 vpc.md",
-    "03_areas/nexus-agent-front/리포지토리 환경변수 value 위치.md",
-    "03_areas/nexus-agent-front/_Index_of_nexus-agent-front.md",
-    "03_areas/nexus-agent-backend/홋타상 리뷰 230922.md",
-    "03_areas/nexus-agent-backend/연말까지는 백엔드 기술에 집중, 개인 프로덕트 개발하면서 학습, ai는 겉다리.md",
     "03_areas/투자",
     "03_areas/운동",
     "03_areas/nexus-agent-infra",
