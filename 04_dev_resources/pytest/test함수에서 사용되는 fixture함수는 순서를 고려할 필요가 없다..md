@@ -29,4 +29,5 @@ def test_my_fruit_in_basket(fruit_basket, my_fruit):
 
 ```
 
-`test_my_fruit_in_basket`에서 `fruit_basket`과 `my_fruit
+`test_my_fruit_in_basket`에서 `fruit_basket`과 `my_fruit` fixture 함수를 사용하고 있다.
+`fruit_basket`
