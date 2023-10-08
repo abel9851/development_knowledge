@@ -29,4 +29,4 @@ def test_my_fruit_in_basket(fruit_basket, my_fruit):
 
 ```
 
-`test_my_fruit_`
+`test_my_fruit_in_basket`에서 `fruit_basket`과 `my_fruit
