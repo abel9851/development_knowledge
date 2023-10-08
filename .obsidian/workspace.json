@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Index_of_hj_s second brain.md",
-                "mode": "preview",
+                "file": "04_dev_resources/pytest/test함수에서 사용되는 fixture함수는 순서를 고려할 필요가 없다..md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Index_of_hj_s second brain.md",
+                "file": "04_dev_resources/pytest/test함수에서 사용되는 fixture함수는 순서를 고려할 필요가 없다..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Index_of_hj_s second brain.md",
+                "file": "04_dev_resources/pytest/test함수에서 사용되는 fixture함수는 순서를 고려할 필요가 없다..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Index_of_hj_s second brain.md"
+                "file": "04_dev_resources/pytest/test함수에서 사용되는 fixture함수는 순서를 고려할 필요가 없다..md"
               }
             }
           },
@@ -169,8 +169,11 @@
   },
   "active": "c0351dc231d7cad6",
   "lastOpenFiles": [
-    "_Index_of_hj_brain.md",
+    "04_dev_resources/pytest/_Index_of_pytest.md",
     "_Index_of_hj_s second brain.md",
+    "04_dev_resources/pytest/test함수에서 사용되는 fixture함수는 순서를 고려할 필요가 없다..md",
+    "04_dev_resources/pytest",
+    "_Index_of_hj_s brain.md",
     "04_dev_resources/terraform/expanding function arguments.md",
     "conflict-files-obsidian-git.md",
     "04_dev_resources/pytest.md",
@@ -194,8 +197,6 @@
     "03_areas/nexus-agent-infra/waf readme.md",
     "03_areas/nexus-agent-infra/visualization tool that automatically generates architecture diagrams of aws cloud workloads.md",
     "03_areas/nexus-agent-infra/infra.md",
-    "03_areas/nexus-agent-infra/dante란.md",
-    "03_areas/nexus-agent-infra/dante socks proxy port.md",
     "03_areas/투자",
     "03_areas/운동",
     "03_areas/nexus-agent-infra",
@@ -204,7 +205,6 @@
     "03_areas/nexus",
     "03_areas/career",
     "03_areas",
-    "02_projects/01_회사_인프라_분석",
     "Pasted image 20230926100638.png"
   ]
 }
