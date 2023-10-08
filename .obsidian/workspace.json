@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "f7cf2da8b0265989",
+    "id": "e899931d58a75cd9",
     "type": "split",
     "children": [
       {
-        "id": "acf015c3d59090ad",
+        "id": "b825eae67f512a4f",
         "type": "tabs",
         "children": [
           {
-            "id": "e4a003d4ddd9f51f",
+            "id": "734bd1278ec61d8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_areas/nexus-agent-infra/aws vpc 작성.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5b36bd249cada0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Literature/pytest mark 뜻.md",
+                "file": "01_Literature/pytest.mark.parametrize 데코레이터.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ef018b06158c1019",
+    "id": "1b895c237be728e1",
     "type": "split",
     "children": [
       {
-        "id": "3445337ccc277109",
+        "id": "b440188534fb6637",
         "type": "tabs",
         "children": [
           {
-            "id": "2e3d8f5f6eb26215",
+            "id": "e5bc31c4e8b43c97",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "932d56143ed957dc",
+            "id": "b9514115ed602df3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "0d1049c682952892",
+            "id": "6e536481aab915c4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 300
   },
   "right": {
-    "id": "05070b95a1b4f95e",
+    "id": "0a06d6edfda09779",
     "type": "split",
     "children": [
       {
-        "id": "10783cf5a97988b5",
+        "id": "287f5316868763e5",
         "type": "tabs",
         "children": [
           {
-            "id": "8f6ec07aff424bf3",
+            "id": "675bed89c64625b9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Literature/pytest mark 뜻.md",
+                "file": "01_Literature/pytest.mark.parametrize 데코레이터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "3b212fbc39d23650",
+            "id": "c9de36bdf9b95015",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Literature/pytest mark 뜻.md",
+                "file": "01_Literature/pytest.mark.parametrize 데코레이터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f944a5944d840fe3",
+            "id": "3d08bcb6540bdfd4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,111 +120,78 @@
             }
           },
           {
-            "id": "2e16f731a0bb49e0",
+            "id": "201a92cfc420b86d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Literature/pytest mark 뜻.md"
+                "file": "01_Literature/pytest.mark.parametrize 데코레이터.md"
               }
             }
           },
           {
-            "id": "086db7d3d9294bde",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a3eb6e1d0a1327fe",
+            "id": "ce0dd825395ae088",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "54f5fd2b22c5c504",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
-            "id": "d4868df05936c1d8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "66886f49f4cfdafa",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:그래프 뷰 열기": false,
       "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e5b36bd249cada0a",
+  "active": "734bd1278ec61d8f",
   "lastOpenFiles": [
-    "04_dev_resources/django/django model default 설정.md",
-    "01_Literature/pytest mark 뜻.md",
     "04_dev_resources/MySQL/column의 default 값 확인하기.md",
-    "04_dev_resources/MySQL/_Index_of_MySQL.md",
-    "03_areas/nexus-agent-backend/1006 SQL 유저삭제 해보기.md",
-    "04_dev_resources/MySQL",
-    "03_areas/nexus-agent-backend/230929 ticket 대응 데이터베이스에 유저 삭제.md",
-    "03_areas/nexus-agent-backend/owner_decoder.md",
-    "03_areas/nexus-agent-backend/verbose name.md",
-    "03_areas/nexus-agent-backend/transaction set_rollback.md",
-    "03_areas/nexus-agent-backend/choices를 사용하는 이유.md",
-    "03_areas/nexus-agent-backend/로컬에서 쿼리에 시간이 많이 걸린 api.md",
-    "03_areas/nexus-agent-backend/231005 try except 범위, response status 상담.md",
-    "03_areas/nexus-agent-backend/230929 message meeting delete api 요건 파악.md",
-    "03_areas/nexus-agent-backend/0918 backend 질문.md",
     "04_dev_resources/django/user password 변경 method.md",
-    "conflict-files-obsidian-git.md",
-    "_Index_of_hj_s second brain.md",
-    "04_dev_resources/web/socks란.md",
-    "03_areas/nexus-agent-backend/split vs splitlines.md",
-    "03_areas/nexus-agent-backend/meeting cancel api 개조.md",
-    "00_inbox/1003 질문.md",
-    "01_Literature/PUT 메소드로 리소스를 삭제하는건 X, POST는 상황에 따라서.md",
-    "01_Literature/POST method with Payload.md",
-    "01_Literature/POST 메소드를 GET 메소드 대신 사용해서 검색하기.md",
-    "01_Literature/HTTP PUT 사양 해석.md",
-    "01_Literature/HTTP delete 사양 해석.md",
+    "04_dev_resources/django/select_related.md",
+    "04_dev_resources/django/django model default 설정.md",
+    "04_dev_resources/MySQL/_Index_of_MySQL.md",
+    "04_dev_resources/MySQL",
+    "04_dev_resources/django/query가 evaluate되는 타이밍.md",
+    "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md",
+    "01_Literature/NAT gateway는 private subnet 개수별로 필요한가.md",
+    "03_areas/nexus-agent-infra/회사 과제 - bastion server ssh 접속과 dante 접속에 사용되는 ip를 삭제할 것..md",
+    "03_areas/nexus-agent-infra/의문점 - 230929.md",
+    "03_areas/nexus-agent-infra/도커로 프론트엔드를 빌드하고 s3에 업로드.md",
+    "03_areas/nexus-agent-infra/_Index_of_nexus-agent-infra.md",
+    "03_areas/nexus-agent-infra/why is mean web exploit to web attack.md",
+    "03_areas/nexus-agent-infra/waf readme.md",
+    "03_areas/nexus-agent-infra/visualization tool that automatically generates architecture diagrams of aws cloud workloads.md",
+    "03_areas/nexus-agent-infra/infra.md",
+    "03_areas/nexus-agent-infra/dante란.md",
+    "03_areas/nexus-agent-infra/dante socks proxy port.md",
+    "03_areas/nexus-agent-infra/bastion server ssm ssh로 바꾸기.md",
+    "03_areas/nexus-agent-infra/AWS WAFv2 VS WAF classic.md",
+    "03_areas/nexus-agent-infra/aws vpc 작성.md",
+    "03_areas/nexus-agent-infra/aws quicksight와 vpc.md",
+    "03_areas/nexus-agent-front/리포지토리 환경변수 value 위치.md",
+    "03_areas/nexus-agent-front/_Index_of_nexus-agent-front.md",
+    "03_areas/nexus-agent-backend/홋타상 리뷰 230922.md",
+    "03_areas/nexus-agent-backend/연말까지는 백엔드 기술에 집중, 개인 프로덕트 개발하면서 학습, ai는 겉다리.md",
+    "03_areas/투자",
+    "03_areas/운동",
+    "03_areas/nexus-agent-infra",
+    "03_areas/nexus-agent-front",
+    "03_areas/nexus-agent-backend",
     "03_areas/nexus",
-    "04_dev_resources/web",
-    "04_dev_resources/HTTP",
-    "Pasted image 20230926100638.png",
-    "04_dev_resources/terraform",
-    "04_dev_resources/thought",
-    "04_dev_resources/django",
-    "04_dev_resources/python",
-    "04_dev_resources/dev_knowledge",
-    "04_dev_resources/development_knowledge",
-    "무제 파일.canvas"
+    "03_areas/career",
+    "03_areas",
+    "02_projects/01_회사_인프라_분석",
+    "Pasted image 20230926100638.png"
   ]
 }
