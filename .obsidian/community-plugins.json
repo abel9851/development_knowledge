@@ -1,8 +1,8 @@
 [
-  "obsidian-git",
   "zoottelkeeper-obsidian-plugin",
   "obsidian-tasks-plugin",
   "obsidian-kanban",
   "calendar",
-  "dataview"
+  "dataview",
+  "obsidian-git"
 ]

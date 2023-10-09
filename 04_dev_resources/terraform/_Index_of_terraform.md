@@ -2,6 +2,7 @@
  [[04_dev_resources/terraform/테라폼에서 for표현식|테라폼에서 for표현식]]
  [[04_dev_resources/terraform/aws vpc 공식 모듈|aws vpc 공식 모듈]]
  [[04_dev_resources/terraform/contains|contains]]
+ [[04_dev_resources/terraform/expanding function arguments|expanding function arguments]]
  [[04_dev_resources/terraform/keys|keys]]
  [[04_dev_resources/terraform/merge|merge]]
  [[04_dev_resources/terraform/provider docker|provider docker]]

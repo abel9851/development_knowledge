@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77cdd07afa089ecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Index_of_hj_s second brain.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Index_of_hj_s second brain.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Index_of_hj_s second brain.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -211,11 +223,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9812ee7adc6736c8",
+  "active": "77cdd07afa089ecd",
   "lastOpenFiles": [
+    "_Index_of_hj_s second brain.md",
+    "conflict-files-obsidian-git.md",
+    "_Index_of_hj second brain.md",
+    "04_dev_resources/terraform/expanding function arguments.md",
+    "04_dev_resources/pytest/_Index_of_pytest.md",
+    "04_dev_resources/pytest/test함수에서 사용되는 fixture함수는 순서를 고려할 필요가 없다..md",
+    "04_dev_resources/pytest",
     "_Index_of_hj's second brain.md",
     "expanding function arguments.md",
-    "_Index_of_hj_s second brain.md",
     "04_dev_resources/terraform/merge.md",
     "04_dev_resources/terraform/provider docker.md",
     "04_dev_resources/terraform/테라폼에서 for표현식.md",
@@ -244,12 +262,7 @@
     "03_areas/nexus-agent-backend/schema 안에 있는 serializer에 대한 홋다상의 답변.md",
     "01_Literature/python any().md",
     "01_Literature/pytest monkeypatch.md",
-    "01_Literature/pytest mark 뜻.md",
-    "04_dev_resources/django/django model default 설정.md",
-    "04_dev_resources/MySQL/column의 default 값 확인하기.md",
-    "04_dev_resources/MySQL/_Index_of_MySQL.md",
     "04_dev_resources/MySQL",
-    "03_areas/nexus-agent-backend/230929 ticket 대응 데이터베이스에 유저 삭제.md",
     "03_areas/nexus",
     "04_dev_resources/web",
     "04_dev_resources/HTTP",
@@ -258,7 +271,6 @@
     "04_dev_resources/django",
     "04_dev_resources/python",
     "04_dev_resources/dev_knowledge",
-    "04_dev_resources/development_knowledge",
     "무제 파일.canvas"
   ]
 }
