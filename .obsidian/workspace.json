@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Index_of_hj's second brain.md",
+                "file": "_Index_of_hj_s second brain.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Index_of_hj's second brain.md",
+                "file": "_Index_of_hj_s second brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Index_of_hj's second brain.md",
+                "file": "_Index_of_hj_s second brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Index_of_hj's second brain.md"
+                "file": "_Index_of_hj_s second brain.md"
               }
             }
           },
@@ -213,9 +213,9 @@
   },
   "active": "9812ee7adc6736c8",
   "lastOpenFiles": [
-    "_Index_of_hj_s second brain.md",
     "_Index_of_hj's second brain.md",
     "expanding function arguments.md",
+    "_Index_of_hj_s second brain.md",
     "04_dev_resources/terraform/merge.md",
     "04_dev_resources/terraform/provider docker.md",
     "04_dev_resources/terraform/테라폼에서 for표현식.md",
