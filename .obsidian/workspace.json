@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/django/values_list.md",
+                "file": "03_areas/nexus-agent-infra/S3 특정 도메인만 허락하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_dev_resources/django/values_list.md",
+                "file": "03_areas/nexus-agent-infra/S3 특정 도메인만 허락하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_dev_resources/django/values_list.md",
+                "file": "03_areas/nexus-agent-infra/S3 특정 도메인만 허락하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_dev_resources/django/values_list.md"
+                "file": "03_areas/nexus-agent-infra/S3 특정 도메인만 허락하기.md"
               }
             }
           },
@@ -237,10 +237,15 @@
   },
   "active": "eccb2bffde395c12",
   "lastOpenFiles": [
+    "03_areas/nexus-agent-infra/Pasted image 20231013182441.png",
+    "03_areas/nexus-agent-backend/약 42만건 owner와, owner와 연결된 모델을 bulk_update, delete하는 코드.md",
+    "03_areas/nexus-agent-infra/S3 특정 도메인만 허락하기.md",
     "03_areas/nexus-agent-backend/230929 ticket 대응 데이터베이스에 유저 삭제.md",
+    "03_areas/nexus-agent-backend/owner 삭제 ORM 시행착오.md",
+    "03_areas/nexus-agent-backend/231009 서브쿼리와 데이터 함수 (장고).md",
+    "04_dev_resources/django/values_list.md",
     "04_dev_resources/django/Prefetch.md",
     "04_dev_resources/django/command 작성.md",
-    "04_dev_resources/django/values_list.md",
     "04_dev_resources/django/values.md",
     "03_areas/nexus-agent-backend/1006 SQL 유저삭제 해보기.md",
     "03_areas/nexus-agent-backend/DRF serializer to representation에 대해.md",
@@ -259,11 +264,6 @@
     "04_dev_resources/pytest/_Index_of_pytest.md",
     "04_dev_resources/pytest/test함수에서 사용되는 fixture함수는 순서를 고려할 필요가 없다..md",
     "04_dev_resources/pytest",
-    "_Index_of_hj's second brain.md",
-    "expanding function arguments.md",
-    "04_dev_resources/terraform/provider docker.md",
-    "04_dev_resources/terraform/테라폼에서 for표현식.md",
-    "04_dev_resources/terraform/contains.md",
     "03_areas/nexus-agent-backend/Pasted image 20231006170902.png",
     "03_areas/nexus-agent-backend/Pasted image 20231006164225.png",
     "03_areas/nexus-agent-backend/Pasted image 20231006164135.png",
