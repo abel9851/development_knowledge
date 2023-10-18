@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "10471579adabcca9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8774e801876b7a34",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_areas/nexus-agent-infra/S3 특정 도메인만 허락하기.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_areas/nexus-agent-infra/S3 특정 도메인만 허락하기.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_areas/nexus-agent-infra/S3 특정 도메인만 허락하기.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -235,11 +247,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "eccb2bffde395c12",
+  "active": "10471579adabcca9",
   "lastOpenFiles": [
+    "03_areas/nexus-agent-infra/S3 특정 도메인만 허락하기.md",
+    "conflict-files-obsidian-git.md",
     "03_areas/nexus-agent-infra/Pasted image 20231013182441.png",
     "03_areas/nexus-agent-backend/약 42만건 owner와, owner와 연결된 모델을 bulk_update, delete하는 코드.md",
-    "03_areas/nexus-agent-infra/S3 특정 도메인만 허락하기.md",
     "03_areas/nexus-agent-backend/230929 ticket 대응 데이터베이스에 유저 삭제.md",
     "03_areas/nexus-agent-backend/owner 삭제 ORM 시행착오.md",
     "03_areas/nexus-agent-backend/231009 서브쿼리와 데이터 함수 (장고).md",
@@ -259,7 +272,6 @@
     "01_Literature/python 비동기.md",
     "_Index_of_hj second brain.md",
     "_Index_of_hj_s second brain.md",
-    "conflict-files-obsidian-git.md",
     "04_dev_resources/terraform/expanding function arguments.md",
     "04_dev_resources/pytest/_Index_of_pytest.md",
     "04_dev_resources/pytest/test함수에서 사용되는 fixture함수는 순서를 고려할 필요가 없다..md",
@@ -273,7 +285,6 @@
     "Pasted image 20230926100638.png",
     "Pasted image 20231006141409.png",
     "Pasted image 20231006141425.png",
-    "Pasted image 20231006141458.png",
     "04_dev_resources/MySQL",
     "03_areas/nexus",
     "04_dev_resources/web",
