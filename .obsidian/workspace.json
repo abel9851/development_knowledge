@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7df7fc763c92ec8d",
+            "id": "3043b8c2b6d6e99b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_areas/nexus-agent-backend/230929 ticket 대응 데이터베이스에 유저 삭제.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4735e69ce4b173eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/django/values.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eccb2bffde395c12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_areas/nexus-agent-infra/S3 특정 도메인만 허락하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8774e801876b7a34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_areas/nexus-agent-backend/230929 ticket 대응 데이터베이스에 유저 삭제.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1413a42ab842dcea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/django/Prefetch.md",
+                "file": "03_areas/nexus-agent-infra/vue3 인프라 구현.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_areas/nexus-agent-infra/S3 특정 도메인만 허락하기.md",
+                "file": "03_areas/nexus-agent-infra/vue3 인프라 구현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_areas/nexus-agent-infra/S3 특정 도메인만 허락하기.md",
+                "file": "03_areas/nexus-agent-infra/vue3 인프라 구현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_areas/nexus-agent-infra/S3 특정 도메인만 허락하기.md"
+                "file": "03_areas/nexus-agent-infra/vue3 인프라 구현.md"
               }
             }
           },
@@ -235,34 +186,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "eccb2bffde395c12",
+  "active": "3043b8c2b6d6e99b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "03_areas/nexus-agent-backend/230929 ticket 대응 데이터베이스에 유저 삭제.md",
+    "04_dev_resources/django/values.md",
+    "03_areas/nexus-agent-infra/SES inbound redirect rules.md",
+    "01_Literature/MySQL 유저 만들기 커맨드.md",
+    "03_areas/nexus-agent-infra/vue3 인프라 구현.md",
+    "00_inbox/무제 파일.md",
+    "04_dev_resources/python/dict.setdefault.md",
+    "04_dev_resources/python/cerberus의 shema 작동순서.md",
+    "01_Literature/데이터의 무결성.md",
+    "01_Literature/일의 제약이란.md",
+    "03_areas/nexus-agent-infra/infra layer에 frontend layer에서 생성된 domain은 추가할 수 없다..md",
+    "03_areas/nexus-agent-infra/_Index_of_nexus-agent-infra.md",
+    "04_dev_resources/aws/route53 record의 뒷부분은 zone_id로 지정한 hosted zone의 이름으로 고정된다..md",
+    "01_Literature/nginx.md",
+    "03_areas/nexus-agent-infra/AWS budgets 설정확인.md",
+    "03_areas/nexus-agent-infra/AWS budgets 해야할 일.md",
+    "03_areas/nexus-agent-infra/SES decline rule.md",
+    "03_areas/nexus-agent-infra/visualization tool that automatically generates architecture diagrams of aws cloud workloads.md",
+    "04_dev_resources/aws/SES email receiving.md",
+    "04_dev_resources/aws/SES bounce type.md",
+    "03_areas/nexus-agent-backend/MySQL DATEDIFF.md",
+    "03_areas/nexus-agent-backend/MySQL count와 distinct사용법 - 레코드는 한줄.md",
+    "03_areas/nexus-agent-backend/VPN 설정하고 db 아이디 작성.md",
     "03_areas/nexus-agent-infra/S3 특정 도메인만 허락하기.md",
+    "conflict-files-obsidian-git.md",
     "03_areas/nexus-agent-infra/Pasted image 20231013182441.png",
     "03_areas/nexus-agent-backend/약 42만건 owner와, owner와 연결된 모델을 bulk_update, delete하는 코드.md",
-    "03_areas/nexus-agent-backend/230929 ticket 대응 데이터베이스에 유저 삭제.md",
-    "03_areas/nexus-agent-backend/owner 삭제 ORM 시행착오.md",
-    "03_areas/nexus-agent-backend/231009 서브쿼리와 데이터 함수 (장고).md",
-    "04_dev_resources/django/values_list.md",
-    "04_dev_resources/django/Prefetch.md",
-    "04_dev_resources/django/command 작성.md",
-    "04_dev_resources/django/values.md",
-    "03_areas/nexus-agent-backend/1006 SQL 유저삭제 해보기.md",
-    "03_areas/nexus-agent-backend/DRF serializer to representation에 대해.md",
-    "03_areas/nexus-agent-backend/owner delete method.md",
-    "03_areas/nexus-agent-backend/owner user 생성 과정.md",
-    "04_dev_resources/terraform/merge.md",
-    "03_areas/nexus-agent-backend/agent-api managent api buildings GET VS agent api buildings GET.md",
-    "03_areas/nexus-agent-backend/transaction set_rollback.md",
-    "03_areas/nexus-agent-backend/verbose name.md",
-    "03_areas/nexus-agent-backend/test owner credentials.md",
-    "01_Literature/python 비동기.md",
-    "_Index_of_hj second brain.md",
-    "_Index_of_hj_s second brain.md",
-    "04_dev_resources/terraform/expanding function arguments.md",
-    "04_dev_resources/pytest/_Index_of_pytest.md",
-    "04_dev_resources/pytest/test함수에서 사용되는 fixture함수는 순서를 고려할 필요가 없다..md",
     "04_dev_resources/pytest",
     "03_areas/nexus-agent-backend/Pasted image 20231006170902.png",
     "03_areas/nexus-agent-backend/Pasted image 20231006164225.png",
