@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_areas/nexus-agent-infra/vue3 인프라 구현.md",
+                "file": "01_Literature/deamon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_areas/nexus-agent-infra/vue3 인프라 구현.md",
+                "file": "01_Literature/deamon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_areas/nexus-agent-infra/vue3 인프라 구현.md",
+                "file": "01_Literature/deamon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_areas/nexus-agent-infra/vue3 인프라 구현.md"
+                "file": "01_Literature/deamon.md"
               }
             }
           },
@@ -188,11 +188,15 @@
   },
   "active": "3043b8c2b6d6e99b",
   "lastOpenFiles": [
+    "01_Literature/런타임.md",
+    "01_Literature/docker의 우분투 이미지와 가상머신의 guest os의 차이점.md",
+    "01_Literature/deamon.md",
+    "03_areas/nexus-agent-infra/vue3 인프라 구현.md",
+    "00_inbox/2023-10-25.md",
     "03_areas/nexus-agent-backend/230929 ticket 대응 데이터베이스에 유저 삭제.md",
     "04_dev_resources/django/values.md",
     "03_areas/nexus-agent-infra/SES inbound redirect rules.md",
     "01_Literature/MySQL 유저 만들기 커맨드.md",
-    "03_areas/nexus-agent-infra/vue3 인프라 구현.md",
     "00_inbox/무제 파일.md",
     "04_dev_resources/python/dict.setdefault.md",
     "04_dev_resources/python/cerberus의 shema 작동순서.md",
@@ -210,11 +214,7 @@
     "04_dev_resources/aws/SES bounce type.md",
     "03_areas/nexus-agent-backend/MySQL DATEDIFF.md",
     "03_areas/nexus-agent-backend/MySQL count와 distinct사용법 - 레코드는 한줄.md",
-    "03_areas/nexus-agent-backend/VPN 설정하고 db 아이디 작성.md",
-    "03_areas/nexus-agent-infra/S3 특정 도메인만 허락하기.md",
-    "conflict-files-obsidian-git.md",
     "03_areas/nexus-agent-infra/Pasted image 20231013182441.png",
-    "03_areas/nexus-agent-backend/약 42만건 owner와, owner와 연결된 모델을 bulk_update, delete하는 코드.md",
     "04_dev_resources/pytest",
     "03_areas/nexus-agent-backend/Pasted image 20231006170902.png",
     "03_areas/nexus-agent-backend/Pasted image 20231006164225.png",
