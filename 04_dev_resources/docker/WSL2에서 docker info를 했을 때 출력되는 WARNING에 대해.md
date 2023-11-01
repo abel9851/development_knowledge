@@ -1,0 +1,10 @@
+출처는 bing ai.
+
+WSL2에서 Docker를 사용하면서 발생하는 경고 메시지에 대해 걱정하실 필요는 없습니다. 이 경고들은 대부분의 사용자에게는 무시해도 되는 메시지들입니다. 각 경고에 대한 자세한 설명은 다음과 같습니다:
+
+1. [**No blkio throttle.read_bps_device support, No blkio throttle.write_bps_device support, No blkio throttle.read_iops_device support, No blkio throttle.write_iops_device support**: 이 경고들은 Docker의 blkio 서브시스템과 관련이 있습니다](https://stackoverflow.com/questions/69968135/warning-no-blkio-throttle-read-bps-device-support-what-is-this-message)[1](https://stackoverflow.com/questions/69968135/warning-no-blkio-throttle-read-bps-device-support-what-is-this-message). [이 서브시스템은 대규모 Docker 프로덕션 환경에서 사용되며, 커널이 컨테이너의 blkio 스로틀 설정을 지원하지 않음을 나타냅니다](https://forums.docker.com/t/no-blkio-warnings-on-docker-info/115857)[2](https://forums.docker.com/t/no-blkio-warnings-on-docker-info/115857)[1](https://stackoverflow.com/questions/69968135/warning-no-blkio-throttle-read-bps-device-support-what-is-this-message). [이 기능이 필요하다면, 사용자 지정 WSL2 커널을 컴파일하고 WSL2가 그것을 사용하도록 설정해야 합니다](https://forums.docker.com/t/no-blkio-warnings-on-docker-info/115857)[2](https://forums.docker.com/t/no-blkio-warnings-on-docker-info/115857).
+    
+2. [**daemon is not using the default seccomp profile**: 이 경고는 Docker 데몬이 기본 seccomp 프로파일을 사용하지 않음을 나타냅니다](https://stackoverflow.com/questions/77001300/warning-daemon-is-not-using-the-default-seccomp-profile)[3](https://stackoverflow.com/questions/77001300/warning-daemon-is-not-using-the-default-seccomp-profile). [seccomp 프로파일은 컨테이너 내에서 사용 가능한 작업을 제한하는 데 사용됩니다](https://stackoverflow.com/questions/77001300/warning-daemon-is-not-using-the-default-seccomp-profile)[3](https://stackoverflow.com/questions/77001300/warning-daemon-is-not-using-the-default-seccomp-profile). [필요한 경우 `dockerd --seccomp-profile <path_to_seccomp_profile>` 명령어를 사용하여 데몬 수준에서 사용자 지정 seccomp 프로파일을 적용할 수 있습니다](https://stackoverflow.com/questions/77001300/warning-daemon-is-not-using-the-default-seccomp-profile)[3](https://stackoverflow.com/questions/77001300/warning-daemon-is-not-using-the-default-seccomp-profile).
+    
+
+따라서 이러한 경고 메시지들은 일반적으로 Docker 작업에 영향을 주지 않으며 안전하게 무시할 수 있습니다. 그러나 특정 기능이 필요한 경우 위의 방법으로 해결할 수 있습니다.
