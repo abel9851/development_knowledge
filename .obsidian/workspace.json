@@ -1,39 +1,64 @@
 {
   "main": {
-    "id": "e899931d58a75cd9",
+    "id": "f7cf2da8b0265989",
     "type": "split",
     "children": [
       {
-        "id": "b825eae67f512a4f",
+        "id": "acf015c3d59090ad",
         "type": "tabs",
         "children": [
           {
-            "id": "c0351dc231d7cad6",
+            "id": "3043b8c2b6d6e99b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md",
+                "file": "00_inbox/2023-09-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "004ca27e4512c484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/bash 파일 안에서 이스케이프 하는 방법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fa4b27826a74cdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/2023-11-01.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1b895c237be728e1",
+    "id": "ef018b06158c1019",
     "type": "split",
     "children": [
       {
-        "id": "b440188534fb6637",
+        "id": "3445337ccc277109",
         "type": "tabs",
         "children": [
           {
-            "id": "e5bc31c4e8b43c97",
+            "id": "2e3d8f5f6eb26215",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +68,7 @@
             }
           },
           {
-            "id": "b9514115ed602df3",
+            "id": "932d56143ed957dc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +83,7 @@
             }
           },
           {
-            "id": "6e536481aab915c4",
+            "id": "0d1049c682952892",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +94,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 353.5
   },
   "right": {
-    "id": "0a06d6edfda09779",
+    "id": "05070b95a1b4f95e",
     "type": "split",
     "children": [
       {
-        "id": "287f5316868763e5",
+        "id": "10783cf5a97988b5",
         "type": "tabs",
         "children": [
           {
-            "id": "675bed89c64625b9",
+            "id": "8f6ec07aff424bf3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md",
+                "file": "00_inbox/bash 파일 안에서 이스케이프 하는 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +122,19 @@
             }
           },
           {
-            "id": "c9de36bdf9b95015",
+            "id": "3b212fbc39d23650",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md",
+                "file": "00_inbox/bash 파일 안에서 이스케이프 하는 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3d08bcb6540bdfd4",
+            "id": "f944a5944d840fe3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,41 +145,73 @@
             }
           },
           {
-            "id": "201a92cfc420b86d",
+            "id": "2e16f731a0bb49e0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md"
+                "file": "00_inbox/bash 파일 안에서 이스케이프 하는 방법.md"
               }
             }
           },
           {
-            "id": "ce0dd825395ae088",
+            "id": "086db7d3d9294bde",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3eb6e1d0a1327fe",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "54f5fd2b22c5c504",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "d4868df05936c1d8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "66886f49f4cfdafa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 203.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
+      "switcher:퀵 스위처 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c0351dc231d7cad6",
+  "active": "004ca27e4512c484",
   "lastOpenFiles": [
     "04_dev_resources/docker/레이어 정보는 기본적으로 immutable이지만 호스트 운영체제의 관리자는 생성 및 변경 가능.md",
     "04_dev_resources/docker/각 컨테이너에서 발생한 모든 변경 정보를 저장한다..md",
@@ -165,33 +222,43 @@
     "04_dev_resources/docker/WSL2에서 docker info를 했을 때 출력되는 WARNING에 대해.md",
     "04_dev_resources/docker/WSL2에서 docker image 저장 경로.md",
     "04_dev_resources/aws/DKIM.md",
-    "04_dev_resources/terraform/terraform resource docker_registry_image.md",
-    "04_dev_resources/terraform/terraform resource docker_image.md",
     "04_dev_resources/terraform/terraform resource aws_ecr_repository.md",
-    "04_dev_resources/python/dict.setdefault.md",
-    "04_dev_resources/python/2개의 class에서 메소드를 전달 했을 경우 self는 누구인가..md",
-    "04_dev_resources/linux/_Index_of_linux.md",
-    "04_dev_resources/linux/shebang.md",
-    "04_dev_resources/linux",
-    "04_dev_resources/docker/_Index_of_docker.md",
-    "04_dev_resources/docker/hadolint.md",
+    "04_dev_resources/terraform/terraform resource docker_image.md",
+    "04_dev_resources/terraform/terraform resource docker_registry_image.md",
     "04_dev_resources/docker/Dockerfile로 image를 만들 때 인식해야할 점.md",
-    "04_dev_resources/docker",
+    "04_dev_resources/linux/shebang.md",
+    "04_dev_resources/linux/_Index_of_linux.md",
+    "00_inbox/2023-11-02.md",
+    "04_dev_resources/linux",
+    "00_inbox/2023-11-01.md",
+    "00_inbox/2023-09-14.md",
+    "04_dev_resources/python/2개의 class에서 메소드를 전달 했을 경우 self는 누구인가..md",
     "04_dev_resources/django/dispatch.md",
-    "04_dev_resources/aws/route53 record의 뒷부분은 zone_id로 지정한 hosted zone의 이름으로 고정된다..md",
+    "00_inbox/2023-10-31.md",
+    "04_dev_resources/docker/hadolint.md",
+    "00_inbox/단기 목표.md",
+    "00_inbox/무제 파일.md",
     "04_dev_resources/aws/ecr lifecycle policy.md",
-    "04_dev_resources/aws/SES email receiving.md",
-    "04_dev_resources/aws/SES bounce type.md",
-    "01_Literature/내가 여태 배운 배포 자동화 등은 정말로 가치가 있는 거구나. 블로그로 전부 쓰자..md",
-    "04_dev_resources/MySQL/column의 default 값 확인하기.md",
+    "04_dev_resources/aws/aws waf란.md",
+    "04_dev_resources/docker",
+    "01_Literature/포트폴리오 이력작성",
+    "01_Literature/231030_docker기록/Pasted image 20231030100929.png",
+    "01_Literature/231030_docker기록",
+    "03_areas/nexus-agent-infra/Pasted image 20231013182441.png",
     "04_dev_resources/pytest",
+    "03_areas/nexus-agent-backend/Pasted image 20231006170902.png",
+    "03_areas/nexus-agent-backend/Pasted image 20231006164225.png",
+    "03_areas/nexus-agent-backend/Pasted image 20231006164135.png",
+    "03_areas/nexus-agent-backend/Pasted image 20231006152459.png",
+    "03_areas/nexus-agent-backend/Pasted image 20231006152306.png",
+    "03_areas/nexus-agent-backend/Pasted image 20231006152244.png",
+    "Pasted image 20230926100638.png",
+    "Pasted image 20231006141409.png",
     "04_dev_resources/MySQL",
-    "03_areas/투자",
-    "03_areas/운동",
-    "03_areas/nexus-agent-infra",
-    "03_areas/nexus-agent-front",
-    "03_areas/nexus-agent-backend",
     "03_areas/nexus",
-    "Pasted image 20230926100638.png"
+    "04_dev_resources/web",
+    "04_dev_resources/HTTP",
+    "04_dev_resources/terraform",
+    "무제 파일.canvas"
   ]
 }
