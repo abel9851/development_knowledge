@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "004ca27e4512c484",
+            "id": "61ad0332646e6208",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/ssh/ssh agent forwarding.md",
+                "file": "04_dev_resources/python/update_wrapper in functools.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,55 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_areas/nexus-agent-infra/vue3 인프라 구현.md",
+                "file": "04_dev_resources/aws/s3 block public access.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "840d73b8c53117f5",
+            "id": "d7e06ea2e54886ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/terraform/terraform data aws_iam_policy_document와 resource aws_iam_policy 비교.md",
+                "file": "04_dev_resources/python/__annotations__.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "22cb30853b748767",
+            "id": "be646e18ce5cdaf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/github/github deploy key 작성.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d9bd4023e40c413",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_inbox/ai가 있는 시대에 backend 기술 학습법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65a168ff605d56db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_areas/nexus-agent-infra/vue3 인프라 구현.md",
+                "file": "04_dev_resources/python/__name__, __qualname__ 비교.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +61,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/thought/231102 습득한 거 내용정리 5분이상.md",
+                "file": "04_dev_resources/web/content-length.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95f3df42820f69aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_dev_resources/aws/What is Amazon cloudfront.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f496bbe2dfcd6710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_dev_resources/aws/CreateDistribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edff02a38edfe2da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_dev_resources/terraform/aws s3 생성에 필요한 terraform resource list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10fbee2666e63ec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_dev_resources/terraform/Resource aws_cloudfront_distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 212.5
   },
   "right": {
     "id": "05070b95a1b4f95e",
@@ -158,7 +182,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_dev_resources/thought/231102 습득한 거 내용정리 5분이상.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +198,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_dev_resources/thought/231102 습득한 거 내용정리 5분이상.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +219,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "04_dev_resources/thought/231102 습득한 거 내용정리 5분이상.md"
-              }
+              "state": {}
             }
           },
           {
@@ -233,21 +253,13 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "66886f49f4cfdafa",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 1041.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,36 +271,36 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "611834b8e7e91ac9",
+  "active": "086db7d3d9294bde",
   "lastOpenFiles": [
-    "04_dev_resources/ssh/ssh agent forwarding.md",
+    "04_dev_resources/aws/CreateDistribution.md",
+    "04_dev_resources/aws/What is Amazon cloudfront.md",
+    "04_dev_resources/terraform/Resource aws_cloudfront_distribution.md",
     "03_areas/nexus-agent-infra/vue3 인프라 구현.md",
-    "00_inbox/ai가 있는 시대에 backend 기술 학습법.md",
-    "01_Literature/websocket 단어의 유래.md",
-    "04_dev_resources/thought/231102 습득한 거 내용정리 5분이상.md",
-    "04_dev_resources/terraform/terraform data aws_iam_policy_document와 resource aws_iam_policy 비교.md",
-    "04_dev_resources/terraform/terraform data aws_iam_policy_document.md",
-    "04_dev_resources/github/github deploy key 작성.md",
-    "01_Literature/terraform script에서 tflint ignore을 하는 방법.md",
-    "04_dev_resources/terraform/terraform data aws_acm_certificate.md",
-    "00_inbox/무제 파일.md",
-    "01_Literature/terraform map, contains, trimsuffix.md",
-    "03_areas/nexus-agent-infra/231102 vue3 인프라 github deploy key 설정.md",
-    "04_dev_resources/web/status code 405.md",
-    "01_Literature/django http_method_not_allowed에 _가 없는 이유.md",
-    "00_inbox/2023-11-02.md",
-    "00_inbox/2023-11-01.md",
+    "04_dev_resources/web/content-length.md",
+    "04_dev_resources/terraform/aws s3 생성에 필요한 terraform resource list.md",
+    "04_dev_resources/aws/s3 ownership controls.md",
     "00_inbox/2023-11-03.md",
-    "00_inbox/2023-09-25.md",
-    "04_dev_resources/django/request.path.md",
+    "04_dev_resources/python/__dict__.md",
+    "04_dev_resources/aws/Configuring block public access settings for your account.md",
+    "04_dev_resources/terraform/Resource aws_s3_account_public_access_block.md",
+    "04_dev_resources/aws/Managing access with ACLs.md",
+    "00_inbox/2023-11-04.md",
+    "00_inbox/2023-09-21.md",
+    "04_dev_resources/python/update_wrapper in functools.md",
+    "00_inbox/2023-11-02.md",
+    "04_dev_resources/python/__name__, __qualname__ 비교.md",
+    "04_dev_resources/python/__annotations__.md",
     "01_Literature/logging.getLogger('로거객체이름')이란.md",
-    "04_dev_resources/ssh/_Index_of_ssh.md",
+    "04_dev_resources/aws/s3 block public access.md",
+    "04_dev_resources/django/request.path.md",
+    "[2023-11-02.md",
+    "04_dev_resources/web/status code 405.md",
+    "04_dev_resources/ssh/ssh agent forwarding.md",
+    "04_dev_resources/terraform/terraform data aws_iam_policy_document와 resource aws_iam_policy 비교.md",
+    "04_dev_resources/github/github deploy key 작성.md",
     "04_dev_resources/ssh",
-    "04_dev_resources/github/_Index_of_github.md",
     "04_dev_resources/github",
-    "02_projects/_Index_of_02_projects.md",
-    "00_inbox/bash 파일 안에서 이스케이프 하는 방법.md",
-    "04_dev_resources/docker/레이어 정보는 기본적으로 immutable이지만 호스트 운영체제의 관리자는 생성 및 변경 가능.md",
     "04_dev_resources/linux",
     "04_dev_resources/docker",
     "01_Literature/포트폴리오 이력작성",
