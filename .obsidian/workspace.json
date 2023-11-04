@@ -1,136 +1,39 @@
 {
   "main": {
-    "id": "f7cf2da8b0265989",
+    "id": "e899931d58a75cd9",
     "type": "split",
     "children": [
       {
-        "id": "acf015c3d59090ad",
+        "id": "b825eae67f512a4f",
         "type": "tabs",
         "children": [
           {
-            "id": "61ad0332646e6208",
+            "id": "c0351dc231d7cad6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/python/update_wrapper in functools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "783315f77fbb4135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/aws/s3 block public access.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7e06ea2e54886ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/python/__annotations__.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be646e18ce5cdaf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/python/__name__, __qualname__ 비교.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "611834b8e7e91ac9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/web/content-length.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95f3df42820f69aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/aws/What is Amazon cloudfront.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f496bbe2dfcd6710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/aws/CreateDistribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edff02a38edfe2da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/terraform/aws s3 생성에 필요한 terraform resource list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10fbee2666e63ec2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/terraform/Resource aws_cloudfront_distribution.md",
+                "file": "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ef018b06158c1019",
+    "id": "1b895c237be728e1",
     "type": "split",
     "children": [
       {
-        "id": "3445337ccc277109",
+        "id": "b440188534fb6637",
         "type": "tabs",
         "children": [
           {
-            "id": "2e3d8f5f6eb26215",
+            "id": "e5bc31c4e8b43c97",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -140,7 +43,7 @@
             }
           },
           {
-            "id": "932d56143ed957dc",
+            "id": "b9514115ed602df3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -155,7 +58,7 @@
             }
           },
           {
-            "id": "0d1049c682952892",
+            "id": "6e536481aab915c4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -166,22 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 200
   },
   "right": {
-    "id": "05070b95a1b4f95e",
+    "id": "0a06d6edfda09779",
     "type": "split",
     "children": [
       {
-        "id": "10783cf5a97988b5",
+        "id": "287f5316868763e5",
         "type": "tabs",
         "children": [
           {
-            "id": "8f6ec07aff424bf3",
+            "id": "675bed89c64625b9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,18 +97,19 @@
             }
           },
           {
-            "id": "3b212fbc39d23650",
+            "id": "c9de36bdf9b95015",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f944a5944d840fe3",
+            "id": "3d08bcb6540bdfd4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -215,110 +120,78 @@
             }
           },
           {
-            "id": "2e16f731a0bb49e0",
+            "id": "201a92cfc420b86d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md"
+              }
             }
           },
           {
-            "id": "086db7d3d9294bde",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a3eb6e1d0a1327fe",
+            "id": "ce0dd825395ae088",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "54f5fd2b22c5c504",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
-            "id": "d4868df05936c1d8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 1041.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:그래프 뷰 열기": false,
       "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "086db7d3d9294bde",
+  "active": "c0351dc231d7cad6",
   "lastOpenFiles": [
-    "04_dev_resources/aws/CreateDistribution.md",
-    "04_dev_resources/aws/What is Amazon cloudfront.md",
-    "04_dev_resources/terraform/Resource aws_cloudfront_distribution.md",
-    "03_areas/nexus-agent-infra/vue3 인프라 구현.md",
-    "04_dev_resources/web/content-length.md",
-    "04_dev_resources/terraform/aws s3 생성에 필요한 terraform resource list.md",
-    "04_dev_resources/aws/s3 ownership controls.md",
-    "00_inbox/2023-11-03.md",
-    "04_dev_resources/python/__dict__.md",
-    "04_dev_resources/aws/Configuring block public access settings for your account.md",
-    "04_dev_resources/terraform/Resource aws_s3_account_public_access_block.md",
-    "04_dev_resources/aws/Managing access with ACLs.md",
-    "00_inbox/2023-11-04.md",
-    "00_inbox/2023-09-21.md",
-    "04_dev_resources/python/update_wrapper in functools.md",
-    "00_inbox/2023-11-02.md",
-    "04_dev_resources/python/__name__, __qualname__ 비교.md",
-    "04_dev_resources/python/__annotations__.md",
-    "01_Literature/logging.getLogger('로거객체이름')이란.md",
-    "04_dev_resources/aws/s3 block public access.md",
-    "04_dev_resources/django/request.path.md",
-    "[2023-11-02.md",
-    "04_dev_resources/web/status code 405.md",
+    "04_dev_resources/ssh/_Index_of_ssh.md",
     "04_dev_resources/ssh/ssh agent forwarding.md",
-    "04_dev_resources/terraform/terraform data aws_iam_policy_document와 resource aws_iam_policy 비교.md",
-    "04_dev_resources/github/github deploy key 작성.md",
     "04_dev_resources/ssh",
+    "04_dev_resources/github/_Index_of_github.md",
+    "04_dev_resources/github/github deploy key 작성.md",
     "04_dev_resources/github",
+    "04_dev_resources/django/request.path.md",
+    "04_dev_resources/aws/s3 ownership controls.md",
+    "04_dev_resources/aws/s3 block public access.md",
+    "04_dev_resources/aws/What is Amazon cloudfront.md",
+    "04_dev_resources/aws/Managing access with ACLs.md",
+    "04_dev_resources/aws/CreateDistribution.md",
+    "04_dev_resources/aws/Configuring block public access settings for your account.md",
+    "04_dev_resources/docker/레이어 정보는 기본적으로 immutable이지만 호스트 운영체제의 관리자는 생성 및 변경 가능.md",
+    "04_dev_resources/docker/각 컨테이너에서 발생한 모든 변경 정보를 저장한다..md",
+    "04_dev_resources/docker/dokcer pull를 사용할 때 순서.md",
+    "04_dev_resources/docker/docker login에 사용된 credential을 확인하는 방법.md",
+    "04_dev_resources/docker/docker image inspect.md",
+    "04_dev_resources/docker/docker image history IMAGE.md",
+    "04_dev_resources/docker/WSL2에서 docker info를 했을 때 출력되는 WARNING에 대해.md",
+    "04_dev_resources/docker/WSL2에서 docker image 저장 경로.md",
+    "04_dev_resources/aws/DKIM.md",
+    "04_dev_resources/terraform/terraform resource docker_registry_image.md",
+    "04_dev_resources/terraform/terraform resource docker_image.md",
+    "04_dev_resources/terraform/terraform resource aws_ecr_repository.md",
+    "04_dev_resources/python/dict.setdefault.md",
+    "04_dev_resources/python/2개의 class에서 메소드를 전달 했을 경우 self는 누구인가..md",
+    "04_dev_resources/linux/_Index_of_linux.md",
     "04_dev_resources/linux",
     "04_dev_resources/docker",
-    "01_Literature/포트폴리오 이력작성",
-    "01_Literature/231030_docker기록/Pasted image 20231030100929.png",
-    "01_Literature/231030_docker기록",
-    "03_areas/nexus-agent-infra/Pasted image 20231013182441.png",
     "04_dev_resources/pytest",
-    "03_areas/nexus-agent-backend/Pasted image 20231006170902.png",
-    "03_areas/nexus-agent-backend/Pasted image 20231006164225.png",
-    "03_areas/nexus-agent-backend/Pasted image 20231006164135.png",
-    "03_areas/nexus-agent-backend/Pasted image 20231006152459.png",
-    "03_areas/nexus-agent-backend/Pasted image 20231006152306.png",
-    "03_areas/nexus-agent-backend/Pasted image 20231006152244.png",
-    "Pasted image 20230926100638.png",
-    "Pasted image 20231006141409.png",
     "04_dev_resources/MySQL",
-    "03_areas/nexus",
-    "04_dev_resources/web",
-    "무제 파일.canvas"
+    "03_areas/투자",
+    "03_areas/운동",
+    "03_areas/nexus-agent-infra",
+    "03_areas/nexus-agent-front",
+    "Pasted image 20230926100638.png"
   ]
 }
