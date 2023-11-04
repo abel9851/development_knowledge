@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "310320baee306167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -154,8 +167,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c0351dc231d7cad6",
+  "active": "310320baee306167",
   "lastOpenFiles": [
+    "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md",
+    "conflict-files-obsidian-git.md",
     "04_dev_resources/ssh/_Index_of_ssh.md",
     "04_dev_resources/ssh/ssh agent forwarding.md",
     "04_dev_resources/ssh",
@@ -182,8 +197,6 @@
     "04_dev_resources/terraform/terraform resource docker_image.md",
     "04_dev_resources/terraform/terraform resource aws_ecr_repository.md",
     "04_dev_resources/python/dict.setdefault.md",
-    "04_dev_resources/python/2개의 class에서 메소드를 전달 했을 경우 self는 누구인가..md",
-    "04_dev_resources/linux/_Index_of_linux.md",
     "04_dev_resources/linux",
     "04_dev_resources/docker",
     "04_dev_resources/pytest",
