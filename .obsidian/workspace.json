@@ -6,33 +6,36 @@
       {
         "id": "b825eae67f512a4f",
         "type": "tabs",
+        "dimension": 47.54601226993865,
         "children": [
           {
-            "id": "c0351dc231d7cad6",
+            "id": "cbf16976d36670a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "310320baee306167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "01_Literature/DRF 디렉토리 구조.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "fa8ecb5de8a82112",
+        "type": "tabs",
+        "dimension": 52.45398773006135,
+        "children": [
+          {
+            "id": "c0351dc231d7cad6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 245.5
   },
   "right": {
     "id": "0a06d6edfda09779",
@@ -98,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,40 +162,44 @@
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "templates:템플릿 삽입": false
     }
   },
-  "active": "310320baee306167",
+  "active": "c0351dc231d7cad6",
   "lastOpenFiles": [
-    "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md",
-    "conflict-files-obsidian-git.md",
-    "04_dev_resources/ssh/_Index_of_ssh.md",
-    "04_dev_resources/ssh/ssh agent forwarding.md",
-    "04_dev_resources/ssh",
-    "04_dev_resources/github/_Index_of_github.md",
-    "04_dev_resources/github/github deploy key 작성.md",
-    "04_dev_resources/github",
-    "04_dev_resources/django/request.path.md",
-    "04_dev_resources/aws/s3 ownership controls.md",
-    "04_dev_resources/aws/s3 block public access.md",
-    "04_dev_resources/aws/What is Amazon cloudfront.md",
-    "04_dev_resources/aws/Managing access with ACLs.md",
+    "01_Literature/DRF 디렉토리 구조.md",
+    "01_Literature/django models verbose name.md",
+    "01_Literature/django DateTimeField auto_now, auto_now_add.md",
+    "01_Literature/django urls.py include namespace.md",
     "04_dev_resources/aws/CreateDistribution.md",
-    "04_dev_resources/aws/Configuring block public access settings for your account.md",
-    "04_dev_resources/docker/레이어 정보는 기본적으로 immutable이지만 호스트 운영체제의 관리자는 생성 및 변경 가능.md",
-    "04_dev_resources/docker/각 컨테이너에서 발생한 모든 변경 정보를 저장한다..md",
-    "04_dev_resources/docker/dokcer pull를 사용할 때 순서.md",
-    "04_dev_resources/docker/docker login에 사용된 credential을 확인하는 방법.md",
-    "04_dev_resources/docker/docker image inspect.md",
-    "04_dev_resources/docker/docker image history IMAGE.md",
-    "04_dev_resources/docker/WSL2에서 docker info를 했을 때 출력되는 WARNING에 대해.md",
-    "04_dev_resources/docker/WSL2에서 docker image 저장 경로.md",
-    "04_dev_resources/aws/DKIM.md",
+    "04_dev_resources/terraform/Resource aws_cloudfront_distribution.md",
+    "04_dev_resources/terraform/Resource aws_s3_account_public_access_block.md",
+    "04_dev_resources/terraform/resource docker image.md",
+    "04_dev_resources/terraform/terraform resource aws_ecr_repository.md",
+    "04_dev_resources/terraform/terraform data aws_iam_policy_document.md",
+    "04_dev_resources/terraform/terraform data aws_acm_certificate.md",
+    "04_dev_resources/terraform/terraform data aws_iam_policy_document와 resource aws_iam_policy 비교.md",
     "04_dev_resources/terraform/terraform resource docker_registry_image.md",
     "04_dev_resources/terraform/terraform resource docker_image.md",
-    "04_dev_resources/terraform/terraform resource aws_ecr_repository.md",
-    "04_dev_resources/python/dict.setdefault.md",
+    "04_dev_resources/aws/s3 ownership controls.md",
+    "04_dev_resources/aws/s3 block public access.md",
+    "04_dev_resources/aws/aws waf란.md",
+    "04_dev_resources/aws/테스트 중!.md",
+    "04_dev_resources/aws/무제 파일.md",
+    "04_dev_resources/aws/_Index_of_aws.md",
+    "04_dev_resources/django/127.0.0.1, ifconfig에서 확인된 ip로 django runserver.md",
+    "04_dev_resources/aws/test anki-2 1.md",
+    "04_dev_resources/aws/test anki-2.md",
+    "04_dev_resources/aws/SES email receiving.md",
+    "04_dev_resources/aws/Managing access with ACLs.md",
+    "04_dev_resources/aws/DKIM.md",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
+    "templates",
+    "04_dev_resources/ssh",
+    "04_dev_resources/github",
     "04_dev_resources/linux",
     "04_dev_resources/docker",
     "04_dev_resources/pytest",
@@ -204,7 +207,6 @@
     "03_areas/투자",
     "03_areas/운동",
     "03_areas/nexus-agent-infra",
-    "03_areas/nexus-agent-front",
     "Pasted image 20230926100638.png"
   ]
 }
