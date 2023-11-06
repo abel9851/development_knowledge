@@ -1,88 +1,55 @@
 {
   "main": {
-    "id": "f7cf2da8b0265989",
+    "id": "e899931d58a75cd9",
     "type": "split",
     "children": [
       {
-        "id": "acf015c3d59090ad",
+        "id": "b825eae67f512a4f",
         "type": "tabs",
+        "dimension": 47.54601226993864,
         "children": [
           {
-            "id": "f496bbe2dfcd6710",
+            "id": "cbf16976d36670a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/aws/values that cloudfront displays in console.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14d873d502173d2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Literature/cloudfront SSL certificate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cedeee8a7f23cba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/aws/CreateDistribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bb02076ce284357",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/aws/What is Amazon cloudfront.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a8ff66dee186584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_inbox/2023-11-06.md",
+                "file": "01_Literature/DRF 디렉토리 구조.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "fa8ecb5de8a82112",
+        "type": "tabs",
+        "dimension": 52.45398773006136,
+        "children": [
+          {
+            "id": "c0351dc231d7cad6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ef018b06158c1019",
+    "id": "1b895c237be728e1",
     "type": "split",
     "children": [
       {
-        "id": "3445337ccc277109",
+        "id": "b440188534fb6637",
         "type": "tabs",
         "children": [
           {
-            "id": "2e3d8f5f6eb26215",
+            "id": "e5bc31c4e8b43c97",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,7 +59,7 @@
             }
           },
           {
-            "id": "932d56143ed957dc",
+            "id": "b9514115ed602df3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -107,7 +74,7 @@
             }
           },
           {
-            "id": "0d1049c682952892",
+            "id": "6e536481aab915c4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -118,23 +85,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 245.5
   },
   "right": {
-    "id": "05070b95a1b4f95e",
+    "id": "0a06d6edfda09779",
     "type": "split",
     "children": [
       {
-        "id": "10783cf5a97988b5",
+        "id": "287f5316868763e5",
         "type": "tabs",
         "children": [
           {
-            "id": "8f6ec07aff424bf3",
+            "id": "675bed89c64625b9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_inbox/2023-11-06.md",
+                "file": "01_Literature/DRF 디렉토리 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,31 +113,19 @@
             }
           },
           {
-            "id": "3b212fbc39d23650",
+            "id": "c9de36bdf9b95015",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_inbox/2023-11-06.md",
+                "file": "01_Literature/DRF 디렉토리 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e1cb64a30d98d09a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_inbox/2023-11-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f944a5944d840fe3",
+            "id": "3d08bcb6540bdfd4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -181,113 +136,81 @@
             }
           },
           {
-            "id": "2e16f731a0bb49e0",
+            "id": "201a92cfc420b86d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_inbox/2023-11-06.md"
+                "file": "01_Literature/DRF 디렉토리 구조.md"
               }
             }
           },
           {
-            "id": "086db7d3d9294bde",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a3eb6e1d0a1327fe",
+            "id": "ce0dd825395ae088",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "54f5fd2b22c5c504",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
-            "id": "d4868df05936c1d8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 670.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:그래프 뷰 열기": false,
       "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "templates:템플릿 삽입": false
     }
   },
-  "active": "1a8ff66dee186584",
+  "active": "cbf16976d36670a5",
   "lastOpenFiles": [
-    "00_inbox/2023-11-07.md",
-    "04_dev_resources/terraform/Resource aws_cloudfront_distribution.md",
-    "04_dev_resources/aws/CreateDistribution.md",
-    "04_dev_resources/aws/What is Amazon cloudfront.md",
-    "04_dev_resources/aws/values that cloudfront displays in console.md",
-    "04_dev_resources/aws/cloudfront response headers policy.md",
-    "01_Literature/cloudfront SSL certificate.md",
-    "04_dev_resources/aws/Allowed HTTP methods.md",
-    "04_dev_resources/aws/viewer protocol policy.md",
-    "04_dev_resources/web/content-length.md",
-    "04_dev_resources/python/__annotations__.md",
-    "04_dev_resources/django/RedirectView.md",
-    "04_dev_resources/aws/s3 block public access.md",
-    "04_dev_resources/aws/s3 ownership controls.md",
     "04_dev_resources/web/status code 410.md",
-    "00_inbox/2023-11-06.md",
-    "00_inbox/2023-09-21.md",
-    "04_dev_resources/python/python % 포맷팅.md",
     "04_dev_resources/web/status code 302.md",
     "04_dev_resources/web/status code 301.md",
-    "04_dev_resources/python/update_wrapper in functools.md",
-    "04_dev_resources/python/__name__, __qualname__ 비교.md",
-    "04_dev_resources/python/__dict__.md",
+    "04_dev_resources/python/python % 포맷팅.md",
+    "04_dev_resources/django/RedirectView.md",
+    "04_dev_resources/aws/viewer protocol policy.md",
+    "04_dev_resources/aws/values that cloudfront displays in console.md",
+    "04_dev_resources/aws/cloudfront response headers policy.md",
     "04_dev_resources/aws/cloudfront distribution cache behavior setting.md",
-    "04_dev_resources/terraform/terraform resource cloudfront distribution.md",
-    "04_dev_resources/terraform/required_provider와 provider 설정.md",
+    "04_dev_resources/aws/Allowed HTTP methods.md",
+    "01_Literature/DRF 디렉토리 구조.md",
+    "01_Literature/django models verbose name.md",
+    "01_Literature/django DateTimeField auto_now, auto_now_add.md",
+    "01_Literature/django urls.py include namespace.md",
+    "04_dev_resources/aws/CreateDistribution.md",
+    "04_dev_resources/terraform/Resource aws_cloudfront_distribution.md",
+    "04_dev_resources/terraform/Resource aws_s3_account_public_access_block.md",
+    "04_dev_resources/terraform/resource docker image.md",
+    "04_dev_resources/terraform/terraform resource aws_ecr_repository.md",
+    "04_dev_resources/terraform/terraform data aws_iam_policy_document.md",
+    "04_dev_resources/terraform/terraform data aws_acm_certificate.md",
+    "04_dev_resources/terraform/terraform data aws_iam_policy_document와 resource aws_iam_policy 비교.md",
+    "04_dev_resources/terraform/terraform resource docker_registry_image.md",
+    "04_dev_resources/terraform/terraform resource docker_image.md",
+    "04_dev_resources/aws/s3 ownership controls.md",
+    "04_dev_resources/aws/s3 block public access.md",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
     "templates",
     "04_dev_resources/ssh",
     "04_dev_resources/github",
     "04_dev_resources/linux",
     "04_dev_resources/docker",
-    "01_Literature/포트폴리오 이력작성",
-    "01_Literature/231030_docker기록/Pasted image 20231030100929.png",
-    "01_Literature/231030_docker기록",
-    "03_areas/nexus-agent-infra/Pasted image 20231013182441.png",
     "04_dev_resources/pytest",
-    "03_areas/nexus-agent-backend/Pasted image 20231006170902.png",
-    "03_areas/nexus-agent-backend/Pasted image 20231006164225.png",
-    "03_areas/nexus-agent-backend/Pasted image 20231006164135.png",
-    "03_areas/nexus-agent-backend/Pasted image 20231006152459.png",
-    "03_areas/nexus-agent-backend/Pasted image 20231006152306.png",
-    "03_areas/nexus-agent-backend/Pasted image 20231006152244.png",
-    "Pasted image 20230926100638.png",
-    "Pasted image 20231006141409.png",
     "04_dev_resources/MySQL",
-    "03_areas/nexus",
-    "무제 파일.canvas"
+    "03_areas/투자",
+    "03_areas/운동",
+    "03_areas/nexus-agent-infra",
+    "Pasted image 20230926100638.png"
   ]
 }
