@@ -4,38 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "b825eae67f512a4f",
+        "id": "76bc4dbac97c56b4",
         "type": "tabs",
-        "dimension": 47.54601226993864,
         "children": [
           {
-            "id": "cbf16976d36670a5",
+            "id": "3829a57e9f2825c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Literature/DRF 디렉토리 구조.md",
+                "file": "templates/reference link note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08d97f515bdc6b17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Literature/django ManyToManyField explicit association table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dbff0bed1b016fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_projects/하루하루_내용정리/23_11_07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d5370e6f5ebefbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_dev_resources/django/ManyToManyField.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "fa8ecb5de8a82112",
-        "type": "tabs",
-        "dimension": 52.45398773006136,
-        "children": [
-          {
-            "id": "c0351dc231d7cad6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 443.5
   },
   "right": {
     "id": "0a06d6edfda09779",
@@ -101,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Literature/DRF 디렉토리 구조.md",
+                "file": "02_projects/하루하루_내용정리/23_11_07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Literature/DRF 디렉토리 구조.md",
+                "file": "02_projects/하루하루_내용정리/23_11_07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Literature/DRF 디렉토리 구조.md"
+                "file": "02_projects/하루하루_내용정리/23_11_07.md"
               }
             }
           },
@@ -171,8 +192,24 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "cbf16976d36670a5",
+  "active": "8dbff0bed1b016fa",
   "lastOpenFiles": [
+    "02_projects/하루하루_내용정리/_Index_of_하루하루_내용정리.md",
+    "02_projects/pomodoro_개발/Project task 모델 정의.md",
+    "02_projects/하루하루_내용정리/23_11_07.md",
+    "02_projects/하루하루_내용정리",
+    "2023-11-04.md",
+    "templates/reference link note.md",
+    "01_Literature/django ManyToManyField explicit association table.md",
+    "04_dev_resources/django/ManyToManyField.md",
+    "02_projects/pomodoro_개발/_Index_of_pomodoro_개발.md",
+    "02_projects/pomodoro_개발",
+    "02_projects/무제 파일.md",
+    "02_projects/_Index_of_01_projects.md",
+    "02_projects/_Index_of_02_projects.md",
+    "02_projects/01_회사_인프라_분석/web application wall.md",
+    "01_Literature/DKIM.md",
+    "01_Literature/DRF 디렉토리 구조.md",
     "04_dev_resources/web/status code 410.md",
     "04_dev_resources/web/status code 302.md",
     "04_dev_resources/web/status code 301.md",
@@ -183,22 +220,8 @@
     "04_dev_resources/aws/cloudfront response headers policy.md",
     "04_dev_resources/aws/cloudfront distribution cache behavior setting.md",
     "04_dev_resources/aws/Allowed HTTP methods.md",
-    "01_Literature/DRF 디렉토리 구조.md",
     "01_Literature/django models verbose name.md",
     "01_Literature/django DateTimeField auto_now, auto_now_add.md",
-    "01_Literature/django urls.py include namespace.md",
-    "04_dev_resources/aws/CreateDistribution.md",
-    "04_dev_resources/terraform/Resource aws_cloudfront_distribution.md",
-    "04_dev_resources/terraform/Resource aws_s3_account_public_access_block.md",
-    "04_dev_resources/terraform/resource docker image.md",
-    "04_dev_resources/terraform/terraform resource aws_ecr_repository.md",
-    "04_dev_resources/terraform/terraform data aws_iam_policy_document.md",
-    "04_dev_resources/terraform/terraform data aws_acm_certificate.md",
-    "04_dev_resources/terraform/terraform data aws_iam_policy_document와 resource aws_iam_policy 비교.md",
-    "04_dev_resources/terraform/terraform resource docker_registry_image.md",
-    "04_dev_resources/terraform/terraform resource docker_image.md",
-    "04_dev_resources/aws/s3 ownership controls.md",
-    "04_dev_resources/aws/s3 block public access.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "templates",
@@ -209,8 +232,6 @@
     "04_dev_resources/pytest",
     "04_dev_resources/MySQL",
     "03_areas/투자",
-    "03_areas/운동",
-    "03_areas/nexus-agent-infra",
     "Pasted image 20230926100638.png"
   ]
 }
