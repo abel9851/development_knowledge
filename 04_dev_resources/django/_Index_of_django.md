@@ -7,6 +7,7 @@
  [[04_dev_resources/django/Prefetch|Prefetch]]
  [[04_dev_resources/django/query가 evaluate되는 타이밍|query가 evaluate되는 타이밍]]
  [[04_dev_resources/django/queryset  field lookup icontains|queryset  field lookup icontains]]
+ [[04_dev_resources/django/RedirectView|RedirectView]]
  [[04_dev_resources/django/request.path|request.path]]
  [[04_dev_resources/django/select_related|select_related]]
  [[04_dev_resources/django/user password 변경 method|user password 변경 method]]

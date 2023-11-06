@@ -9,7 +9,7 @@ ACLs를 enabled하는 것은 AWS가 추천하지 않는 방식이기 때문에 �
 결과적으로, objects에 대한 제어는 policy에 기반하게 된다.
 IAM policies, s3 bucket polcies, VPC endpoint polcies, Organizations SCPs 등 말이다.
 
-bucket owner enforced setting를 설정하는 것은, s3 versioning을 사용하고 있을때에 새로운 version을 추가하거나 하지는 않는다.
+bucket owner enforced setting를 설정하는 것은, s3 versioning을 사용하고 있을 때에 새로운 version을 추가하거나 하지는 않는다.
 
 Reference
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/about-object-ownership.html

@@ -17,3 +17,7 @@ https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.
 
 Link
 [[CreateDistribution]]
+[[Allowed HTTP methods]]
+[[viewer protocol policy]]
+[[Resource aws_cloudfront_distribution]]
+[[cloudfront SSL certificate]]
