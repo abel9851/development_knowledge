@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "76bc4dbac97c56b4",
+        "id": "45e8b2f45e1548d8",
         "type": "tabs",
         "children": [
           {
-            "id": "3829a57e9f2825c7",
+            "id": "f6132b891e356d60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/reference link note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08d97f515bdc6b17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Literature/django ManyToManyField explicit association table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dbff0bed1b016fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_projects/pomodoro_개발/Project task 모델 정의.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ac35ef71f43fb40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d5370e6f5ebefbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/django/ManyToManyField.md",
+                "file": "02_projects/하루하루_내용정리/23_11_08.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 474.5
   },
   "right": {
     "id": "0a06d6edfda09779",
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "02_projects/하루하루_내용정리/23_11_08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "02_projects/하루하루_내용정리/23_11_08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "02_projects/하루하루_내용정리/23_11_08.md"
               }
             }
           },
@@ -204,37 +155,44 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "9ac35ef71f43fb40",
+  "active": "f6132b891e356d60",
   "lastOpenFiles": [
+    "02_projects/하루하루_내용정리/23_11_07.md",
+    "02_projects/하루하루_내용정리/23_11_08.md",
+    "02_projects/하루하루_내용정리/_Index_of_하루하루_내용정리.md",
+    "02_projects/하루하루_내용정리/231102 습득한 거 내용정리 5분이상.md",
+    "생각정리",
+    "04_dev_resources/thought/data가 존재하지 않을 때, key를 보내야하는가.md",
+    "templates/reference link note.md",
+    "01_Literature/django ManyToManyField explicit association table.md",
     "02_projects/pomodoro_개발/Project task 모델 정의.md",
+    "04_dev_resources/django/ManyToManyField.md",
+    "04_dev_resources/django/choice Enumuration types.md",
+    "04_dev_resources/django/choice Enumeration types human readable name 설정.md",
+    "anki/django/choice Enumeration types.md",
+    "anki/_Index_of_anki.md",
+    "anki/django/_Index_of_django.md",
+    "02_projects/pomodoro_개발/Task 모델에서 choice 구현.md",
+    "anki/django",
+    "anki",
+    "01_Literature/DRF의 데이터 validate는 어느 계층에서 하는게 좋을까.md",
+    "04_dev_resources/django/Pasted image 20231108001500.png",
+    "04_dev_resources/django/Pasted image 20231108001234.png",
+    "04_dev_resources/django/Pasted image 20231107235752.png",
+    "04_dev_resources/django/Pasted image 20231107235736.png",
+    "01_Literature/java spring처럼 django에서도 layer를 나눠야할까.md",
     "conflict-files-obsidian-git.md",
     "04_dev_resources/aws/s3CopyObject.md",
     "04_dev_resources/aws/s3 HeadObject.md",
     "04_dev_resources/aws/S3 read access.md",
     "04_dev_resources/aws/S3 inventory.md",
     "04_dev_resources/aws/Pasted image 20231107103736.png",
-    "02_projects/하루하루_내용정리/23_11_07.md",
-    "02_projects/하루하루_내용정리/_Index_of_하루하루_내용정리.md",
     "02_projects/하루하루_내용정리",
     "2023-11-04.md",
-    "templates/reference link note.md",
-    "01_Literature/django ManyToManyField explicit association table.md",
-    "04_dev_resources/django/ManyToManyField.md",
     "02_projects/pomodoro_개발/_Index_of_pomodoro_개발.md",
     "02_projects/pomodoro_개발",
     "02_projects/무제 파일.md",
     "02_projects/_Index_of_01_projects.md",
-    "02_projects/_Index_of_02_projects.md",
-    "02_projects/01_회사_인프라_분석/web application wall.md",
-    "01_Literature/DKIM.md",
-    "01_Literature/DRF 디렉토리 구조.md",
-    "04_dev_resources/web/status code 410.md",
-    "04_dev_resources/web/status code 302.md",
-    "04_dev_resources/web/status code 301.md",
-    "04_dev_resources/python/python % 포맷팅.md",
-    "04_dev_resources/django/RedirectView.md",
-    "04_dev_resources/aws/viewer protocol policy.md",
-    "04_dev_resources/aws/values that cloudfront displays in console.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "templates",
@@ -242,9 +200,6 @@
     "04_dev_resources/github",
     "04_dev_resources/linux",
     "04_dev_resources/docker",
-    "04_dev_resources/pytest",
-    "04_dev_resources/MySQL",
-    "03_areas/투자",
     "Pasted image 20230926100638.png"
   ]
 }
