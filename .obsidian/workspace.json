@@ -1,195 +1,76 @@
 {
   "main": {
-    "id": "f7cf2da8b0265989",
+    "id": "e899931d58a75cd9",
     "type": "split",
     "children": [
       {
-        "id": "acf015c3d59090ad",
+        "id": "76bc4dbac97c56b4",
         "type": "tabs",
         "children": [
           {
-            "id": "f496bbe2dfcd6710",
+            "id": "3829a57e9f2825c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Literature/DRF 디렉토리 구조.md",
+                "file": "templates/reference link note.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "14d873d502173d2a",
+            "id": "08d97f515bdc6b17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Literature/cloudfront SSL certificate.md",
+                "file": "01_Literature/django ManyToManyField explicit association table.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cedeee8a7f23cba0",
+            "id": "8dbff0bed1b016fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/aws/CreateDistribution.md",
+                "file": "02_projects/pomodoro_개발/Project task 모델 정의.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "84f6f1c0011b098b",
+            "id": "0d5370e6f5ebefbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/aws/s3CopyObject.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e51372a86c31c9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Literature/chatgpt api를 둘러싼 라이브러리 (읽기).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "983139c153a79a05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_references/실용주의 프로그래머를 지향합니다를 읽고.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ed838a020fa1015",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/web/status code 410.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dd1f55ac94f72c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_inbox/핫한 기술의 전문가도 되어야한다..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95748335b7e2c571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/web/status code 410.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fc87dcaca2364df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/web/status code 405.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d2be0134d843051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/web/status code 410.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "394d253d21b7cf8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_inbox/2023-11-08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1188ef6bf17e3009",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_inbox/2023-11-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bdd73d2cdf0b9ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_inbox/단기 목표.md",
+                "file": "04_dev_resources/django/ManyToManyField.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ef018b06158c1019",
+    "id": "1b895c237be728e1",
     "type": "split",
     "children": [
       {
-        "id": "3445337ccc277109",
+        "id": "b440188534fb6637",
         "type": "tabs",
         "children": [
           {
-            "id": "2e3d8f5f6eb26215",
+            "id": "e5bc31c4e8b43c97",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -199,12 +80,12 @@
             }
           },
           {
-            "id": "932d56143ed957dc",
+            "id": "b9514115ed602df3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "구조",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,7 +95,7 @@
             }
           },
           {
-            "id": "0d1049c682952892",
+            "id": "6e536481aab915c4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -225,23 +106,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 443.5
   },
   "right": {
-    "id": "05070b95a1b4f95e",
+    "id": "0a06d6edfda09779",
     "type": "split",
     "children": [
       {
-        "id": "10783cf5a97988b5",
+        "id": "287f5316868763e5",
         "type": "tabs",
         "children": [
           {
-            "id": "8f6ec07aff424bf3",
+            "id": "675bed89c64625b9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Literature/DRF 디렉토리 구조.md",
+                "file": "02_projects/pomodoro_개발/Project task 모델 정의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,31 +134,19 @@
             }
           },
           {
-            "id": "3b212fbc39d23650",
+            "id": "c9de36bdf9b95015",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Literature/DRF 디렉토리 구조.md",
+                "file": "02_projects/pomodoro_개발/Project task 모델 정의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e1cb64a30d98d09a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_inbox/2023-11-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f944a5944d840fe3",
+            "id": "3d08bcb6540bdfd4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -288,113 +157,82 @@
             }
           },
           {
-            "id": "2e16f731a0bb49e0",
+            "id": "201a92cfc420b86d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Literature/DRF 디렉토리 구조.md"
+                "file": "02_projects/pomodoro_개발/Project task 모델 정의.md"
               }
             }
           },
           {
-            "id": "086db7d3d9294bde",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a3eb6e1d0a1327fe",
+            "id": "ce0dd825395ae088",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "54f5fd2b22c5c504",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
-            "id": "d4868df05936c1d8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 670.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:그래프 뷰 열기": false,
       "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "templates:템플릿 삽입": false
     }
   },
-  "active": "f496bbe2dfcd6710",
+  "active": "8dbff0bed1b016fa",
   "lastOpenFiles": [
-    "04_dev_resources/aws/values that cloudfront displays in console.md",
+    "04_dev_resources/aws/s3CopyObject.md",
+    "04_dev_resources/aws/s3 HeadObject.md",
+    "04_dev_resources/aws/S3 read access.md",
+    "04_dev_resources/aws/S3 inventory.md",
+    "04_dev_resources/aws/Pasted image 20231107103736.png",
+    "02_projects/하루하루_내용정리/23_11_07.md",
+    "02_projects/하루하루_내용정리/_Index_of_하루하루_내용정리.md",
+    "02_projects/pomodoro_개발/Project task 모델 정의.md",
+    "02_projects/하루하루_내용정리",
+    "2023-11-04.md",
+    "templates/reference link note.md",
+    "01_Literature/django ManyToManyField explicit association table.md",
+    "04_dev_resources/django/ManyToManyField.md",
+    "02_projects/pomodoro_개발/_Index_of_pomodoro_개발.md",
+    "02_projects/pomodoro_개발",
+    "02_projects/무제 파일.md",
+    "02_projects/_Index_of_01_projects.md",
+    "02_projects/_Index_of_02_projects.md",
+    "02_projects/01_회사_인프라_분석/web application wall.md",
+    "01_Literature/DKIM.md",
     "01_Literature/DRF 디렉토리 구조.md",
-    "00_inbox/단기 목표.md",
-    "01_Literature/payload 단어의 유래.md",
-    "01_Literature/원격으로 django-silk나 django debug toolbar를 on, off.md",
-    "01_Literature/django-silk SQL api 프로파일링 툴.md",
-    "00_inbox/2023-11-07.md",
-    "00_inbox/2023-11-08.md",
-    "00_inbox/2023-09-25.md",
     "04_dev_resources/web/status code 410.md",
-    "01_Literature/chatgpt api를 둘러싼 라이브러리 (읽기).md",
-    "07_references/실용주의 프로그래머를 지향합니다를 읽고.md",
-    "00_inbox/핫한 기술의 전문가도 되어야한다..md",
-    "00_inbox/전체상을 먼저 파악해야한다..md",
-    "04_dev_resources/aws/What is Amazon cloudfront.md",
-    "07_references/제품을 개발할 때 현재 개발하는게 세상에 통할지 확인.md",
-    "00_inbox/2023-11-06.md",
-    "04_dev_resources/web/status code 405.md",
     "04_dev_resources/web/status code 302.md",
     "04_dev_resources/web/status code 301.md",
-    "04_dev_resources/aws/s3 HeadObject.md",
-    "04_dev_resources/aws/s3CopyObject.md",
-    "01_Literature/pytest monkeypatch.md",
-    "01_Literature/pytest.mark.parametrize 데코레이터.md",
-    "01_Literature/pytest mark 뜻.md",
-    "01_Literature/PUT 메소드로 리소스를 삭제하는건 X, POST는 상황에 따라서.md",
-    "04_dev_resources/aws/Pasted image 20231107103736.png",
-    "04_dev_resources/aws/무제 폴더",
+    "04_dev_resources/python/python % 포맷팅.md",
+    "04_dev_resources/django/RedirectView.md",
+    "04_dev_resources/aws/viewer protocol policy.md",
+    "04_dev_resources/aws/values that cloudfront displays in console.md",
+    "04_dev_resources/aws/cloudfront response headers policy.md",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
     "templates",
     "04_dev_resources/ssh",
     "04_dev_resources/github",
     "04_dev_resources/linux",
     "04_dev_resources/docker",
-    "01_Literature/포트폴리오 이력작성",
-    "01_Literature/231030_docker기록/Pasted image 20231030100929.png",
-    "01_Literature/231030_docker기록",
-    "03_areas/nexus-agent-infra/Pasted image 20231013182441.png",
     "04_dev_resources/pytest",
-    "03_areas/nexus-agent-backend/Pasted image 20231006170902.png",
-    "03_areas/nexus-agent-backend/Pasted image 20231006164225.png",
-    "03_areas/nexus-agent-backend/Pasted image 20231006164135.png",
-    "03_areas/nexus-agent-backend/Pasted image 20231006152459.png",
-    "03_areas/nexus-agent-backend/Pasted image 20231006152306.png",
-    "03_areas/nexus-agent-backend/Pasted image 20231006152244.png",
-    "Pasted image 20230926100638.png",
     "04_dev_resources/MySQL",
-    "무제 파일.canvas"
+    "03_areas/투자",
+    "Pasted image 20230926100638.png"
   ]
 }

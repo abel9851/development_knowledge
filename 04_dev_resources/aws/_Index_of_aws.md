@@ -8,6 +8,7 @@
  [[04_dev_resources/aws/DKIM|DKIM]]
  [[04_dev_resources/aws/ecr lifecycle policy|ecr lifecycle policy]]
  [[04_dev_resources/aws/Managing access with ACLs|Managing access with ACLs]]
+ [[04_dev_resources/aws/Pasted image 20231107103736.png|Pasted image 20231107103736.png]]
  [[04_dev_resources/aws/route53 record의 뒷부분은 zone_id로 지정한 hosted zone의 이름으로 고정된다.|route53 record의 뒷부분은 zone_id로 지정한 hosted zone의 이름으로 고정된다.]]
  [[04_dev_resources/aws/s3 block public access|s3 block public access]]
  [[04_dev_resources/aws/s3 HeadObject|s3 HeadObject]]
