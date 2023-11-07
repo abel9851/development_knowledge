@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "9ac35ef71f43fb40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0d5370e6f5ebefbb",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_projects/pomodoro_개발/Project task 모델 정의.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_projects/pomodoro_개발/Project task 모델 정의.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_projects/pomodoro_개발/Project task 모델 정의.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -192,8 +204,10 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "8dbff0bed1b016fa",
+  "active": "9ac35ef71f43fb40",
   "lastOpenFiles": [
+    "02_projects/pomodoro_개발/Project task 모델 정의.md",
+    "conflict-files-obsidian-git.md",
     "04_dev_resources/aws/s3CopyObject.md",
     "04_dev_resources/aws/s3 HeadObject.md",
     "04_dev_resources/aws/S3 read access.md",
@@ -201,7 +215,6 @@
     "04_dev_resources/aws/Pasted image 20231107103736.png",
     "02_projects/하루하루_내용정리/23_11_07.md",
     "02_projects/하루하루_내용정리/_Index_of_하루하루_내용정리.md",
-    "02_projects/pomodoro_개발/Project task 모델 정의.md",
     "02_projects/하루하루_내용정리",
     "2023-11-04.md",
     "templates/reference link note.md",
@@ -222,7 +235,6 @@
     "04_dev_resources/django/RedirectView.md",
     "04_dev_resources/aws/viewer protocol policy.md",
     "04_dev_resources/aws/values that cloudfront displays in console.md",
-    "04_dev_resources/aws/cloudfront response headers policy.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "templates",
