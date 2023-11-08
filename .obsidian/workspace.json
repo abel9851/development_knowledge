@@ -1,39 +1,84 @@
 {
   "main": {
-    "id": "e899931d58a75cd9",
+    "id": "f7cf2da8b0265989",
     "type": "split",
     "children": [
       {
-        "id": "45e8b2f45e1548d8",
+        "id": "acf015c3d59090ad",
         "type": "tabs",
         "children": [
           {
-            "id": "f6132b891e356d60",
+            "id": "5a8993d39d79aa35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_projects/하루하루_내용정리/23_11_08.md",
+                "file": "00_inbox/2023-11-08.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "deb108a2cda7b506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_projects/03_회사_백엔드_분석/로그인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44077206c4b3acbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_projects/03_회사_백엔드_분석/일반 로그인은 어떤식으로 하고 있나.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9d525308270be51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Literature/DRF permission class가 여러개 라면.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a3d4f427d612da4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1b895c237be728e1",
+    "id": "ef018b06158c1019",
     "type": "split",
     "children": [
       {
-        "id": "b440188534fb6637",
+        "id": "3445337ccc277109",
         "type": "tabs",
         "children": [
           {
-            "id": "e5bc31c4e8b43c97",
+            "id": "2e3d8f5f6eb26215",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +88,12 @@
             }
           },
           {
-            "id": "b9514115ed602df3",
+            "id": "932d56143ed957dc",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "구조",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +103,7 @@
             }
           },
           {
-            "id": "6e536481aab915c4",
+            "id": "0d1049c682952892",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +114,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 341.5
   },
   "right": {
-    "id": "0a06d6edfda09779",
+    "id": "05070b95a1b4f95e",
     "type": "split",
     "children": [
       {
-        "id": "287f5316868763e5",
+        "id": "10783cf5a97988b5",
         "type": "tabs",
         "children": [
           {
-            "id": "675bed89c64625b9",
+            "id": "8f6ec07aff424bf3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_projects/하루하루_내용정리/23_11_08.md",
+                "file": "02_projects/03_회사_백엔드_분석/일반 로그인은 어떤식으로 하고 있나.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +142,31 @@
             }
           },
           {
-            "id": "c9de36bdf9b95015",
+            "id": "3b212fbc39d23650",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_projects/하루하루_내용정리/23_11_08.md",
+                "file": "02_projects/03_회사_백엔드_분석/일반 로그인은 어떤식으로 하고 있나.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3d08bcb6540bdfd4",
+            "id": "e1cb64a30d98d09a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/2023-11-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f944a5944d840fe3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,86 +177,113 @@
             }
           },
           {
-            "id": "201a92cfc420b86d",
+            "id": "2e16f731a0bb49e0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_projects/하루하루_내용정리/23_11_08.md"
+                "file": "02_projects/03_회사_백엔드_분석/일반 로그인은 어떤식으로 하고 있나.md"
               }
             }
           },
           {
-            "id": "ce0dd825395ae088",
+            "id": "086db7d3d9294bde",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3eb6e1d0a1327fe",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "54f5fd2b22c5c504",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "d4868df05936c1d8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 670.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
+      "switcher:퀵 스위처 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "templates:템플릿 삽입": false
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f6132b891e356d60",
+  "active": "44077206c4b3acbd",
   "lastOpenFiles": [
-    "02_projects/하루하루_내용정리/23_11_07.md",
-    "02_projects/하루하루_내용정리/23_11_08.md",
-    "02_projects/하루하루_내용정리/_Index_of_하루하루_내용정리.md",
-    "02_projects/하루하루_내용정리/231102 습득한 거 내용정리 5분이상.md",
-    "생각정리",
-    "04_dev_resources/thought/data가 존재하지 않을 때, key를 보내야하는가.md",
-    "templates/reference link note.md",
-    "01_Literature/django ManyToManyField explicit association table.md",
-    "02_projects/pomodoro_개발/Project task 모델 정의.md",
-    "04_dev_resources/django/ManyToManyField.md",
-    "04_dev_resources/django/choice Enumuration types.md",
-    "04_dev_resources/django/choice Enumeration types human readable name 설정.md",
-    "anki/django/choice Enumeration types.md",
-    "anki/_Index_of_anki.md",
-    "anki/django/_Index_of_django.md",
-    "02_projects/pomodoro_개발/Task 모델에서 choice 구현.md",
+    "01_Literature/DRF permission class가 여러개 라면.md",
+    "02_projects/03_회사_백엔드_분석/일반 로그인은 어떤식으로 하고 있나.md",
+    "02_projects/03_회사_백엔드_분석/로그인.md",
+    "02_projects/03_회사_백엔드_분석/Pasted image 20231108174758.png",
+    "02_projects/03_회사_백엔드_분석/Pasted image 20231108174533.png",
+    "02_projects/03_회사_백엔드_분석/Pasted image 20231108174316.png",
+    "02_projects/03_회사_백엔드_분석/소셜 로그인은 어떤 식으로 하고 있나.md",
+    "01_Literature/DRF permission과 throttle의 차이점.md",
+    "00_inbox/2023-11-08.md",
+    "02_projects/04_회사_백엔드_구현/throttle을 사용해서 anonymous user의 요청률을 제한하자..md",
+    "04_dev_resources/DRF/Authentication class.md",
+    "01_Literature/DRF의 authentication 실패 시 동작.md",
+    "01_Literature/DRF의 deafult authentication, default permission 적용범위.md",
+    "04_dev_resources/DRF/_Index_of_DRF.md",
+    "04_dev_resources/DRF",
+    "02_projects/04_회사_백엔드_구현/로그인 라이브러리 변경.md",
+    "02_projects/03_회사_백엔드_분석/_Index_of_03_회사_백엔드_분석.md",
+    "02_projects/03_회사_백엔드_분석/_Index_of_02_회사_백엔드_분석.md",
+    "00_inbox/2023-11-07.md",
+    "04_dev_resources/web/status code 410.md",
+    "04_dev_resources/web/status code 405.md",
+    "02_projects/02_회사_인프라_구현/로컬에 vue3 docker 환경 구현(예정).md",
+    "01_Literature/cloudfront SSL certificate.md",
+    "04_dev_resources/aws/CreateDistribution.md",
+    "04_dev_resources/aws/s3CopyObject.md",
+    "01_Literature/chatgpt api를 둘러싼 라이브러리 (읽기).md",
+    "07_references/실용주의 프로그래머를 지향합니다를 읽고.md",
+    "00_inbox/핫한 기술의 전문가도 되어야한다..md",
+    "01_Literature/파이썬 memoryview, bytearray, buffer, buffer protocol.md",
+    "00_inbox/단기 목표.md",
+    "02_projects/04_회사_백엔드_구현",
+    "02_projects/02_회사_인프라_구현",
+    "02_projects/03_회사_백엔드_분석",
     "anki/django",
     "anki",
-    "01_Literature/DRF의 데이터 validate는 어느 계층에서 하는게 좋을까.md",
     "04_dev_resources/django/Pasted image 20231108001500.png",
     "04_dev_resources/django/Pasted image 20231108001234.png",
     "04_dev_resources/django/Pasted image 20231107235752.png",
     "04_dev_resources/django/Pasted image 20231107235736.png",
-    "01_Literature/java spring처럼 django에서도 layer를 나눠야할까.md",
-    "conflict-files-obsidian-git.md",
-    "04_dev_resources/aws/s3CopyObject.md",
-    "04_dev_resources/aws/s3 HeadObject.md",
-    "04_dev_resources/aws/S3 read access.md",
-    "04_dev_resources/aws/S3 inventory.md",
     "04_dev_resources/aws/Pasted image 20231107103736.png",
-    "02_projects/하루하루_내용정리",
-    "2023-11-04.md",
-    "02_projects/pomodoro_개발/_Index_of_pomodoro_개발.md",
-    "02_projects/pomodoro_개발",
-    "02_projects/무제 파일.md",
-    "02_projects/_Index_of_01_projects.md",
-    "무제 파일 1.canvas",
-    "무제 파일.canvas",
+    "04_dev_resources/aws/무제 폴더",
     "templates",
     "04_dev_resources/ssh",
     "04_dev_resources/github",
-    "04_dev_resources/linux",
-    "04_dev_resources/docker",
-    "Pasted image 20230926100638.png"
+    "01_Literature/231030_docker기록/Pasted image 20231030100929.png",
+    "03_areas/nexus-agent-infra/Pasted image 20231013182441.png",
+    "무제 파일.canvas"
   ]
 }
