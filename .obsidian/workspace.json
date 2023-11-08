@@ -13,13 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_projects/하루하루_내용정리/23_11_08.md",
+                "file": "04_dev_resources/django/DateTimeField.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1df52f1e96b7b52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anki/web/XML과 JSON의 차이점.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c9a702fe0cb1ea3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db8f3a01250ddc76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_dev_resources/django/DateTimeField vs DateField.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dadd1fa03c79a54",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "xml",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_projects/하루하루_내용정리/23_11_08.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_projects/하루하루_내용정리/23_11_08.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_projects/하루하루_내용정리/23_11_08.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,13 +200,22 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "f6132b891e356d60",
+  "active": "0c9a702fe0cb1ea3",
   "lastOpenFiles": [
+    "anki/web/XML과 JSON의 차이점.md",
+    "conflict-files-obsidian-git.md",
+    "anki/web/_Index_of_web.md",
+    "02_projects/하루하루_내용정리/23_11_09.md",
+    "anki/web",
+    "01_Literature/DRF 종속된 url 정의 및 view 이름.md",
+    "04_dev_resources/django/DateField.md",
+    "04_dev_resources/django/DateTimeField vs DateField.md",
+    "04_dev_resources/django/DateTimeField.md",
+    "02_projects/하루하루_내용정리/23_11_08.md",
+    "templates/chatgpt 프롬프트 탬플릿.md",
     "04_dev_resources/DRF/_Index_of_DRF.md",
     "04_dev_resources/DRF/Authentication class.md",
     "04_dev_resources/DRF",
-    "templates/chatgpt 프롬프트 탬플릿.md",
-    "02_projects/하루하루_내용정리/23_11_08.md",
     "02_projects/하루하루_내용정리/23_11_07.md",
     "02_projects/하루하루_내용정리/_Index_of_하루하루_내용정리.md",
     "02_projects/하루하루_내용정리/231102 습득한 거 내용정리 5분이상.md",
@@ -179,27 +233,18 @@
     "02_projects/pomodoro_개발/Task 모델에서 choice 구현.md",
     "anki/django",
     "anki",
-    "01_Literature/DRF의 데이터 validate는 어느 계층에서 하는게 좋을까.md",
     "04_dev_resources/django/Pasted image 20231108001500.png",
     "04_dev_resources/django/Pasted image 20231108001234.png",
     "04_dev_resources/django/Pasted image 20231107235752.png",
     "04_dev_resources/django/Pasted image 20231107235736.png",
-    "01_Literature/java spring처럼 django에서도 layer를 나눠야할까.md",
-    "conflict-files-obsidian-git.md",
-    "04_dev_resources/aws/s3CopyObject.md",
-    "04_dev_resources/aws/s3 HeadObject.md",
-    "04_dev_resources/aws/S3 read access.md",
-    "04_dev_resources/aws/S3 inventory.md",
     "04_dev_resources/aws/Pasted image 20231107103736.png",
     "02_projects/하루하루_내용정리",
-    "2023-11-04.md",
     "02_projects/pomodoro_개발",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "templates",
     "04_dev_resources/ssh",
     "04_dev_resources/github",
-    "04_dev_resources/linux",
     "Pasted image 20230926100638.png"
   ]
 }
