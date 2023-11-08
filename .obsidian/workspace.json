@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "0c9a702fe0cb1ea3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "db8f3a01250ddc76",
             "type": "leaf",
             "state": {
@@ -64,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "anki/web/XML과 JSON의 차이점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "anki/web/XML과 JSON의 차이점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "anki/web/XML과 JSON의 차이점.md"
               }
             }
           },
@@ -200,10 +188,10 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "0c9a702fe0cb1ea3",
+  "active": "d1df52f1e96b7b52",
   "lastOpenFiles": [
-    "anki/web/XML과 JSON의 차이점.md",
     "conflict-files-obsidian-git.md",
+    "anki/web/XML과 JSON의 차이점.md",
     "anki/web/_Index_of_web.md",
     "02_projects/하루하루_내용정리/23_11_09.md",
     "anki/web",
