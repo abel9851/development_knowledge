@@ -16,6 +16,7 @@
  [[04_dev_resources/terraform/terraform data aws_acm_certificate|terraform data aws_acm_certificate]]
  [[04_dev_resources/terraform/terraform data aws_iam_policy_document|terraform data aws_iam_policy_document]]
  [[04_dev_resources/terraform/terraform data aws_iam_policy_document와 resource aws_iam_policy 비교|terraform data aws_iam_policy_document와 resource aws_iam_policy 비교]]
+ [[04_dev_resources/terraform/terraform if statement|terraform if statement]]
  [[04_dev_resources/terraform/terraform resource aws_ecr_repository|terraform resource aws_ecr_repository]]
  [[04_dev_resources/terraform/terraform resource docker_image|terraform resource docker_image]]
  [[04_dev_resources/terraform/terraform resource docker_registry_image|terraform resource docker_registry_image]]
