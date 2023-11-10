@@ -30,14 +30,38 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd301eabde8fe9a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/2023-11-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "acf015c3d59090ad",
         "type": "tabs",
         "children": [
+          {
+            "id": "a030202f6d4274d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/2023-11-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "5a8993d39d79aa35",
             "type": "leaf",
@@ -86,8 +110,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 234.5
   },
   "right": {
     "id": "05070b95a1b4f95e",
@@ -153,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_inbox/2023-11-09.md",
+                "file": "00_inbox/2023-11-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_inbox/2023-11-09.md",
+                "file": "00_inbox/2023-11-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_inbox/2023-11-09.md"
+                "file": "00_inbox/2023-11-10.md"
               }
             }
           },
@@ -259,15 +282,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0f3fa30908f6607e",
+  "active": "dd301eabde8fe9a3",
   "lastOpenFiles": [
+    "00_inbox/Pasted image 20231110130246.png",
+    "00_inbox/2023-11-09.md",
+    "00_inbox/2023-11-10.md",
+    "00_inbox/2023-11-08.md",
+    "00_inbox/2023-09-26.md",
     "01_Literature/DRF permission class가 여러개 라면.md",
     "01_Literature/django HttpResponse와 iterator.md",
     "02_projects/03_회사_백엔드_분석/로그인.md",
-    "00_inbox/2023-11-08.md",
     "04_dev_resources/terraform/terraform if statement.md",
-    "00_inbox/2023-11-09.md",
-    "00_inbox/2023-09-26.md",
     "00_inbox/2023-10-30.md",
     "00_inbox/2023-10-31.md",
     "00_inbox/2023-11-06.md",
@@ -290,8 +315,6 @@
     "01_Literature/DRF의 deafult authentication, default permission 적용범위.md",
     "04_dev_resources/DRF/_Index_of_DRF.md",
     "04_dev_resources/DRF",
-    "02_projects/04_회사_백엔드_구현/로그인 라이브러리 변경.md",
-    "02_projects/03_회사_백엔드_분석/_Index_of_03_회사_백엔드_분석.md",
     "02_projects/04_회사_백엔드_구현",
     "02_projects/02_회사_인프라_구현",
     "02_projects/03_회사_백엔드_분석",
