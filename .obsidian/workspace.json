@@ -45,7 +45,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anki/solid/무제 파일.md",
+                "file": "anki/solid/단일 책임 원칙.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cfd2171919aef29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anki/solid/단일 책임 원칙.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3708b1f9dad5329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anki/solid/무제 파일.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anki/solid/무제 파일.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anki/solid/무제 파일.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -200,12 +224,15 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "dc2de0d39842fced",
+  "active": "e3708b1f9dad5329",
   "lastOpenFiles": [
-    "anki/web/API.md",
-    "anki/solid/무제 파일.md",
-    "anki/web/XML과 JSON의 차이점.md",
+    "anki/solid/단일 책임 원칙.md",
+    "conflict-files-obsidian-git.md",
+    "anki/solid/_Index_of_solid.md",
     "anki/django/choice Enumeration types.md",
+    "anki/django/_Index_of_django.md",
+    "anki/web/API.md",
+    "anki/web/XML과 JSON의 차이점.md",
     "04_dev_resources/solid/응집력(cohesion)이 높을 수록 단일 책임 원칙에 부합하다.md",
     "anki/solid",
     "04_dev_resources/solid/결합(coupling)이 느슨할 수록 단일 책임 원칙에 부합하다.md",
@@ -225,12 +252,9 @@
     "04_dev_resources/django/DateTimeField.md",
     "01_Literature/MySQL 테이블 명명 규칙.md",
     "04_dev_resources/terraform/terraform if statement.md",
-    "conflict-files-obsidian-git.md",
     "anki/web/_Index_of_web.md",
     "anki/web",
     "01_Literature/DRF 종속된 url 정의 및 view 이름.md",
-    "04_dev_resources/django/DateField.md",
-    "02_projects/하루하루_내용정리/23_11_08.md",
     "04_dev_resources/DRF",
     "생각정리",
     "anki/django",
