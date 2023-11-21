@@ -9,6 +9,7 @@
  [[04_dev_resources/django/dispatch|dispatch]]
  [[04_dev_resources/django/django model default 설정|django model default 설정]]
  [[04_dev_resources/django/ManyToManyField|ManyToManyField]]
+ [[04_dev_resources/django/only method|only method]]
  [[04_dev_resources/django/outref|outref]]
  [[04_dev_resources/django/Pasted image 20231107235736.png|Pasted image 20231107235736.png]]
  [[04_dev_resources/django/Pasted image 20231107235752.png|Pasted image 20231107235752.png]]
