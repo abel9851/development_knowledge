@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45e8b2f45e1548d8",
+        "id": "b70c0a912c502298",
         "type": "tabs",
         "children": [
           {
-            "id": "f6132b891e356d60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/django/DateTimeField.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1df52f1e96b7b52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/django/only method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dadd1fa03c79a54",
+            "id": "33bd18a9e4e0c394",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -40,43 +16,19 @@
             }
           },
           {
-            "id": "dc2de0d39842fced",
+            "id": "6afb65e973376c83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anki/solid/단일 책임 원칙.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cfd2171919aef29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "anki/solid/단일 책임 원칙.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8af3b30da26684ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/django/values.md",
+                "file": "02_projects/pomodoro_개발/Task 생성 (pomodoro 생성).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_projects/pomodoro_개발/Task 생성 (pomodoro 생성).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_projects/pomodoro_개발/Task 생성 (pomodoro 생성).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "02_projects/pomodoro_개발/Task 생성 (pomodoro 생성).md"
               }
             }
           },
@@ -210,37 +164,37 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "e5bc31c4e8b43c97",
+  "active": "6afb65e973376c83",
   "lastOpenFiles": [
     "anki/solid/단일 책임 원칙.md",
+    "04_dev_resources/django/DateTimeField.md",
+    "04_dev_resources/django/only method.md",
+    "04_dev_resources/solid/단일 책임 원칙 (Simple Responsibility Principle).md",
+    "04_dev_resources/solid/소프트웨어 컴포넌트는 하나의 변경할 이유를 가져야한다.md",
+    "04_dev_resources/solid/결합(coupling)이 느슨할 수록 단일 책임 원칙에 부합하다.md",
+    "04_dev_resources/solid/응집력(cohesion)이 높을 수록 단일 책임 원칙에 부합하다.md",
+    "02_projects/pomodoro_개발/Task 생성 (pomodoro 생성).md",
+    "02_projects/pomodoro_개발/Task 모델에서 choice 구현.md",
+    "02_projects/pomodoro_개발/ProjectListVIew 구현.md",
+    "02_projects/pomodoro_개발/Project task 모델 정의.md",
+    "02_projects/_Index_of_02_projects.md",
     "conflict-files-obsidian-git.md",
     "anki/solid/_Index_of_solid.md",
     "anki/django/choice Enumeration types.md",
     "anki/django/_Index_of_django.md",
     "anki/web/API.md",
     "anki/web/XML과 JSON의 차이점.md",
-    "04_dev_resources/solid/응집력(cohesion)이 높을 수록 단일 책임 원칙에 부합하다.md",
     "anki/solid",
-    "04_dev_resources/solid/결합(coupling)이 느슨할 수록 단일 책임 원칙에 부합하다.md",
-    "04_dev_resources/solid/단일 책임 원칙 (Simple Responsibility Principle).md",
     "04_dev_resources/solid/_Index_of_solid.md",
     "02_projects/pomodoro_개발/custom user 정의.md",
     "04_dev_resources/solid",
     "02_projects/pomodoro_개발/_Index_of_pomodoro_개발.md",
-    "02_projects/pomodoro_개발/ProjectListVIew 구현.md",
-    "02_projects/pomodoro_개발/Task 모델에서 choice 구현.md",
     "02_projects/하루하루_내용정리/23_11_10.md",
     "02_projects/하루하루_내용정리/23_11_09.md",
-    "04_dev_resources/django/only method.md",
     "04_dev_resources/django/DateTimeField vs DateField.md",
     "04_dev_resources/django/values.md",
     "04_dev_resources/django/values_list.md",
-    "04_dev_resources/django/DateTimeField.md",
-    "01_Literature/MySQL 테이블 명명 규칙.md",
-    "04_dev_resources/terraform/terraform if statement.md",
-    "anki/web/_Index_of_web.md",
     "anki/web",
-    "01_Literature/DRF 종속된 url 정의 및 view 이름.md",
     "04_dev_resources/DRF",
     "생각정리",
     "anki/django",
