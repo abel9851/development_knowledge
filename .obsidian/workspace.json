@@ -1,48 +1,93 @@
 {
   "main": {
-    "id": "e899931d58a75cd9",
+    "id": "f7cf2da8b0265989",
     "type": "split",
     "children": [
       {
-        "id": "b70c0a912c502298",
+        "id": "e7748f8963533e5b",
         "type": "tabs",
         "children": [
           {
-            "id": "33bd18a9e4e0c394",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6afb65e973376c83",
+            "id": "e8c1d5f46304c987",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_projects/pomodoro_개발/Task 생성 (pomodoro 생성).md",
+                "file": "02_projects/02_회사_인프라_구현/고부하 테스트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0d49a796fa042f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/2023-11-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdaabbaf97554f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_projects/04_회사_백엔드_구현/231121start 로그인 라이브러리 변경.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f7c28bc14255c22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_projects/05_error 내용 분석 및 정리/elasticsearch Request에러.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "fe3b5f28d449a06f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe59a1fab88614ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/2023-11-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1b895c237be728e1",
+    "id": "ef018b06158c1019",
     "type": "split",
     "children": [
       {
-        "id": "b440188534fb6637",
+        "id": "3445337ccc277109",
         "type": "tabs",
         "children": [
           {
-            "id": "e5bc31c4e8b43c97",
+            "id": "2e3d8f5f6eb26215",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,12 +97,12 @@
             }
           },
           {
-            "id": "b9514115ed602df3",
+            "id": "932d56143ed957dc",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "xml",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +112,7 @@
             }
           },
           {
-            "id": "6e536481aab915c4",
+            "id": "0d1049c682952892",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +123,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 313.5
   },
   "right": {
-    "id": "0a06d6edfda09779",
+    "id": "05070b95a1b4f95e",
     "type": "split",
     "children": [
       {
-        "id": "287f5316868763e5",
+        "id": "10783cf5a97988b5",
         "type": "tabs",
         "children": [
           {
-            "id": "675bed89c64625b9",
+            "id": "8f6ec07aff424bf3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_projects/pomodoro_개발/Task 생성 (pomodoro 생성).md",
+                "file": "02_projects/02_회사_인프라_구현/고부하 테스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +151,31 @@
             }
           },
           {
-            "id": "c9de36bdf9b95015",
+            "id": "3b212fbc39d23650",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_projects/pomodoro_개발/Task 생성 (pomodoro 생성).md",
+                "file": "02_projects/02_회사_인프라_구현/고부하 테스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3d08bcb6540bdfd4",
+            "id": "e1cb64a30d98d09a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/2023-11-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f944a5944d840fe3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,86 +186,113 @@
             }
           },
           {
-            "id": "201a92cfc420b86d",
+            "id": "2e16f731a0bb49e0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_projects/pomodoro_개발/Task 생성 (pomodoro 생성).md"
+                "file": "02_projects/02_회사_인프라_구현/고부하 테스트.md"
               }
             }
           },
           {
-            "id": "ce0dd825395ae088",
+            "id": "086db7d3d9294bde",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3eb6e1d0a1327fe",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "54f5fd2b22c5c504",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "d4868df05936c1d8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 670.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
+      "switcher:퀵 스위처 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "templates:템플릿 삽입": false
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6afb65e973376c83",
+  "active": "e8c1d5f46304c987",
   "lastOpenFiles": [
-    "anki/solid/단일 책임 원칙.md",
-    "04_dev_resources/django/DateTimeField.md",
-    "04_dev_resources/django/only method.md",
-    "04_dev_resources/solid/단일 책임 원칙 (Simple Responsibility Principle).md",
-    "04_dev_resources/solid/소프트웨어 컴포넌트는 하나의 변경할 이유를 가져야한다.md",
-    "04_dev_resources/solid/결합(coupling)이 느슨할 수록 단일 책임 원칙에 부합하다.md",
-    "04_dev_resources/solid/응집력(cohesion)이 높을 수록 단일 책임 원칙에 부합하다.md",
-    "02_projects/pomodoro_개발/Task 생성 (pomodoro 생성).md",
-    "02_projects/pomodoro_개발/Task 모델에서 choice 구현.md",
-    "02_projects/pomodoro_개발/ProjectListVIew 구현.md",
-    "02_projects/pomodoro_개발/Project task 모델 정의.md",
-    "02_projects/_Index_of_02_projects.md",
-    "conflict-files-obsidian-git.md",
-    "anki/solid/_Index_of_solid.md",
-    "anki/django/choice Enumeration types.md",
-    "anki/django/_Index_of_django.md",
     "anki/web/API.md",
-    "anki/web/XML과 JSON의 차이점.md",
+    "anki/solid/단일 책임 원칙.md",
+    "anki/solid/_Index_of_solid.md",
     "anki/solid",
+    "04_dev_resources/solid/응집력(cohesion)이 높을 수록 단일 책임 원칙에 부합하다.md",
+    "04_dev_resources/solid/소프트웨어 컴포넌트는 하나의 변경할 이유를 가져야한다.md",
+    "04_dev_resources/solid/단일 책임 원칙 (Simple Responsibility Principle).md",
+    "04_dev_resources/solid/결합(coupling)이 느슨할 수록 단일 책임 원칙에 부합하다.md",
     "04_dev_resources/solid/_Index_of_solid.md",
-    "02_projects/pomodoro_개발/custom user 정의.md",
     "04_dev_resources/solid",
-    "02_projects/pomodoro_개발/_Index_of_pomodoro_개발.md",
-    "02_projects/하루하루_내용정리/23_11_10.md",
-    "02_projects/하루하루_내용정리/23_11_09.md",
-    "04_dev_resources/django/DateTimeField vs DateField.md",
-    "04_dev_resources/django/values.md",
-    "04_dev_resources/django/values_list.md",
+    "04_dev_resources/django/only method.md",
+    "02_projects/02_회사_인프라_구현/vue3 인프라.md",
+    "02_projects/02_회사_인프라_구현/에러에서 배워야할 것.md",
+    "02_projects/02_회사_인프라_구현/aws s3 파일 전부 복사 명령어.md",
+    "02_projects/02_회사_인프라_구현/terraform 에러 absent present.md",
+    "02_projects/04_회사_백엔드_구현/231121start 로그인 라이브러리 변경.md",
+    "00_inbox/2023-11-20.md",
+    "02_projects/05_error 내용 분석 및 정리/elasticsearch Request에러.md",
+    "02_projects/05_error 내용 분석 및 정리/terraform resource docker container Plugin did not respond.md",
+    "02_projects/05_error 내용 분석 및 정리/vue3 npm run build 에러.md",
+    "02_projects/02_회사_인프라_구현/고부하 테스트.md",
+    "00_inbox/2023-11-22.md",
+    "00_inbox/2023-11-21.md",
+    "00_inbox/2023-11-16.md",
+    "00_inbox/2023-10-25.md",
+    "02_projects/04_회사_백엔드_구현/배경지식/getter와 setter에서 데코레이터는 중개자 역할.md",
+    "02_projects/04_회사_백엔드_구현/배경지식/파이썬 dataclass 깨달음.md",
+    "02_projects/03_회사_백엔드_분석/일반 로그인은 어떤식으로 하고 있나.md",
+    "02_projects/개발 아이템 아이디어",
+    "02_projects/매주 화요일 개발운용부 MTG",
+    "02_projects/04_회사_백엔드_구현/배경지식/Pasted image 20231120112855.png",
+    "02_projects/04_회사_백엔드_구현/배경지식",
+    "02_projects/02_회사_인프라_구현/무제 폴더",
+    "02_projects/05_error 내용 분석 및 정리",
+    "00_inbox/Pasted image 20231110130246.png",
     "anki/web",
+    "02_projects/03_회사_백엔드_분석/Pasted image 20231108174758.png",
+    "02_projects/03_회사_백엔드_분석/Pasted image 20231108174533.png",
+    "02_projects/03_회사_백엔드_분석/Pasted image 20231108174316.png",
     "04_dev_resources/DRF",
-    "생각정리",
-    "anki/django",
-    "anki",
+    "02_projects/04_회사_백엔드_구현",
     "04_dev_resources/django/Pasted image 20231108001500.png",
     "04_dev_resources/django/Pasted image 20231108001234.png",
     "04_dev_resources/django/Pasted image 20231107235752.png",
     "04_dev_resources/django/Pasted image 20231107235736.png",
     "04_dev_resources/aws/Pasted image 20231107103736.png",
-    "02_projects/하루하루_내용정리",
-    "02_projects/pomodoro_개발",
-    "무제 파일 1.canvas",
-    "무제 파일.canvas",
-    "templates",
-    "Pasted image 20230926100638.png"
+    "무제 파일.canvas"
   ]
 }
