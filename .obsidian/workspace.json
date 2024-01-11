@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/_Index_of_templates.md",
+                "file": "04_dev_resources/DRF/중첩된 serializer에서 이미 정의된 안쪽 serializer의 field를 조작하지 않고 바깥 serializer에서 field를 제어하는 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/_Index_of_templates.md",
+                "file": "04_dev_resources/DRF/중첩된 serializer에서 이미 정의된 안쪽 serializer의 field를 조작하지 않고 바깥 serializer에서 field를 제어하는 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/_Index_of_templates.md",
+                "file": "04_dev_resources/DRF/중첩된 serializer에서 이미 정의된 안쪽 serializer의 field를 조작하지 않고 바깥 serializer에서 field를 제어하는 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/_Index_of_templates.md"
+                "file": "04_dev_resources/DRF/중첩된 serializer에서 이미 정의된 안쪽 serializer의 field를 조작하지 않고 바깥 serializer에서 field를 제어하는 방법.md"
               }
             }
           },
@@ -155,17 +155,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "e5bc31c4e8b43c97",
+  "active": "6afb65e973376c83",
   "lastOpenFiles": [
+    "00_inbox/2024-01-11.md",
+    "04_dev_resources/DRF/중첩된 serializer에서 이미 정의된 안쪽 serializer의 field를 조작하지 않고 바깥 serializer에서 field를 제어하는 방법.md",
+    "01_Literature/DRF 다대다관계 related name과 prefetch_related 사용 가능 여부.md",
+    "templates/_Index_of_templates.md",
     "templates/Basic-anki-flashcard-template(뉴라인은 br을 사용해야한다.).md",
     "anki/solid/단일 책임 원칙.md",
     "anki/web/XML과 JSON의 차이점.md",
@@ -188,10 +192,6 @@
     "04_dev_resources/python/print대신 logger를 사용하는 이유.md",
     "04_dev_resources/python/__name__, __qualname__ 비교.md",
     "04_dev_resources/python/return된 값을 사용하지 않을 때 변수표현.md",
-    "04_dev_resources/pytest/test함수에서 사용되는 fixture함수는 순서를 고려할 필요가 없다..md",
-    "04_dev_resources/MySQL/column의 default 값 확인하기.md",
-    "04_dev_resources/HTTP/HTTP query string의 value는 파이썬에서 string.md",
-    "04_dev_resources/github/github deploy key 작성.md",
     "02_projects/pomodoro_개발/지식",
     "anki/solid",
     "04_dev_resources/solid",
