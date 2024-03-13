@@ -8,27 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33bd18a9e4e0c394",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6afb65e973376c83",
+            "id": "a5ec4d0ad9f26aab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/DRF/중첩된 serializer에서 이미 정의된 안쪽 serializer의 field를 조작하지 않고 바깥 serializer에서 field를 제어하는 방법.md",
+                "file": "01_Literature/vue의 개념 이해- 모델, 컴포넌트, 동기화에 대한 체인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ef0b9261a29ec72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_dev_resources/vue/모델(vue).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0a50759379ae732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_dev_resources/용어정리/모델.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e42b65514b411ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_dev_resources/vue/mount의 역할.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -57,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "40689392",
+                "query": "api",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_dev_resources/DRF/중첩된 serializer에서 이미 정의된 안쪽 serializer의 field를 조작하지 않고 바깥 serializer에서 field를 제어하는 방법.md",
+                "file": "04_dev_resources/vue/mount의 역할.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_dev_resources/DRF/중첩된 serializer에서 이미 정의된 안쪽 serializer의 field를 조작하지 않고 바깥 serializer에서 field를 제어하는 방법.md",
+                "file": "04_dev_resources/vue/mount의 역할.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_dev_resources/DRF/중첩된 serializer에서 이미 정의된 안쪽 serializer의 field를 조작하지 않고 바깥 serializer에서 field를 제어하는 방법.md"
+                "file": "04_dev_resources/vue/mount의 역할.md"
               }
             }
           },
@@ -164,34 +192,37 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "6afb65e973376c83",
+  "active": "e42b65514b411ba5",
   "lastOpenFiles": [
-    "00_inbox/2024-01-11.md",
+    "04_dev_resources/vue/vue란.md",
+    "04_dev_resources/vue/mount의 역할.md",
+    "04_dev_resources/vue/모델(vue).md",
+    "04_dev_resources/용어정리/모델.md",
+    "01_Literature/vue의 개념 이해- 모델, 컴포넌트, 동기화에 대한 체인.md",
+    "04_dev_resources/용어정리/컴포넌트.md",
+    "04_dev_resources/용어정리/_Index_of_용어정리.md",
+    "04_dev_resources/용어정리",
+    "04_dev_resources/vue/_Index_of_vue.md",
+    "04_dev_resources/vue",
+    "04_dev_resources/cs/240112 api 개념.md",
+    "01_Literature/macos 깃허브 SSH 등록 방법.md",
+    "04_dev_resources/cs/240117 api 실습.md",
+    "04_dev_resources/cs/_Index_of_cs.md",
+    "03_areas/nexus-agent-backend/_Index_of_nexus-agent-backend.md",
+    "_Index_of_hj second brain.md",
+    "04_dev_resources/cs",
+    "01_Literature/하루 8시간하는 사람도 있으니 난 최소 개발 하루 4시간씩은 개인습득시간을 확보하고 주말에는 6시간 하도록 하자..md",
+    "01_Literature/개발을 잘하려면 해결방법을, 해결 과정을 많이 접해야한다..md",
+    "templates/chatgpt 프롬프트 탬플릿.md",
+    "01_Literature/DRF serializer.data와 serializer.validated_data의 차이점.md",
     "04_dev_resources/DRF/중첩된 serializer에서 이미 정의된 안쪽 serializer의 field를 조작하지 않고 바깥 serializer에서 field를 제어하는 방법.md",
+    "00_inbox/2024-01-11.md",
     "01_Literature/DRF 다대다관계 related name과 prefetch_related 사용 가능 여부.md",
     "templates/_Index_of_templates.md",
     "templates/Basic-anki-flashcard-template(뉴라인은 br을 사용해야한다.).md",
     "anki/solid/단일 책임 원칙.md",
     "anki/web/XML과 JSON의 차이점.md",
     "04_dev_resources/web/socks란.md",
-    "04_dev_resources/web/socks proxy와  HTTP proxy의 차이점.md",
-    "04_dev_resources/thought/data가 존재하지 않을 때, key를 보내야하는가.md",
-    "04_dev_resources/terraform/aws s3 생성에 필요한 terraform resource list.md",
-    "04_dev_resources/terraform/required_provider와 provider 설정.md",
-    "04_dev_resources/terraform/테라폼에서 for표현식.md",
-    "04_dev_resources/terraform/aws vpc 공식 모듈.md",
-    "04_dev_resources/terraform/terraform 변수 활용 - 리모트 저장소 혹은 로컬PC의 config파일을 사용할 수 있도록 고려하자..md",
-    "04_dev_resources/terraform/terraform data aws_iam_policy_document와 resource aws_iam_policy 비교.md",
-    "04_dev_resources/solid/응집력(cohesion)이 높을 수록 단일 책임 원칙에 부합하다.md",
-    "04_dev_resources/solid/단일 책임 원칙 (Simple Responsibility Principle).md",
-    "04_dev_resources/solid/결합(coupling)이 느슨할 수록 단일 책임 원칙에 부합하다.md",
-    "04_dev_resources/solid/소프트웨어 컴포넌트는 하나의 변경할 이유를 가져야한다.md",
-    "04_dev_resources/python/python _ 포맷팅.md",
-    "04_dev_resources/python/cerberus의 shema 작동순서.md",
-    "04_dev_resources/python/2개의 class에서 메소드를 전달 했을 경우 self는 누구인가..md",
-    "04_dev_resources/python/print대신 logger를 사용하는 이유.md",
-    "04_dev_resources/python/__name__, __qualname__ 비교.md",
-    "04_dev_resources/python/return된 값을 사용하지 않을 때 변수표현.md",
     "02_projects/pomodoro_개발/지식",
     "anki/solid",
     "04_dev_resources/solid",
@@ -199,14 +230,11 @@
     "04_dev_resources/DRF",
     "생각정리",
     "anki/django",
-    "anki",
     "04_dev_resources/django/Pasted image 20231108001500.png",
     "04_dev_resources/django/Pasted image 20231108001234.png",
     "04_dev_resources/django/Pasted image 20231107235752.png",
     "04_dev_resources/django/Pasted image 20231107235736.png",
     "04_dev_resources/aws/Pasted image 20231107103736.png",
-    "02_projects/하루하루_내용정리",
-    "02_projects/pomodoro_개발",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "Pasted image 20230926100638.png"
