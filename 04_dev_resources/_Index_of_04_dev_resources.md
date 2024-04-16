@@ -8,6 +8,7 @@
  [[04_dev_resources/DRF/_Index_of_DRF|_Index_of_DRF]]
  [[04_dev_resources/github/_Index_of_github|_Index_of_github]]
  [[04_dev_resources/HTTP/_Index_of_HTTP|_Index_of_HTTP]]
+ [[04_dev_resources/js/_Index_of_js|_Index_of_js]]
  [[04_dev_resources/linux/_Index_of_linux|_Index_of_linux]]
  [[04_dev_resources/MySQL/_Index_of_MySQL|_Index_of_MySQL]]
  [[04_dev_resources/pytest/_Index_of_pytest|_Index_of_pytest]]

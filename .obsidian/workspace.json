@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/용어정리/모델.md",
+                "file": "04_dev_resources/vue/모델(vue).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b9b45fa673e3a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_dev_resources/pytest/assert called.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_dev_resources/vue/mount의 역할.md",
+                "file": "04_dev_resources/pytest/assert called.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_dev_resources/vue/mount의 역할.md",
+                "file": "04_dev_resources/pytest/assert called.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_dev_resources/vue/mount의 역할.md"
+                "file": "04_dev_resources/pytest/assert called.md"
               }
             }
           },
@@ -192,12 +204,18 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "e42b65514b411ba5",
+  "active": "0b9b45fa673e3a45",
   "lastOpenFiles": [
-    "04_dev_resources/vue/vue란.md",
+    "04_dev_resources/pytest/test함수에서 사용되는 fixture함수는 순서를 고려할 필요가 없다..md",
+    "04_dev_resources/pytest/assert called.md",
+    "04_dev_resources/무제 폴더",
     "04_dev_resources/vue/mount의 역할.md",
+    "04_dev_resources/vue/vue란.md",
     "04_dev_resources/vue/모델(vue).md",
+    "04_dev_resources/js/querySelector.md",
+    "04_dev_resources/js/_Index_of_js.md",
     "04_dev_resources/용어정리/모델.md",
+    "04_dev_resources/js",
     "01_Literature/vue의 개념 이해- 모델, 컴포넌트, 동기화에 대한 체인.md",
     "04_dev_resources/용어정리/컴포넌트.md",
     "04_dev_resources/용어정리/_Index_of_용어정리.md",
@@ -219,17 +237,11 @@
     "00_inbox/2024-01-11.md",
     "01_Literature/DRF 다대다관계 related name과 prefetch_related 사용 가능 여부.md",
     "templates/_Index_of_templates.md",
-    "templates/Basic-anki-flashcard-template(뉴라인은 br을 사용해야한다.).md",
-    "anki/solid/단일 책임 원칙.md",
-    "anki/web/XML과 JSON의 차이점.md",
-    "04_dev_resources/web/socks란.md",
     "02_projects/pomodoro_개발/지식",
     "anki/solid",
     "04_dev_resources/solid",
     "anki/web",
     "04_dev_resources/DRF",
-    "생각정리",
-    "anki/django",
     "04_dev_resources/django/Pasted image 20231108001500.png",
     "04_dev_resources/django/Pasted image 20231108001234.png",
     "04_dev_resources/django/Pasted image 20231107235752.png",
