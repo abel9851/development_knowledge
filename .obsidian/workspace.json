@@ -8,67 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5ec4d0ad9f26aab",
+            "id": "edc827a256724dbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Literature/vue의 개념 이해- 모델, 컴포넌트, 동기화에 대한 체인.md",
+                "file": "04_dev_resources/cs/logical cpu.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8ef0b9261a29ec72",
+            "id": "174d972f2272bf8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/vue/모델(vue).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0a50759379ae732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/vue/모델(vue).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b9b45fa673e3a45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/pytest/assert called.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e42b65514b411ba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/vue/mount의 역할.md",
+                "file": "04_dev_resources/pytest/pytest-xdist -n option.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_dev_resources/pytest/assert called.md",
+                "file": "04_dev_resources/pytest/pytest-xdist -n option.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_dev_resources/pytest/assert called.md",
+                "file": "04_dev_resources/pytest/pytest-xdist -n option.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_dev_resources/pytest/assert called.md"
+                "file": "04_dev_resources/pytest/pytest-xdist -n option.md"
               }
             }
           },
@@ -204,19 +168,25 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "0b9b45fa673e3a45",
+  "active": "174d972f2272bf8e",
   "lastOpenFiles": [
-    "04_dev_resources/pytest/test함수에서 사용되는 fixture함수는 순서를 고려할 필요가 없다..md",
-    "04_dev_resources/pytest/assert called.md",
-    "04_dev_resources/무제 폴더",
-    "04_dev_resources/vue/mount의 역할.md",
-    "04_dev_resources/vue/vue란.md",
+    "04_dev_resources/cs/logical cpu.md",
+    "04_dev_resources/pytest/pytest-xdist -n option.md",
     "04_dev_resources/vue/모델(vue).md",
+    "01_Literature/vue의 개념 이해- 모델, 컴포넌트, 동기화에 대한 체인.md",
+    "04_dev_resources/django/custom model field 분석.md",
+    "04_dev_resources/django/model field Converting values to Python objects.md",
+    "04_dev_resources/django/model field rel_db_type.md",
+    "04_dev_resources/django/model field db_type.md",
+    "04_dev_resources/vue/mount의 역할.md",
+    "04_dev_resources/pytest/assert called.md",
+    "04_dev_resources/pytest/test함수에서 사용되는 fixture함수는 순서를 고려할 필요가 없다..md",
+    "04_dev_resources/무제 폴더",
+    "04_dev_resources/vue/vue란.md",
     "04_dev_resources/js/querySelector.md",
     "04_dev_resources/js/_Index_of_js.md",
     "04_dev_resources/용어정리/모델.md",
     "04_dev_resources/js",
-    "01_Literature/vue의 개념 이해- 모델, 컴포넌트, 동기화에 대한 체인.md",
     "04_dev_resources/용어정리/컴포넌트.md",
     "04_dev_resources/용어정리/_Index_of_용어정리.md",
     "04_dev_resources/용어정리",
@@ -231,12 +201,6 @@
     "04_dev_resources/cs",
     "01_Literature/하루 8시간하는 사람도 있으니 난 최소 개발 하루 4시간씩은 개인습득시간을 확보하고 주말에는 6시간 하도록 하자..md",
     "01_Literature/개발을 잘하려면 해결방법을, 해결 과정을 많이 접해야한다..md",
-    "templates/chatgpt 프롬프트 탬플릿.md",
-    "01_Literature/DRF serializer.data와 serializer.validated_data의 차이점.md",
-    "04_dev_resources/DRF/중첩된 serializer에서 이미 정의된 안쪽 serializer의 field를 조작하지 않고 바깥 serializer에서 field를 제어하는 방법.md",
-    "00_inbox/2024-01-11.md",
-    "01_Literature/DRF 다대다관계 related name과 prefetch_related 사용 가능 여부.md",
-    "templates/_Index_of_templates.md",
     "02_projects/pomodoro_개발/지식",
     "anki/solid",
     "04_dev_resources/solid",
