@@ -8,5 +8,5 @@ Back:
 [[choice Enumeration types human readable name 설정]]
 
 Tags:
-<!--ID: 1699372775930-->
+<!--ID: 1719328375639-->
 END

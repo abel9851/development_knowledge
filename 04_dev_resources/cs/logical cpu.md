@@ -2,4 +2,4 @@
 - physical cpu를 hardware level에서 threading한 것이 logical cpu다.
 - logical cpu는 software level의 thread와는 달리 concurrently하지 않고 parallelly하다.
 - 이를 구현하는 기술로는 hyper threading(intel)과 simultaneous multi threading(AMD)가 있다.
-- pytest에서는 플러그인 성격인 [[pytest-xdist -n option]] 을 사용할 때  이 logical cpu를 인식해서 multi processing을 한다.
+- pytest에서는 플러그인 성격인 [[04_dev_resources/pytest/pytest-xdist -n option]] 을 사용할 때  이 logical cpu를 인식해서 multi processing을 한다.
