@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "466370840e845b1b",
+        "id": "caffacb6af212fcc",
         "type": "tabs",
         "children": [
           {
-            "id": "82d898e4ac6723d3",
+            "id": "839057e6df245e51",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,7 +165,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "82d898e4ac6723d3",
+  "active": "839057e6df245e51",
   "lastOpenFiles": [
     "04_dev_resources/MySQL/인덱스가 사용되지 않는 경우.md",
     "무제 파일.canvas",
