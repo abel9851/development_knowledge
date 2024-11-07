@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/vue/vue란.md",
+                "file": "04_dev_resources/MySQL/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_dev_resources/vue/vue란.md",
+                "file": "04_dev_resources/MySQL/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_dev_resources/vue/vue란.md",
+                "file": "04_dev_resources/MySQL/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_dev_resources/vue/vue란.md"
+                "file": "04_dev_resources/MySQL/무제 파일.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   "active": "edc827a256724dbf",
   "lastOpenFiles": [
     "04_dev_resources/vue/vue란.md",
+    "04_dev_resources/MySQL/무제 파일.md",
+    "무제 파일.canvas",
     "04_dev_resources/django/choice Enumeration types human readable name 설정.md",
     "04_dev_resources/용어정리/랜더링.md",
     "04_dev_resources/용어정리/web user interface.md",
@@ -184,7 +186,6 @@
     "anki/django/_Index_of_django.md",
     "anki/pytest",
     "04_dev_resources/django/model field rel_db_type.md",
-    "04_dev_resources/django/model field db_type.md",
     "04_dev_resources/js",
     "04_dev_resources/용어정리",
     "04_dev_resources/vue",
@@ -199,7 +200,6 @@
     "04_dev_resources/django/Pasted image 20231107235736.png",
     "04_dev_resources/aws/Pasted image 20231107103736.png",
     "무제 파일 1.canvas",
-    "무제 파일.canvas",
     "Pasted image 20230926100638.png"
   ]
 }
