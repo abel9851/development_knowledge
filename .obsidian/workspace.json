@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/MySQL/column의 default 값 확인하기.md",
+                "file": "04_dev_resources/MySQL/count(*) vs count(column).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "column의 default 값 확인하기"
+              "title": "count(*) vs count(column)"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "839057e6df245e51",
   "lastOpenFiles": [
+    "04_dev_resources/MySQL/column의 default 값 확인하기.md",
+    "04_dev_resources/MySQL/count(*) vs count(column).md",
     "04_dev_resources/MySQL/인덱스가 사용되지 않는 경우.md",
     "무제 파일.canvas",
     "04_dev_resources/vue/vue란.md",
@@ -197,7 +199,6 @@
     "04_dev_resources/django/model field Converting values to Python objects.md",
     "templates/Basic-anki-template.md",
     "templates/Basic-anki-flashcard-template(뉴라인은 br을 사용해야한다.).md",
-    "anki/django/_Index_of_django.md",
     "anki/pytest",
     "04_dev_resources/js",
     "04_dev_resources/용어정리",
