@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "caffacb6af212fcc",
+        "id": "47294f608852f3b6",
         "type": "tabs",
         "children": [
           {
-            "id": "839057e6df245e51",
+            "id": "b62e6dccb03db530",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "04_dev_resources/implementations/Drawing-2024-12-09 22.45.23.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing-2024-12-09 22.45.23.excalidraw"
+            }
+          },
+          {
+            "id": "3e5945e1c5b9c8ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/MySQL/count(*) vs count(column).md",
+                "file": "04_dev_resources/js/input태그에 설정된 값을 validation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "count(*) vs count(column)"
+              "title": "input태그에 설정된 값을 validation"
             }
           }
         ]
@@ -33,6 +45,7 @@
       {
         "id": "b440188534fb6637",
         "type": "tabs",
+        "dimension": 69.8744769874477,
         "children": [
           {
             "id": "e5bc31c4e8b43c97",
@@ -47,23 +60,6 @@
             }
           },
           {
-            "id": "b9514115ed602df3",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "api",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "검색"
-            }
-          },
-          {
             "id": "6e536481aab915c4",
             "type": "leaf",
             "state": {
@@ -74,10 +70,60 @@
             }
           }
         ]
+      },
+      {
+        "id": "9326b145dae65666",
+        "type": "tabs",
+        "dimension": 30.125523012552303,
+        "children": [
+          {
+            "id": "675bed89c64625b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04_dev_resources/implementations/Drawing-2024-12-09 22.45.23.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Drawing-2024-12-09 22.45.23.excalidraw의 백링크"
+            }
+          },
+          {
+            "id": "c9de36bdf9b95015",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing-2024-12-03 23.39.25.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Drawing-2024-12-03 23.39.25.excalidraw의 나가는 링크"
+            }
+          },
+          {
+            "id": "68b5e50cd32962b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 488.5
   },
   "right": {
     "id": "0a06d6edfda09779",
@@ -88,34 +134,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "675bed89c64625b9",
+            "id": "b9514115ed602df3",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "search",
               "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "sortOrder": "alphabetical"
               },
-              "icon": "links-coming-in",
-              "title": "백링크"
-            }
-          },
-          {
-            "id": "c9de36bdf9b95015",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "나가는 링크"
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -136,9 +168,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Excalidraw/Drawing-2024-12-03 23.39.25.excalidraw.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Drawing-2024-12-03 23.39.25.excalidraw 개요"
             }
           },
           {
@@ -150,70 +184,97 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "f7e34e192d33e0e1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "1d18a1dc63c4c417",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
+      "canvas:새 캔버스 만들기": true,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-git:Open Git source control": false,
+      "graph:그래프 뷰 열기": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "839057e6df245e51",
+  "active": "e5bc31c4e8b43c97",
   "lastOpenFiles": [
-    "04_dev_resources/MySQL/column의 default 값 확인하기.md",
-    "04_dev_resources/MySQL/count(*) vs count(column).md",
-    "04_dev_resources/MySQL/인덱스가 사용되지 않는 경우.md",
+    "04_dev_resources/implementations/imgs/Pasted Image 20241210002115_034.png",
+    "Excalidraw/Drawing-2024-12-04 22.32.54.excalidraw.md",
+    "04_dev_resources/js/input태그에 설정된 값을 validation.md",
+    "04_dev_resources/css/input 태그 설정.md",
+    "04_dev_resources/css",
+    "04_dev_resources/implementations/Drawing-2024-12-09 22.45.23.excalidraw.md",
+    "04_dev_resources/implementations/imgs/Pasted Image 20241209224705_311.png",
+    "04_dev_resources/implementations/imgs",
+    "04_dev_resources/implements/무제 파일.md",
+    "04_dev_resources/implementations",
+    "Excalidraw/code/model serializer는 None을 받으면, FooField는 key와 값을 리턴하지만 serializermethod는 key도 value도 반환하지 않는다.md",
+    "Excalidraw/code/Pasted image 20241205091723.png",
+    "Excalidraw/code",
+    "무제 파일.md",
+    "Excalidraw/Drawing-2024-12-03 23.36.51.excalidraw.md",
+    "Excalidraw/Drawing-2024-12-04 00.39.14.excalidraw.md",
+    "Excalidraw/Drawing-2024-12-03 23.39.25.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+    "Excalidraw/_Index_of_Excalidraw.md",
+    "이름 없는 보드.md",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
+    "Excalidraw/Scripts/_Index_of_Scripts.md",
+    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
+    "_Index_of_hj second brain.md",
+    "_Index_of_hj_s second brain.md",
+    "Excalidraw/Scripts/Downloaded/_Index_of_Downloaded.md",
+    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
+    "Excalidraw/Scripts/Downloaded/Rename Image.svg",
+    "Excalidraw/Scripts/Downloaded/Rename Image.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw/software-architecture.excalidrawlib",
+    "Excalidraw/it-tools-logos.excalidrawlib",
+    "Excalidraw/Drawing - 2024-12-03 23.36.29.excalidraw.md",
+    "Excalidraw/Drawing - 2024-12-03 23.36.15.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-03 23.09.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-03 23.08.14.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-03 22.59.14.excalidraw.md",
     "무제 파일.canvas",
-    "04_dev_resources/vue/vue란.md",
-    "04_dev_resources/django/choice Enumeration types human readable name 설정.md",
-    "04_dev_resources/용어정리/랜더링.md",
-    "04_dev_resources/용어정리/web user interface.md",
-    "04_dev_resources/용어정리/프로그래밍 모델.md",
-    "04_dev_resources/용어정리/선언적.md",
-    "04_dev_resources/용어정리/모델.md",
-    "04_dev_resources/vue/모델(vue).md",
-    "04_dev_resources/용어정리/컴포넌트.md",
-    "04_dev_resources/tool/nvm.md",
-    "04_dev_resources/tool/_Index_of_tool.md",
-    "anki/web/API.md",
+    "Excalidraw",
+    "무제 파일 1.canvas",
     "04_dev_resources/tool",
-    "04_dev_resources/무제 파일.md",
-    "anki/web/XML과 JSON의 차이점.md",
-    "anki/web/_Index_of_web.md",
-    "anki/pytest/pytest-xdist -n option.md",
-    "anki/solid/단일 책임 원칙.md",
-    "anki/django/choice Enumeration types.md",
-    "anki/pytest/_Index_of_pytest.md",
-    "04_dev_resources/cs/logical cpu.md",
-    "04_dev_resources/django/model field Converting values to Python objects.md",
-    "templates/Basic-anki-template.md",
-    "templates/Basic-anki-flashcard-template(뉴라인은 br을 사용해야한다.).md",
-    "anki/pytest",
-    "04_dev_resources/js",
-    "04_dev_resources/용어정리",
-    "04_dev_resources/vue",
-    "04_dev_resources/cs",
-    "02_projects/pomodoro_개발/지식",
-    "anki/solid",
-    "04_dev_resources/solid",
-    "anki/web",
     "04_dev_resources/django/Pasted image 20231108001500.png",
     "04_dev_resources/django/Pasted image 20231108001234.png",
     "04_dev_resources/django/Pasted image 20231107235752.png",
-    "04_dev_resources/django/Pasted image 20231107235736.png",
-    "04_dev_resources/aws/Pasted image 20231107103736.png",
-    "무제 파일 1.canvas",
-    "Pasted image 20230926100638.png"
+    "04_dev_resources/django/Pasted image 20231107235736.png"
   ]
 }
