@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "__dict__"
             }
+          },
+          {
+            "id": "5ff24ec62efff7ba",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "04_dev_resources/implementions/2024-12-10 timer의 input구현.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "2024-12-10 timer의 input구현"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_dev_resources/python/__dict__.md",
+                "file": "04_dev_resources/implementions/2024-12-10 timer의 input구현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "__dict__의 백링크"
+              "title": "2024-12-10 timer의 input구현의 백링크"
             }
           },
           {
@@ -107,11 +120,12 @@
               "title": "그래프 뷰"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 414.5
   },
   "right": {
     "id": "0a06d6edfda09779",
@@ -198,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 511.5
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,10 +228,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e5bc31c4e8b43c97",
+  "active": "5ff24ec62efff7ba",
   "lastOpenFiles": [
-    "03_areas/_Index_of_03_areas.md",
+    "04_dev_resources/implementions/imgs/Pasted Image 20241210011403_321.png",
+    "04_dev_resources/implementions/imgs",
+    "04_dev_resources/implementions/2024-12-10 timer의 input구현.md",
+    "04_dev_resources/js/validation code구현.md",
+    "04_dev_resources/css/input.md",
+    "04_dev_resources/css",
+    "04_dev_resources/implementions",
+    "Excalidraw/Scripts/Downloaded/Rename Image.svg",
+    "Excalidraw/Scripts/Downloaded/Rename Image.md",
+    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
+    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
     "04_dev_resources/python/__dict__.md",
+    "03_areas/_Index_of_03_areas.md",
     "04_dev_resources/_Index_of_04_dev_resources.md",
     "04_dev_resources/tool/_Index_of_tool.md",
     "04_dev_resources/python/_Index_of_python.md",
@@ -238,31 +267,15 @@
     "Excalidraw/Drawing-2024-12-10 00.27.12.excalidraw.md",
     "무제 파일.md",
     "무제 파일 1.canvas",
-    "2024-11-30.md",
-    "Excalidraw/Drawing-2024-12-04 22.32.54.excalidraw.md",
-    "04_dev_resources/implementations/Drawing-2024-12-09 22.45.23.excalidraw.md",
     "04_dev_resources/implementations/imgs/Pasted Image 20241210002115_034.png",
-    "04_dev_resources/js/input태그에 설정된 값을 validation.md",
-    "04_dev_resources/css/input 태그 설정.md",
     "04_dev_resources/css",
     "04_dev_resources/implementations/imgs/Pasted Image 20241209224705_311.png",
     "04_dev_resources/implementations/imgs",
-    "04_dev_resources/implements/무제 파일.md",
     "04_dev_resources/implementations",
     "Excalidraw/code/Pasted image 20241205091723.png",
     "Excalidraw/code",
-    "Excalidraw/Drawing-2024-12-03 23.36.51.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
-    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
-    "Excalidraw/Scripts/Downloaded/Rename Image.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw/software-architecture.excalidrawlib",
-    "Excalidraw/it-tools-logos.excalidrawlib",
-    "04_dev_resources/tool",
     "04_dev_resources/django/Pasted image 20231108001500.png",
-    "04_dev_resources/django/Pasted image 20231108001234.png",
-    "04_dev_resources/django/Pasted image 20231107235752.png"
+    "04_dev_resources/django/Pasted image 20231108001234.png"
   ]
 }
