@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/vue/vue binding syntax - vue directive.md",
+                "file": "04_dev_resources/vue/createApp의 methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vue binding syntax - vue directive"
+              "title": "createApp의 methods"
             }
           }
         ]
@@ -215,10 +215,12 @@
   },
   "active": "d0f1ceb5feaa8c4d",
   "lastOpenFiles": [
-    "04_dev_resources/vue/Pasted image 20241217232932.png",
-    "04_dev_resources/vue/data property의 보간법.md",
+    "04_dev_resources/vue/Pasted image 20241217234407.png",
+    "04_dev_resources/vue/createApp의 methods.md",
     "04_dev_resources/vue/createApp의 data property.md",
     "04_dev_resources/vue/vue binding syntax - vue directive.md",
+    "04_dev_resources/vue/Pasted image 20241217232932.png",
+    "04_dev_resources/vue/data property의 보간법.md",
     "04_dev_resources/vue/mount의 역할.md",
     "04_dev_resources/vue/Pasted image 20241217230417.png",
     "04_dev_resources/vue/vue란.md",
@@ -251,7 +253,6 @@
     "04_dev_resources/aws/_Index_of_aws.md",
     "07_references/_Index_of_07_references.md",
     "anki/solid/_Index_of_solid.md",
-    "_Index_of_hj second brain.md",
     "무제 파일.canvas",
     "Excalidraw",
     "무제 파일 1.canvas",
@@ -261,7 +262,6 @@
     "04_dev_resources/implementations/imgs",
     "04_dev_resources/implementations",
     "Excalidraw/code/Pasted image 20241205091723.png",
-    "Excalidraw/code",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.svg"
+    "Excalidraw/code"
   ]
 }
