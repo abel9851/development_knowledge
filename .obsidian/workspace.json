@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/python/__dict__.md",
+                "file": "04_dev_resources/vue/createApp의 data property.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "__dict__"
+              "title": "createApp의 data property"
             }
           },
           {
@@ -27,15 +27,14 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "04_dev_resources/_Index_of_04_dev_resources.md",
+                "file": ".obsidian/workspace.json",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (_Index_of_04_dev_resources)"
+              "title": "Diff View (workspace.json)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,12 +226,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ff24ec62efff7ba",
+  "active": "144a26f14c5e4d8c",
   "lastOpenFiles": [
-    "04_dev_resources/vue/_Index_of_vue.md",
-    "04_dev_resources/vue/createApp의 data property.md",
-    "04_dev_resources/vue/모델(vue).md",
     "04_dev_resources/vue/mount의 역할.md",
+    "04_dev_resources/vue/createApp의 data property.md",
+    "04_dev_resources/vue/vue란.md",
+    "04_dev_resources/python/__dict__.md",
+    "04_dev_resources/vue/_Index_of_vue.md",
+    "04_dev_resources/vue/모델(vue).md",
     "04_dev_resources/_Index_of_04_dev_resources.md",
     "04_dev_resources/implementions/2024-12-10 timer의 input구현.md",
     "04_dev_resources/implementions/imgs/Pasted Image 20241210011403_321.png",
@@ -249,7 +250,6 @@
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "04_dev_resources/python/__dict__.md",
     "03_areas/_Index_of_03_areas.md",
     "04_dev_resources/tool/_Index_of_tool.md",
     "04_dev_resources/python/_Index_of_python.md",
@@ -264,7 +264,6 @@
     "Excalidraw/Drawing-2024-12-10 00.53.34.excalidraw.md",
     "04_dev_resources/js/querySelector.md",
     "Excalidraw/Drawing-2024-12-10 00.33.25.excalidraw.md",
-    "Excalidraw/Drawing-2024-12-10 00.33.23.excalidraw.md",
     "Excalidraw",
     "무제 파일 1.canvas",
     "04_dev_resources/implementations/imgs/Pasted Image 20241210002115_034.png",
