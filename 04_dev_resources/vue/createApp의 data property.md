@@ -16,10 +16,12 @@
 <body>
   <header>
     <h1>Vue Course Goals</h1>
+    <p>{{ courseGoal }}</p>
   </header>
   <section id="user-goal">
     <h2>My Course Goal</h2>
     <p>{{ courseGoal }}</p>
+    <p>test <a v-bind:href="vueLink">url</a></p>
   </section>
 </body>
 
@@ -34,7 +36,8 @@
 const app = Vue.createApp({
     data() {
         return {
-	        courseGoal: 'Finish!'
+            courseGoal: "Finish the course!",
+            vueLink: "https://vuejs.org/"
         };
     }
 });
@@ -48,4 +51,5 @@ app.mount('#user-goal');
 - 정적 컨텐츠를 다루는 것이라면 평범할테지만 동적 컨텐츠, 예를 들어 사용자가 클릭해 데이터를 바꿀때 반응하도록 설정하도록 할 수 있게 되어 손쉽게 반응성을 추가할 수 있다.
 
 Link
-[[ mount의 역할 ]]
+[[mount의 역할]]
+[[vue binding syntax - vue directive]]
