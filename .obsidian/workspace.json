@@ -4,34 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eff386b8ebc6c823",
+        "id": "4dfd3c8621f53daf",
         "type": "tabs",
         "children": [
           {
-            "id": "144a26f14c5e4d8c",
+            "id": "d0f1ceb5feaa8c4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/vue/createApp의 data property.md",
+                "file": "04_dev_resources/vue/data property의 보간법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "createApp의 data property"
-            }
-          },
-          {
-            "id": "5ff24ec62efff7ba",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "title": "data property의 보간법"
             }
           }
         ]
@@ -226,11 +213,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "144a26f14c5e4d8c",
+  "active": "d0f1ceb5feaa8c4d",
   "lastOpenFiles": [
-    "04_dev_resources/vue/mount의 역할.md",
+    "04_dev_resources/vue/Pasted image 20241217230417.png",
     "04_dev_resources/vue/createApp의 data property.md",
+    "04_dev_resources/vue/data property의 보간법.md",
+    "04_dev_resources/vue/Pasted image 20241217225926.png",
     "04_dev_resources/vue/vue란.md",
+    "04_dev_resources/용어정리/보간법.md",
+    "04_dev_resources/vue/mount의 역할.md",
     "04_dev_resources/python/__dict__.md",
     "04_dev_resources/vue/_Index_of_vue.md",
     "04_dev_resources/vue/모델(vue).md",
@@ -261,9 +252,6 @@
     "_Index_of_hj second brain.md",
     "_Index_of_hj_s second brain.md",
     "무제 파일.canvas",
-    "Excalidraw/Drawing-2024-12-10 00.53.34.excalidraw.md",
-    "04_dev_resources/js/querySelector.md",
-    "Excalidraw/Drawing-2024-12-10 00.33.25.excalidraw.md",
     "Excalidraw",
     "무제 파일 1.canvas",
     "04_dev_resources/implementations/imgs/Pasted Image 20241210002115_034.png",
@@ -274,7 +262,6 @@
     "Excalidraw/code/Pasted image 20241205091723.png",
     "Excalidraw/code",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
-    "04_dev_resources/django/Pasted image 20231108001500.png",
-    "04_dev_resources/django/Pasted image 20231108001234.png"
+    "04_dev_resources/django/Pasted image 20231108001500.png"
   ]
 }

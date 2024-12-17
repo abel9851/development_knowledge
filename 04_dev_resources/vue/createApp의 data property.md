@@ -19,7 +19,7 @@
   </header>
   <section id="user-goal">
     <h2>My Course Goal</h2>
-    <p></p>
+    <p>{{ courseGoal }}</p>
   </section>
 </body>
 
@@ -44,8 +44,8 @@ app.mount('#user-goal');
 
 - 주석에 적은대로, data 프로퍼티는 function이어야하며, 항상 객체를 반환한다.
 - 반환하는 객체의 key와 value는 어떤 것이든 상관없다.
-- data 프로퍼티의 근본적인 원리는, data프로퍼티가 반환하는 어떤 객체든  vue가 조정하는 HTML코드에서 사용할 수 있게 된다는 것이다.
+- data 프로퍼티의 근본적인 원리는, data프로퍼티가 반환하는 어떤 객체든 vue가 조정하는 HTML코드에서 사용할 수 있게 된다는 것이다.
 - 정적 컨텐츠를 다루는 것이라면 평범할테지만 동적 컨텐츠, 예를 들어 사용자가 클릭해 데이터를 바꿀때 반응하도록 설정하도록 할 수 있게 되어 손쉽게 반응성을 추가할 수 있다.
 
 Link
-[[mount의 역할]]
+[[ mount의 역할 ]]
