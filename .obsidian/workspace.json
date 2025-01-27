@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/vue/vue binding syntax - vue directive.md",
+                "file": "04_dev_resources/lib/flaky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vue binding syntax - vue directive"
+              "title": "flaky"
             }
           },
           {
@@ -27,15 +27,14 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "04_dev_resources/vue/ref.md",
+                "file": "04_dev_resources/command/grep -r \"keyword\".md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (ref)"
+              "title": "Diff View (grep -r \"keyword\")"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,13 +226,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef6d4a8b132c434a",
+  "active": "d0f1ceb5feaa8c4d",
   "lastOpenFiles": [
     "04_dev_resources/command/grep -r \"keyword\".md",
+    "04_dev_resources/lib/flaky.md",
+    "04_dev_resources/lib",
+    "04_dev_resources/vue/vue binding syntax - vue directive.md",
     "04_dev_resources/command/aws command.md",
     "04_dev_resources/vue/createApp의 methods.md",
     "04_dev_resources/vue/createApp의 data property.md",
-    "04_dev_resources/vue/vue binding syntax - vue directive.md",
     "04_dev_resources/vue/mount의 역할.md",
     "04_dev_resources/vue/data property의 보간법.md",
     "04_dev_resources/vue/ref.md",
@@ -268,14 +269,12 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "03_areas/_Index_of_03_areas.md",
-    "04_dev_resources/tool/_Index_of_tool.md",
     "무제 파일.canvas",
     "Excalidraw",
     "무제 파일 1.canvas",
     "04_dev_resources/implementations/imgs/Pasted Image 20241210002115_034.png",
     "04_dev_resources/css",
     "04_dev_resources/implementations/imgs/Pasted Image 20241209224705_311.png",
-    "04_dev_resources/implementations/imgs",
-    "04_dev_resources/implementations"
+    "04_dev_resources/implementations/imgs"
   ]
 }
