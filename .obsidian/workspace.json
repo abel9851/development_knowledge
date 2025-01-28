@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/lib/flaky.md",
+                "file": "04_dev_resources/lib/act.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flaky"
+              "title": "act"
             }
           },
           {
@@ -228,8 +228,9 @@
   },
   "active": "d0f1ceb5feaa8c4d",
   "lastOpenFiles": [
-    "04_dev_resources/command/grep -r \"keyword\".md",
     "04_dev_resources/lib/flaky.md",
+    "04_dev_resources/lib/act.md",
+    "04_dev_resources/command/grep -r \"keyword\".md",
     "04_dev_resources/lib",
     "04_dev_resources/vue/vue binding syntax - vue directive.md",
     "04_dev_resources/command/aws command.md",
@@ -268,7 +269,6 @@
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "03_areas/_Index_of_03_areas.md",
     "무제 파일.canvas",
     "Excalidraw",
     "무제 파일 1.canvas",
