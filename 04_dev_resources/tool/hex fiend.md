@@ -1,5 +1,6 @@
+mac에서 사용하는 binary viewer다.
 binary file을 drog and drop하면 바로 16진수 바이트와 그 바이트를 디코딩한 결과를 보여준다.
-mac에서 사용할 수 있으니 binary file의 내부를 확인하고 싶다면 사용하자.
+binary file의 내부를 확인하고 싶다면 사용하자.
 
 
 when 89504e47 decoding, i see .PNG. what is 89504e47? and why i see .PNG?
@@ -80,3 +81,4 @@ Therefore, the output **".PNG"** is a combination of:
 - Some tools or decoders will show **"."** for the non-printable byte, leading to the result **".PNG"**.
 
 Let me know if you need further explanation or have more questions!
+
