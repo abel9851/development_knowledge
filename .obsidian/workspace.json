@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/tool/hex fiend.md",
+                "file": "04_dev_resources/tool/fiddler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hex fiend"
+              "title": "fiddler"
             }
           }
         ]
@@ -216,6 +216,7 @@
   "active": "1db98f42eb317da5",
   "lastOpenFiles": [
     "04_dev_resources/tool/hex fiend.md",
+    "04_dev_resources/tool/fiddler.md",
     "04_dev_resources/lib/act.md",
     "04_dev_resources/lib/flaky.md",
     "04_dev_resources/command/grep -r \"keyword\".md",
@@ -252,7 +253,6 @@
     "Excalidraw/Scripts/Downloaded/Rename Image.svg",
     "Excalidraw/Scripts/Downloaded/Rename Image.md",
     "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
-    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
