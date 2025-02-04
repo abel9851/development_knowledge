@@ -4,34 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4dfd3c8621f53daf",
+        "id": "590a427c31ed7422",
         "type": "tabs",
         "children": [
           {
-            "id": "d0f1ceb5feaa8c4d",
+            "id": "1db98f42eb317da5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/lib/act.md",
+                "file": "04_dev_resources/tool/hex fiend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "act"
-            }
-          },
-          {
-            "id": "ef6d4a8b132c434a",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "04_dev_resources/command/grep -r \"keyword\".md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (grep -r \"keyword\")"
+              "title": "hex fiend"
             }
           }
         ]
@@ -226,10 +213,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0f1ceb5feaa8c4d",
+  "active": "1db98f42eb317da5",
   "lastOpenFiles": [
-    "04_dev_resources/lib/flaky.md",
+    "04_dev_resources/tool/hex fiend.md",
     "04_dev_resources/lib/act.md",
+    "04_dev_resources/lib/flaky.md",
     "04_dev_resources/command/grep -r \"keyword\".md",
     "04_dev_resources/lib",
     "04_dev_resources/vue/vue binding syntax - vue directive.md",
@@ -266,7 +254,6 @@
     "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
     "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
-    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "무제 파일.canvas",
