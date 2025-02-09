@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/docker/docker create, build, run, exec.md",
+                "file": "04_dev_resources/lib/github local actions(act) 사용해봄.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker create, build, run, exec"
+              "title": "github local actions(act) 사용해봄"
             }
           }
         ],
@@ -229,12 +229,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7e34e192d33e0e1",
+  "active": "f8ef63952b51e987",
   "lastOpenFiles": [
+    "04_dev_resources/lib/스크린샷 2025-02-09 23.46.06.png",
+    "04_dev_resources/lib/스크린샷 2025-02-09 23.57.42.png",
+    "04_dev_resources/lib/스크린샷 2024-05-30 22.22.53.png",
+    "04_dev_resources/lib/github local actions(act) 사용해봄.md",
+    "04_dev_resources/lib/act.md",
     "04_dev_resources/docker/docker create, build, run, exec.md",
     "04_dev_resources/tool/hex fiend.md",
     "04_dev_resources/tool/fiddler.md",
-    "04_dev_resources/lib/act.md",
     "04_dev_resources/lib/flaky.md",
     "04_dev_resources/command/grep -r \"keyword\".md",
     "04_dev_resources/lib",
@@ -263,8 +267,6 @@
     "04_dev_resources/implementions/2024-12-10 timer의 input구현.md",
     "04_dev_resources/implementions/imgs/Pasted Image 20241210011403_321.png",
     "04_dev_resources/implementions/imgs",
-    "04_dev_resources/js/validation code구현.md",
-    "04_dev_resources/css/input.md",
     "04_dev_resources/css",
     "04_dev_resources/implementions",
     "Excalidraw/Scripts/Downloaded/Rename Image.svg",
@@ -275,9 +277,7 @@
     "무제 파일.canvas",
     "Excalidraw",
     "무제 파일 1.canvas",
-    "04_dev_resources/implementations/imgs/Pasted Image 20241210002115_034.png",
     "04_dev_resources/css",
-    "04_dev_resources/implementations/imgs/Pasted Image 20241209224705_311.png",
     "04_dev_resources/implementations/imgs"
   ]
 }
