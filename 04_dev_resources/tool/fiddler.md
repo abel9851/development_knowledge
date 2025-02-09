@@ -153,5 +153,8 @@
     이 방법들을 통해 **렌더링 실패**를 추적하는 데 도움이 될 것입니다. 추가로 궁금한 사항이 있으면 언제든지 질문해 주세요!
     
 
+Link
+[[hex fiend]]
+
 Reference
 [https://blog.naver.com/PostView.naver?blogId=is_king&logNo=221915651398#:~:text=[Break response on Content-Type] : 설정한 응답,상태 코드로 필터링하는 Response Status Code 항목입니다](https://blog.naver.com/PostView.naver?blogId=is_king&logNo=221915651398#:~:text=%5BBreak%20response%20on%20Content%2DType%5D%20:%20%EC%84%A4%EC%A0%95%ED%95%9C%20%EC%9D%91%EB%8B%B5,%EC%83%81%ED%83%9C%20%EC%BD%94%EB%93%9C%EB%A1%9C%20%ED%95%84%ED%84%B0%EB%A7%81%ED%95%98%EB%8A%94%20Response%20Status%20Code%20%ED%95%AD%EB%AA%A9%EC%9E%85%EB%8B%88%EB%8B%A4)

@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "fiddler"
             }
+          },
+          {
+            "id": "f8ef63952b51e987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_dev_resources/docker/docker create, build, run, exec.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "docker create, build, run, exec"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -191,7 +207,7 @@
               "type": "reminder-list",
               "state": {},
               "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           }
         ],
@@ -203,9 +219,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "canvas:새 캔버스 만들기": true,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
@@ -213,8 +229,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1db98f42eb317da5",
+  "active": "f7e34e192d33e0e1",
   "lastOpenFiles": [
+    "04_dev_resources/docker/docker create, build, run, exec.md",
     "04_dev_resources/tool/hex fiend.md",
     "04_dev_resources/tool/fiddler.md",
     "04_dev_resources/lib/act.md",
@@ -251,7 +268,6 @@
     "04_dev_resources/css",
     "04_dev_resources/implementions",
     "Excalidraw/Scripts/Downloaded/Rename Image.svg",
-    "Excalidraw/Scripts/Downloaded/Rename Image.md",
     "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
     "Excalidraw/Scripts/Downloaded",
