@@ -14,8 +14,8 @@ sequenceDiagram
 	Client->>AuthServer: Request to Authorize API
 	AuthServer-->>Browser: Response to browser for redirection google with client_id, redirect_url
 	Browser-->>Google: Transmit response from Owned Oauth Server
-	Google-->>Client: Response with Sign in page
-	Client-->>User: Display Sign in page
+	Google-->>Browser: Response with Sign in page
+	Browser-->>User: Display Sign in page
 
 	%% Authentication Flow
 	note over User, AuthServer: Authentication Flow
@@ -41,3 +41,6 @@ end
 Client->>User: complete sign in 
 
 ```
+
+- owned oauth server에서 응답한 redirection은 브라우저가 식별해서 reidrection의 location인 google oauth server(프론트엔드)에 연결한다
+- 이 요청을 인식하면 google oauth server는 브라우저로 응답한다(? 도달할 목적지는?)
