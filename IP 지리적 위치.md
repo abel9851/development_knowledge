@@ -1,0 +1,1 @@
+- client와 server 둘다 취득 가능
