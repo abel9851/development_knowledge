@@ -1,0 +1,11 @@
+- it's important that we first undertstand what exactly  an "algorithm" is, especially in the context of leetcode
+- recipe for a computer to follow. it's a set of instructions that a computer will fllow step-by-step to solve a problem.
+- Algorithms take an input and produce an output.
+- non-empty array of positive integers calls nums.
+	- what is the largest number in nums?
+	- you would write an algorithm that takes an array called nums as input, and outputs the largest number  in nums
+- BigO is notation used to describe computational complexity of an algorithm.
+	- what is the computational complexity?
+		- split into two parts: time complexity, space complexity.
+	- algothrithm is recipe for a computer to follow.
+		- it's set of instructions that a computer will follow step-by-step to solve a problem.
