@@ -9,3 +9,10 @@
 		- split into two parts: time complexity, space complexity.
 	- algothrithm is recipe for a computer to follow.
 		- it's set of instructions that a computer will follow step-by-step to solve a problem.
+- in the context of leetcode, treat all integers the same. inter 배열이 입력으로 들어올 때, 이 입력 크기가 크면, 계산에는 시간이 더 소요된다는 이론은 타당하지만, 그 차이는 미미하기 때문에 모든 integers는 같다고 가정한다.
+	- time complexity는 입력사이즈에 따라서 필요로 되는 시간량이라는 정의인데 위의 가정은 모순되지 않나?
+		- input크기에 정의에 따라 다를 듯하다.
+		- 그리고 leetcode에서는 input크기가 정수 그자체의 크기가 영향을 주지 않는다고 가정하는가보다.
+			- 100이던 10억이던 20억이던, 그 차이는 미미하니까, input으로 들어온 배열안에 있는 integer의 갯수만 고려한다. 이는 연산이 한번한번 이루어지는 것을 고려하는 것이지, integer자체의 비트수의 크기는 그렇게 큰 영향을 주지 않는다는 뜻 같다.
+			- 여기서 말하는 인풋 크기란, 데이터 하나하나의 비트 수를 의미하는게 아니라 데이터의 개수를 말하는 거고, 이 데이터의 개수에 따라 계산량이, 늘어나냐 아니냐를 의미한다.
+			  이를 시간량이라고 하고, 릿코드에서는 위의 정의대로. 하지만 이론적으로는 요소 하나하나의 비트수가 커지면 시간량도 커지는게 타당하지만 word random access machine을 가정하자면 정말 어마어마하게 큰 수가 아니면 그 차이는 미미하기 때문에 고려하지 않는다.
