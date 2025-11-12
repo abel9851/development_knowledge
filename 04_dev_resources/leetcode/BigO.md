@@ -37,4 +37,12 @@ for i in range(n):
 for i in range(n):
 	for k in range(500000):
 		print(k)
+
+# 곱셈도 print도 인풋 크기에 상관업이 일정한 시간이 걸리는 연산이므로 O(1)이다.
+for i in range(n):
+	for k in range(n):
+		print(i*k)
 ```
+
+
+#알고리즘
