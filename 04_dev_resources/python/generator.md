@@ -31,6 +31,9 @@ print(f"{sys.getsizeof(my_gen):,} bytes")
 	- 리소스 관리(Setup/Teardown패턴)
 	- 로직의 결합도 분리(Decoupling)
 
+다음 읽어볼 것
+https://docs.python.org/3.11/reference/simple_stmts.html#yield
+
 Reference
 https://docs.python.org/3.11/glossary.html#term-generator
 
