@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Basic-anki-flashcard-template(뉴라인은 br을 사용해야한다.).md",
+                "file": "04_dev_resources/OAuth2.0/PKCE_OAuth2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic-anki-flashcard-template(뉴라인은 br을 사용해야한다.)"
+              "title": "PKCE_OAuth2"
             }
           },
           {
@@ -234,8 +234,12 @@
   },
   "active": "9cb314e14afa3a74",
   "lastOpenFiles": [
-    "templates/chatgpt 프롬프트 탬플릿.md",
+    "04_dev_resources/OAuth2.0/IP 지리적 위치.md",
+    "04_dev_resources/OAuth2.0/Pasted image 20250513000534.png",
+    "04_dev_resources/OAuth2.0/OAuth2.0이상행위탐지.md",
+    "04_dev_resources/OAuth2.0/OAuth2-토큰-이상행동-탐지.md",
     "templates/Basic-anki-flashcard-template(뉴라인은 br을 사용해야한다.).md",
+    "templates/chatgpt 프롬프트 탬플릿.md",
     "templates/목차정리.md",
     "04_dev_resources/cs/251210 program counter.md",
     "📚 104 Terminologies.md",
@@ -257,10 +261,6 @@
     "Excalidraw/Drawing-2025-12-07 RAM64 14.14.08.excalidraw.md",
     "04_dev_resources/cs/런타임 에러.md",
     "04_dev_resources/cs/240117 api 실습.md",
-    "04_dev_resources/cs/240112 api 개념.md",
-    "04_dev_resources/cs/전가산기-덧셈과 뺄셈.md",
-    "04_dev_resources/cs/logical cpu.md",
-    "04_dev_resources/cs/레지스터의 명세.md",
     "04_dev_resources/formula",
     "04_dev_resources/leetcode",
     "02_projects/목표-BCI",
@@ -272,7 +272,6 @@
     "00_inbox/Pasted image 20250519210418.png",
     "00_inbox/Pasted image 20250519205418.png",
     "03_areas/무제",
-    "04_dev_resources/OAuth2.0/Pasted image 20250513000534.png",
     "04_dev_resources/python/무제.canvas",
     "04_dev_resources/lib/스크린샷 2025-02-09 23.46.06.png",
     "04_dev_resources/lib/스크린샷 2025-02-09 23.57.42.png",
