@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/cs/251210 program counter.md",
+                "file": "templates/Basic-anki-flashcard-template(뉴라인은 br을 사용해야한다.).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "251210 program counter"
+              "title": "Basic-anki-flashcard-template(뉴라인은 br을 사용해야한다.)"
             }
           },
           {
@@ -234,12 +234,19 @@
   },
   "active": "9cb314e14afa3a74",
   "lastOpenFiles": [
+    "templates/chatgpt 프롬프트 탬플릿.md",
+    "templates/Basic-anki-flashcard-template(뉴라인은 br을 사용해야한다.).md",
+    "templates/목차정리.md",
+    "04_dev_resources/cs/251210 program counter.md",
+    "📚 104 Terminologies.md",
+    "2025-05-14.md",
+    "코드 (Code).md",
+    "신희준.md",
     "04_dev_resources/cs/251207 RAM512.md",
     "04_dev_resources/cs/251207 register.md",
     "04_dev_resources/cs/251207 RAM8.md",
     "04_dev_resources/cs/251207 RAM64.md",
     "04_dev_resources/cs/251208 소프트웨어와는 달리 하드웨어에서는 미리 연산을 하고 고른다..md",
-    "04_dev_resources/cs/251210 program counter.md",
     "Excalidraw/Drawing-2025-12-10 program counter 개선 1.13.45.excalidraw.md",
     "04_dev_resources/cs/무제",
     "04_dev_resources/css/input.md",
@@ -254,13 +261,6 @@
     "04_dev_resources/cs/전가산기-덧셈과 뺄셈.md",
     "04_dev_resources/cs/logical cpu.md",
     "04_dev_resources/cs/레지스터의 명세.md",
-    "Excalidraw/Drawing-2025-12-07 RAM8의 설계도 1.29.01.excalidraw.md",
-    "templates/이상행동검지의 데이터의 구체적 내용 프롬프트.md",
-    "templates/일일 노트 탬플릿.md",
-    "templates/이상행동검지 판단 데이터의 포맷.md",
-    "templates/전문용어 탬플릿.md",
-    "templates/Basic-anki-flashcard-template(뉴라인은 br을 사용해야한다.).md",
-    "templates/Basic-anki-template.md",
     "04_dev_resources/formula",
     "04_dev_resources/leetcode",
     "02_projects/목표-BCI",
