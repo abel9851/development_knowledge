@@ -11,14 +11,10 @@
             "id": "9cb314e14afa3a74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_dev_resources/OAuth2.0/PKCE_OAuth2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PKCE_OAuth2"
+              "title": "새 탭"
             }
           },
           {
@@ -232,8 +228,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cb314e14afa3a74",
+  "active": "a7252f34146ca598",
   "lastOpenFiles": [
+    "04_dev_resources/python/비동기 이벤트 루프.md",
+    "04_dev_resources/OAuth2.0/PKCE_OAuth2.md",
+    "04_dev_resources/javascript/Promise.md",
     "04_dev_resources/OAuth2.0/IP 지리적 위치.md",
     "04_dev_resources/OAuth2.0/Pasted image 20250513000534.png",
     "04_dev_resources/OAuth2.0/OAuth2.0이상행위탐지.md",
@@ -259,8 +258,6 @@
     "templates/gemini에 사용한 설정내용.md",
     "04_dev_resources/cs/16bit 메모리.md",
     "Excalidraw/Drawing-2025-12-07 RAM64 14.14.08.excalidraw.md",
-    "04_dev_resources/cs/런타임 에러.md",
-    "04_dev_resources/cs/240117 api 실습.md",
     "04_dev_resources/formula",
     "04_dev_resources/leetcode",
     "02_projects/목표-BCI",
