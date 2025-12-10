@@ -4,39 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "590a427c31ed7422",
+        "id": "cc23cb3b670680a0",
         "type": "tabs",
         "children": [
           {
-            "id": "1db98f42eb317da5",
+            "id": "9cb314e14afa3a74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_dev_resources/tool/fiddler.md",
+                "file": "04_dev_resources/cs/251210 program counter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fiddler"
+              "title": "251210 program counter"
             }
           },
           {
-            "id": "f8ef63952b51e987",
+            "id": "51cc2f5cf6340140",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "04_dev_resources/lib/github local actions(act) 사용해봄.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing-2025-12-10 program counter 개선 1.13.45.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "github local actions(act) 사용해봄"
+              "icon": "excalidraw-icon",
+              "title": "Drawing-2025-12-10 program counter 개선 1.13.45.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +67,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "북마크"
             }
           }
         ]
@@ -105,16 +102,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing-2024-12-03 23.39.25.excalidraw.md",
+                "file": "코드 (Code).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Drawing-2024-12-03 23.39.25.excalidraw의 나가는 링크"
+              "title": "코드 (Code) 의 나가는 링크"
             }
           },
           {
-            "id": "68b5e50cd32962b9",
+            "id": "a27b770383dc0b56",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -128,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 379
   },
   "right": {
     "id": "0a06d6edfda09779",
@@ -162,10 +159,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "태그"
             }
           },
           {
@@ -174,10 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing-2024-12-03 23.39.25.excalidraw.md"
+                "file": "00_inbox/memcached와 redis 비교.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing-2024-12-03 23.39.25.excalidraw 개요"
+              "title": "memcached와 redis 비교 의 개요"
             }
           },
           {
@@ -191,7 +193,17 @@
             }
           },
           {
-            "id": "f7e34e192d33e0e1",
+            "id": "1d18a1dc63c4c417",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "reminder-list"
+            }
+          },
+          {
+            "id": "a7252f34146ca598",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -199,85 +211,77 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "1d18a1dc63c4c417",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 503
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "canvas:새 캔버스 만들기": true,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "graph:그래프 뷰 열기": true,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8ef63952b51e987",
+  "active": "9cb314e14afa3a74",
   "lastOpenFiles": [
+    "04_dev_resources/cs/251207 RAM512.md",
+    "04_dev_resources/cs/251207 register.md",
+    "04_dev_resources/cs/251207 RAM8.md",
+    "04_dev_resources/cs/251207 RAM64.md",
+    "04_dev_resources/cs/251208 소프트웨어와는 달리 하드웨어에서는 미리 연산을 하고 고른다..md",
+    "04_dev_resources/cs/251210 program counter.md",
+    "Excalidraw/Drawing-2025-12-10 program counter 개선 1.13.45.excalidraw.md",
+    "04_dev_resources/cs/무제",
+    "04_dev_resources/css/input.md",
+    "04_dev_resources/python/generator.md",
+    "04_dev_resources/leetcode/recursive algorithm 설명.md",
+    "templates/gemini에 사용한 설정내용.md",
+    "04_dev_resources/cs/16bit 메모리.md",
+    "Excalidraw/Drawing-2025-12-07 RAM64 14.14.08.excalidraw.md",
+    "04_dev_resources/cs/런타임 에러.md",
+    "04_dev_resources/cs/240117 api 실습.md",
+    "04_dev_resources/cs/240112 api 개념.md",
+    "04_dev_resources/cs/전가산기-덧셈과 뺄셈.md",
+    "04_dev_resources/cs/logical cpu.md",
+    "04_dev_resources/cs/레지스터의 명세.md",
+    "Excalidraw/Drawing-2025-12-07 RAM8의 설계도 1.29.01.excalidraw.md",
+    "templates/이상행동검지의 데이터의 구체적 내용 프롬프트.md",
+    "templates/일일 노트 탬플릿.md",
+    "templates/이상행동검지 판단 데이터의 포맷.md",
+    "templates/전문용어 탬플릿.md",
+    "templates/Basic-anki-flashcard-template(뉴라인은 br을 사용해야한다.).md",
+    "templates/Basic-anki-template.md",
+    "04_dev_resources/formula",
+    "04_dev_resources/leetcode",
+    "02_projects/목표-BCI",
+    "02_projects/idea",
+    "02_projects/chrome extension으로 gmail에서 pdf파일 스크래핑하기",
+    "04_dev_resources/javascript",
+    "04_dev_resources/daily",
+    "04_dev_resources/algorithm",
+    "00_inbox/Pasted image 20250519210418.png",
+    "00_inbox/Pasted image 20250519205418.png",
+    "03_areas/무제",
+    "04_dev_resources/OAuth2.0/Pasted image 20250513000534.png",
+    "04_dev_resources/python/무제.canvas",
     "04_dev_resources/lib/스크린샷 2025-02-09 23.46.06.png",
     "04_dev_resources/lib/스크린샷 2025-02-09 23.57.42.png",
     "04_dev_resources/lib/스크린샷 2024-05-30 22.22.53.png",
-    "04_dev_resources/lib/github local actions(act) 사용해봄.md",
-    "04_dev_resources/lib/act.md",
-    "04_dev_resources/docker/docker create, build, run, exec.md",
-    "04_dev_resources/tool/hex fiend.md",
-    "04_dev_resources/tool/fiddler.md",
-    "04_dev_resources/lib/flaky.md",
-    "04_dev_resources/command/grep -r \"keyword\".md",
-    "04_dev_resources/lib",
-    "04_dev_resources/vue/vue binding syntax - vue directive.md",
-    "04_dev_resources/command/aws command.md",
-    "04_dev_resources/vue/createApp의 methods.md",
-    "04_dev_resources/vue/createApp의 data property.md",
-    "04_dev_resources/vue/mount의 역할.md",
-    "04_dev_resources/vue/data property의 보간법.md",
-    "04_dev_resources/vue/ref.md",
-    "02_projects/포모도로/vite를 사용할 때 package.json의 main에 정의한 진입접이 의미가 없는 이유.md",
-    "02_projects/포모도로/package.json과 package-lock.json의 관계성.md",
-    "02_projects/포모도로",
-    "04_dev_resources/용어정리/보간법.md",
-    "04_dev_resources/vue/vue란.md",
-    "04_dev_resources/vue/this.md",
     "04_dev_resources/vue/Pasted image 20241217232932.png",
     "04_dev_resources/vue/Pasted image 20241217234407.png",
-    "04_dev_resources/용어정리/선언적.md",
     "04_dev_resources/vue/Pasted image 20241217230417.png",
     "04_dev_resources/vue/Pasted image 20241217225926.png",
-    "04_dev_resources/python/__dict__.md",
-    "04_dev_resources/vue/_Index_of_vue.md",
-    "04_dev_resources/vue/모델(vue).md",
-    "04_dev_resources/_Index_of_04_dev_resources.md",
-    "04_dev_resources/implementions/2024-12-10 timer의 input구현.md",
-    "04_dev_resources/implementions/imgs/Pasted Image 20241210011403_321.png",
-    "04_dev_resources/implementions/imgs",
-    "04_dev_resources/css",
-    "04_dev_resources/implementions",
-    "Excalidraw/Scripts/Downloaded/Rename Image.svg",
-    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
-    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "무제 파일.canvas",
-    "Excalidraw",
-    "무제 파일 1.canvas",
-    "04_dev_resources/css",
-    "04_dev_resources/implementations/imgs"
+    "무제 파일 1.canvas"
   ]
 }

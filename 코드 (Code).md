@@ -13,7 +13,7 @@ tags:
 aliases:
   - The Hidden Language of Computer Hardware and Software
   - 컴퓨터 하드웨어와 소프트웨어의 숨겨진 언어
-CMDS: "[[📚 104 Terminologies]]"
+CMDS: "`"
 index: "[[🏷 Research Notes]]"
 author: "[[신희준]]"
 ---

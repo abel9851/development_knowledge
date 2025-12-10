@@ -1,5 +1,15 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "readableLineLength": true,
+  "showLineNumber": true,
+  "foldIndent": true,
+  "foldHeading": false,
+  "showIndentGuide": false,
+  "rightToLeft": false,
+  "focusNewTab": true,
+  "propertiesInDocument": "visible",
+  "autoConvertHtml": true,
+  "strictLineBreaks": false
 }

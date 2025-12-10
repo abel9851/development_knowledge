@@ -3,7 +3,8 @@
   "obsidian-kanban",
   "calendar",
   "dataview",
-  "obsidian-git",
   "obsidian-to-anki-plugin",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-style-settings",
+  "obsidian-git"
 ]
