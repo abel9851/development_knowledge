@@ -1,0 +1,1 @@
+This repository contains row, unfiltered learning logs. focus on the logic and the growth, not the formatting.
