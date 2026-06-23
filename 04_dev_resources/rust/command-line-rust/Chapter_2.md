@@ -1,0 +1,11 @@
+- echo를 rust로 구현해본다.
+- 사양
+	- echo는 스페이스로 인자를 구분한다.
+		- ex
+			- `echo Rust has assumed control`을 입력하면 입력된 인자는 4개다.
+	- 반면, quotes를 사용하면 하나의 인자로 처리된다.
+		- ex
+			- `echo "Rust has assumed control"`
+	- `man echo`를 실행하면 매뉴얼이 출력된다.
+	- -n 옵션은 맨 뒤에 줄바꿈을 하지 않도록 해준다.
+#rust #2026년 #6월 #24일 
