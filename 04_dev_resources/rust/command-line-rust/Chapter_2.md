@@ -8,4 +8,8 @@
 			- `echo "Rust has assumed control"`
 	- `man echo`를 실행하면 매뉴얼이 출력된다.
 	- -n 옵션은 맨 뒤에 줄바꿈을 하지 않도록 해준다.
-#rust #2026년 #6월 #24일 
+- unit type은 반환할 값이 없다는 뜻이지만 실제 값을 가지는 타입이다. 가질 수 있는 값은 `()`뿐이다.
+	- null pointer와는 다르다. rust에서는 null 참조를 허용하지 않는다.
+	- `println!("Hello world");`는 아무것도 return하지 않는 것처럼보이지만 사실 unit type을 반환하고 있다.
+- cli가 arguments를 찾을 때 environments를 참조한다.
+#rust #2026년 #6월 #24일 #25일
