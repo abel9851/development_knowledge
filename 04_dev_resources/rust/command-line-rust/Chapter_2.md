@@ -22,4 +22,28 @@
 println!(std::env::args()); // {}를 넣으라는 에러 발생
 println!("{}", std::env::args()); // error[E0277]: `Args` doesn't implement `std::fmt::Display` 라는 에러가 발생함과 동시에 {:?}를 사용해보라는 내용이 출력된다.
 ```
-#rust #2026년 #6월 #24일 #25일 #26일
+
+- `cargo.toml`에 정의한 crate는 root dir의 .cargo에 다운로드된다.
+	- 그리고 해당 프로젝트에는 `target/debug/deps`에 crate가 인스톨된다.
+		- version을 변경할 시, 새롭게 그 version이 `target/debug/deps`에 인스톨된다.
+	- 프로젝트별로 version관리를 위해서 가상환경을 사용하는 파이썬과는 달리, cargo는 `.cargo`에 일단 crate를 다운로드 한 후, toml로 version을 지정하여 `target/deub/deps`에 해당하는 version을 두는 것으로, version을 관리한다.
+		- 예를 들어 clap의 2.x외 3.x를 toml에 번갈아 지정해서 `cargo build`를 실행하면 `target/debug/deps`에 각각의 version이 인스톨된다.
+			- 2.x, 3.x와 같이 알기 쉬운 이름으로 디렉토리가 만들어지진 않고 해쉬값과 같은 복잡한 값으로 디렉토리가 생성된다.
+- docs의 version
+	- command-line rust 책에서는 clap의 version이 2.x다. 26년 현재는 4.x까지 나왔다. 책이 발매된게 22년이니, 4년이나 지났고, version에 따라 예제 코드도 다르다. 저자가 봤던 시기의 코드는 code chaining을 해서 구현하는 식이었는데 현재의 예제는 struct, trait, derive를 사용해서 구현하는 식으로 바뀌었다.
+		- docs를 읽었을 때에는 4.x 문서가 가장 먼저 보이므로, 저자가 쓴 코드를 그냥 그때 version에서는 이랬겠지, 라고 생각하고 지나칠려 했는데 version별 문서가 있다는 것을 떠올리고 2.x의 문서를 봤다.
+			- 책에서 사용된 예제 코드와 똑같은 형식으로 되어있었다. 
+				- 역시 실제로 직접 확인하는 것이 공식문서와 예제 코드를 매칭시킬수 있고, 공식문서를 읽는 방법도 더 효과적으로 습득할 수 있다는 것을 깨달았다.
+					- 현재 프로젝트에서 사용하는 2.34의 문서 https://docs.rs/clap/2.34.0/clap/
+-  --의 의미
+	- double dash는 double dash 이전 부분은 실행한 명령어 혹은 서브 명령어의 옵션 부분으로 인식하게 하고, 그 이후는 인자로 인식하게 한다.
+		- ex
+			- `cargo run -- -n Hello World`
+				- --가 없다면 -n은 cargo run의 옵션으로 인식된다.
+- zen mode
+	- 27일은 새벽 1시 40분정도에 눈이 떠졌기 때문에 책의 진도를 나가면서 현재 사용하고 있는 lazyvim의 zen mode를 사용해봤다. 상상한 것과와는 조금 달랐지만 lua로 옵션을 조절한다면 지금보다 더 집중해서 프로그래밍을 할 수 있을 것 같다.
+		- 문제는, zen mode로 코딩할 때 space f t 로 터미널을 띄우면, zen mode는 취소되고 화면의 레이아웃이 상단부에는 편집하고 있었던 파일, 하단부 왼쪽에도 편집하고 있었던 파일, 하단부 오른쪽에는 터미널이 생성된다. 왜 이렇게 되는지 모르겠지만 이 문제를 해결해야 쓸만 할 것 같다.
+
+
+
+#rust #2026년 #6월 #24일 #25일 #26일 #27일
